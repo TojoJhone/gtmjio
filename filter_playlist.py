@@ -13,7 +13,7 @@ def filter_playlist():
     for i in range(len(lines)):
         line = lines[i]
         if line.startswith("#EXTINF"):
-            is_india_group = 'group-title="INDIA"' in line
+            is_india_group = 'group-title="[IN] INDIA"' in line
             has_channel = any(channel.lower() in line.lower() for channel in CHANNELS_TO_KEEP)
             keep = is_india_group and has_channel
         if keep:
