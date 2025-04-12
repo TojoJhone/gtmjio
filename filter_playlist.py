@@ -1,7 +1,8 @@
 import requests
 
 SOURCE_URL = "https://raw.githubusercontent.com/Esmaeli/m3u/refs/heads/main/mvp.m3u"
-CHANNELS_TO_KEEP = ["STAR GOLD HD", "STAR PLUS HD", "STAR GOLD 2", "ZEE TV HD","AND TV", "ZEE ACTION", "ZEE BOLLYWOOD", "ZEE CINEMA"]
+CHANNELS_TO_KEEP = ["India", "Bharat", "Hindi", "English","Movies"]
+
 
 def filter_playlist():
     response = requests.get(SOURCE_URL)
