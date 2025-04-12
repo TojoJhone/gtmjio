@@ -1,5 +1,4 @@
 import requests
-import re
 
 SOURCE_URL = "https://raw.githubusercontent.com/Esmaeli/m3u/refs/heads/main/mvp.m3u"
 
@@ -31,14 +30,10 @@ def filter_playlist():
 
     for i in range(len(lines)):
         line = lines[i]
+        # Check if the line is a channel line (starts with #EXTINF)
         if line.startswith("#EXTINF"):
-            # Extract the display name from EXTINF line using regex
-            match = re.search(r'tvg-name="([^"]+)"', line)
-            if match:
-                channel_name = match.group(1).strip()
-                keep = channel_name in CHANNELS_TO_KEEP
-            else:
-                keep = False
+            # Check if any of the desired channel names appear in the description
+            keep = any(channel in line for channel in CHANNELS_TO_KEEP)
         if keep:
             filtered.append(line)
 
