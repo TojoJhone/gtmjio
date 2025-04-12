@@ -2,7 +2,7 @@ name: Update Custom M3U Playlist
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Runs daily at 3:00 AM UTC
+    - cron: '0 * * * *'  # ⏰ Runs every hour (changed from 3:00 AM)
   workflow_dispatch:     # Allows manual trigger
   push:
     branches:
