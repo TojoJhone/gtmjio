@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1761862.png" group-title="IRAN",IR| GRAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1761862&extension=ts&play_token=YwS5OJDizM
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/469181.png" group-title="IRAN",IR| SAHAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=469181&extension=ts&play_token=Iybm7bEWHk
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/550781.png" group-title="CRB| CARIBBEAN",CRB| ISLAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=550781&extension=ts&play_token=XUWzaVOBqb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/232598.png" group-title="CRB| CARIBBEAN",HT| ISLAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=232598&extension=ts&play_token=9AvDcSwTMA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/506565.png" group-title="FR| FRANCE FHD",FR| GOURMAND TV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=506565&extension=ts&play_token=XpKCAelVbN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/913110.png" group-title="TR| COCUK & DINI",TR| SEMERKAND TV 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=913110&extension=ts&play_token=3p2lXbYeha
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ZEE-BOLLYWOOD-CANADA.png" group-title="CA| FOREIGN",CA| ZEE BOLLYWOOD CANADA
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1423448&extension=ts&play_token=PH1DQOb7qe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1423446.png" group-title="CA| FOREIGN",CA| ZEE CINEMA
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1423446&extension=ts&play_token=qmuADHgqSr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1829280.png" group-title="PT| MEO+ ᴿᴬᵂ",M+| ZEE CINEMA ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1829280&extension=ts&play_token=kffK4AjTve
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CLUBLAND.png" group-title="MU| MUSIC CONCERTS",MU| CLUBLAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1372117&extension=ts&play_token=MrjEKn5a13
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/801396.png" group-title="AFR| SOMALI",SOM| PUNTLAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=801396&extension=ts&play_token=LVsL8liTmr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/806764.png" group-title="AFR| SOMALI",SOM| JUBBALAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=806764&extension=ts&play_token=Ep5CUhlS2A
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/806751.png" group-title="AFR| SOMALI",SOM| PUTLAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=806751&extension=ts&play_token=oOlt94exf1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/801387.png" group-title="AFR| SOMALI",SOM| MALILAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=801387&extension=ts&play_token=Nr7CBES657
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1829452.png" group-title="PT| MEO+ ᴴᴰ",M+| ZEE CINEMA ᴴᴰ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1829452&extension=ts&play_token=ngse0DNRkB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/945569.png" group-title="ASIA | INDIA EU",IN| ZEE TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=945569&extension=ts&play_token=F4Nb4oDaWP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/308949.png" group-title="ASIA | INDIA EU",IN| ZEE CINEMA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=308949&extension=ts&play_token=7qWKZdO5wQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/946.png" group-title="ASIA | INDIA EU",IN| ZEE CINEMA
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=946&extension=ts&play_token=BqYfYMpX5v
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/155872.png" group-title="ASIA | TELEGU",TELUGU| ZEE CINEMALU FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=155872&extension=ts&play_token=LUXloxhHDr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1529142.png" group-title="ASIA | TELEGU",TELUGU| ZEE CINEMALU HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1529142&extension=ts&play_token=yBebFfzdGB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1529141.png" group-title="ASIA | TELEGU",TELUGU| ZEE CINEMALU SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1529141&extension=ts&play_token=6N0r2Ycd2b
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/280766.png" group-title="ASIA | INDIA MOVIES",HINDI| STAR GOLD HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=280766&extension=ts&play_token=Gf8Jb88aFG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1112132.png" group-title="ASIA | INDIA MOVIES",HINDI| STAR GOLD 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1112132&extension=ts&play_token=expvrGKSxq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1532835.png" group-title="ASIA | INDIA MOVIES",HINDI| STAR GOLD 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1532835&extension=ts&play_token=aeqU4ANpko
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/156139.png" group-title="ASIA | INDIA MOVIES",HINDI| ZEE ACTION
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=156139&extension=ts&play_token=kWCSTIh33f
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/155975.png" group-title="ASIA | INDIA MOVIES",HINDI| ZEE CINEMA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=155975&extension=ts&play_token=tMAAxyKz9o
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/280772.png" group-title="ASIA | INDIA MOVIES",HINDI| ZEE CINEMA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=280772&extension=ts&play_token=FM4wxwpUwk
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1532857.png" group-title="ASIA | INDIA MOVIES",HINDI| ZEE CINEMA SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1532857&extension=ts&play_token=84yQq9FXVR
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1283087.png" group-title="NL| REGIONAAL",NL| NH NOORD HOLLAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1283087&extension=ts&play_token=0dOK7wAwPX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/110853.png" group-title="EXYU| MUZICKI KANALI",RS| GRAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=110853&extension=ts&play_token=Q6R8bA2N7K
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/921076.png" group-title="FR| CARIBBEAN",FR|  ZEE CINEMA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=921076&extension=ts&play_token=r4Jm57ZKRs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/921074.png" group-title="FR| CARIBBEAN",FR|  ZEE TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=921074&extension=ts&play_token=vWvvO2EXqf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/809740.png" group-title="ASIA | INDIA",HINDI| AND TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=809740&extension=ts&play_token=hHC2T7f8EE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/155971.png" group-title="ASIA | INDIA",HINDI| STAR PLUS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=155971&extension=ts&play_token=hOnOcsiCQv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/155992.png" group-title="ASIA | INDIA",HINDI| AND TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=155992&extension=ts&play_token=ziHIZbLUqa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/280745.png" group-title="ASIA | INDIA",HINDI| AND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=280745&extension=ts&play_token=o8B4Vc5chg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/157160.png" group-title="ASIA | INDIA",HINDI| AND TV HD USA
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=157160&extension=ts&play_token=yIxmcAh4lp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/163793.png" group-title="UK| MUSIC",UK| CLUBLAND TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=163793&extension=ts&play_token=XeNZnFeMOv
