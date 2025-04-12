@@ -28,14 +28,23 @@ def filter_playlist():
     filtered = ["#EXTM3U"]
     keep = False
 
+    # Debugging: Print the first few lines to inspect structure
+    print("First few lines of the playlist:")
+    print("\n".join(lines[:10]))  # Print the first 10 lines to inspect
+
     for i in range(len(lines)):
         line = lines[i]
-        # Check if the line is a channel line (starts with #EXTINF)
         if line.startswith("#EXTINF"):
-            # Check if any of the desired channel names appear in the description
+            print(f"Checking channel: {line}")  # Debugging: Print the current channel info
+
+            # Check if the line contains any of the desired channel names
             keep = any(channel in line for channel in CHANNELS_TO_KEEP)
         if keep:
             filtered.append(line)
+
+    # Debugging: Show filtered lines
+    print("\nFiltered channels:")
+    print("\n".join(filtered[:10]))  # Print the first 10 filtered lines
 
     with open("custom_playlist.m3u", "w", encoding="utf-8") as f:
         f.write("\n".join(filtered))
