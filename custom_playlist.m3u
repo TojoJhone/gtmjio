@@ -1,1 +1,59 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="[AF] CANAL+ AFRIQUE",[AF] NATIONAL GEOGRAPHIC
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=356128&extension=ts&play_token=2iul9grkp7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/natgeo.png" group-title="[GR] DOCU",[GR] NATIONAL GEOGRAPHIC
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=754818&extension=ts&play_token=kRdnpKczgk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/nationalgeographicchannel.png" group-title="[NL] 8K NEDERLAND",8K | NATIONAL GEOGRAPHIC CHANNEL
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=945482&extension=ts&play_token=mSWU5kjzIJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/nationalgeographichd.png" group-title="[TR] TURKEY | ULUSAL",[TR] NATIONAL GEOGRAPHIC UHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=260059&extension=ts&play_token=f8vflUnZyB
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="[FI] FINLAND FHD",[FIN] NATIONAL GEOGRAPHIC HD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=494273&extension=ts&play_token=RqhPGbPktu
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="[ALB] DOCUMENTARY",[ALB] NATIONAL GEOGRAPHIC
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262189&extension=ts&play_token=a5s0HhLkPQ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="[ALB] DOCUMENTARY",[ALB] NATIONAL GEOGRAPHIC WILD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262190&extension=ts&play_token=OuPeBPIWUA
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="[PL] KULTURA",[PL] NATIONAL GEOGRAPHIC HD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=689714&extension=ts&play_token=2fB9kKB4jY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/nationalgeographicwild.png" group-title="[CZ] CZECH",[CZ] NATIONAL GEOGRAPHIC WILD UHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=261892&extension=ts&play_token=UKKmiCutNp
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="[CA] CANADA FRANÇAISE",CA[FR] NATIONAL GEOGRAPHIC HD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=626249&extension=ts&play_token=P6kngMcZWx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/nationalgeographic.png" group-title="[RU] RUSSIA",[RUS] NATIONAL GEOGRAPHIC
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=293445&extension=ts&play_token=d9bcMjYtfH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/nationalgeographichd.png" group-title="[RU] RUSSIA",[RUS] NATIONAL GEOGRAPHIC UHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=293446&extension=ts&play_token=e46w9pfFca
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/stargoldhd.png" group-title="[IN] INDIA",[IN] STAR GOLD UHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281281&extension=ts&play_token=qhfAnjBowa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/stargoldselect.png" group-title="[IN] INDIA",[IN] STAR GOLD SELECT UHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281282&extension=ts&play_token=4d6qTINWGU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/andpicture.jpg" group-title="[IN] INDIA",[IN] AND PICTURES UHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281312&extension=ts&play_token=6MxyfM74Zx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STARGOLDHD.png" group-title="[IN] INDIA",[IN] STAR GOLD 2
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841993&extension=ts&play_token=VTVZjklnsy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/star-gold-select-.png" group-title="[IN] INDIA",[IN] STAR GOLD SELECT HD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844263&extension=ts&play_token=SBDK1kAyoY
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="[DE] 4K+ PAKET",[DE] NATIONAL GEOGRAPHIC 4K
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=699419&extension=ts&play_token=O6kY0pWcHS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/nationalgeographichd.png" group-title="[VT] VIETNAM",[VT] NATIONAL GEOGRAPHIC HD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=500890&extension=ts&play_token=z5sONC1gNE
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="[IS] ISRAEL",[IS] YES NATIONAL GEOGRAPHIC FHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=812492&extension=ts&play_token=sKhSPg9Q5Z
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="[PT] DOCUMENTARIOS",[PT] NATIONAL GEOGRAPHIC UHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=250612&extension=ts&play_token=OlLEYbOGXr
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="[PT] DOCUMENTARIOS",[PT] NATIONAL GEOGRAPHIC WILD UHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=250611&extension=ts&play_token=UxvKDLwdQ2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/nationalgeographichd.png" group-title="[SE] SERBIA",[RS] NATIONAL GEOGRAPHIC FHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262982&extension=ts&play_token=IEsSAeGOx0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/nationalgeographic.png" group-title="[NL] 16K NEDERLANDᵁᴴᴰ",16K | NATIONAL GEOGRAPHIC UHD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=945433&extension=ts&play_token=QWQKrulb9X
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/nationalgeographic.png" group-title="[BU] BULGARIA",[BG] NATIONAL GEOGRAPHIC
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=263462&extension=ts&play_token=hPrp9uQ6rB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.stargold.png" group-title="[IN] INDIA - EUROPE",[IN] STAR GOLD EU
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281254&extension=ts&play_token=0cBfaHsTSg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="[LT] LITHUANIA",[LT] NATIONAL GEOGRAPHICS HD EUROPE
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=672619&extension=ts&play_token=RdfobBAQ1n
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="[SW] SWEDEN FHD",[SE] NATIONAL GEOGRAPHIC
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=493885&extension=ts&play_token=0V0TbsJrV6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ZEE.png" group-title="DOM-TOM | TV",[FR]  ZEE TV HD
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=997781&extension=ts&play_token=zMMmpdB4Cn
