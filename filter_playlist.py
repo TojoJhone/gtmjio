@@ -1,7 +1,25 @@
 import requests
 
 SOURCE_URL = "https://raw.githubusercontent.com/Esmaeli/m3u/refs/heads/main/mvp.m3u"
-CHANNELS_TO_KEEP = ["zee tv hd", "star gold", "and pictures", "National Geographic"]
+
+# ✅ Exact (or partial) channel names you want to keep
+CHANNELS_TO_KEEP = [
+    "Zee Tv HD",
+    "&TV HD",
+    "Zee Cinema HD",
+    "Zee Action",
+    "Zee Bollywood",
+    "Zee Classic",
+    "& Pictures HD",
+    "&Flix HD",
+    "Star Gold HD",
+    "Star Bharat HD",
+    "Star Gold 2",
+    "Star Utsav Movies",
+    "Star Plus HD",
+    "Star Romance",
+    "Star Gold Thrills"
+]
 
 def filter_playlist():
     response = requests.get(SOURCE_URL)
@@ -9,11 +27,14 @@ def filter_playlist():
     
     filtered = ["#EXTM3U"]
     keep = False
-    
+
     for i in range(len(lines)):
         line = lines[i]
         if line.startswith("#EXTINF"):
-            keep = any(channel.lower() in line.lower() for channel in CHANNELS_TO_KEEP)
+            # Check if it's from group [IN] INDIA
+            is_india_group = 'group-title="[IN] INDIA"' in line
+            has_channel = any(channel.lower() in line.lower() for channel in CHANNELS_TO_KEEP)
+            keep = is_india_group and has_channel
         if keep:
             filtered.append(line)
 
