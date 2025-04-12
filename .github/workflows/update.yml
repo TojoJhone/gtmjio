@@ -11,6 +11,8 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 👈 This line gives the bot permission to push
 
     steps:
       - name: Checkout Repository
