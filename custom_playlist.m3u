@@ -1,67 +1,117 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NATIONAL GEOGRAPHIC ᴴᴰ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1691062&extension=ts&play_token=MY0SVDoyjL
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NATIONAL GEOGRAPHIC WILD ᴴᴰ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1691061&extension=ts&play_token=4vEWDrkXb4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/natgeo.png" group-title="NL| DOCUMENTAIRE",NL| NATIONAL GEOGRAPHIC HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1283054&extension=ts&play_token=e2NR0b3rMV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/natgeo.png" group-title="NL| DOCUMENTAIRE",NL| NATIONAL GEOGRAPHIC FHD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1283043&extension=ts&play_token=JM6ijlCrMB
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="NL| CANAL+ ONLINE VERMAAK ᴿᴬᵂ",PLAY+| NATIONAL GEOGRAPHIC ᴿᴬᵂ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1698763&extension=ts&play_token=kSHplnr77n
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="NL| CANAL+ ONLINE VERMAAK ᴿᴬᵂ",PLAY+| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1698762&extension=ts&play_token=InHFFVbi00
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="NL| CANAL+ ONLINE VERMAAK ᴴᴰ",PLAY+| NATIONAL GEOGRAPHIC ᴴᴰ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1698683&extension=ts&play_token=MnhvxKY3dR
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="NL| CANAL+ ONLINE VERMAAK ᴴᴰ",PLAY+| NATIONAL GEOGRAPHIC WILD ᴴᴰ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1698682&extension=ts&play_token=lENr82HcCj
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="AT| CANAL+ ONLINE UNTERHALTUNG ᴿᴬᵂ",PLAY+| NATIONAL GEOGRAPHIC ᴿᴬᵂ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1696918&extension=ts&play_token=hu6pGqVO9s
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1696918&extension=ts&play_token=TPB7M4U0LW
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="AT| CANAL+ ONLINE UNTERHALTUNG ᴿᴬᵂ",PLAY+| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1696917&extension=ts&play_token=bx6eO5f6wJ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1696917&extension=ts&play_token=PPtXh2IC17
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NATIONAL GEOGRAPHIC ᴴᴰ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1691062&extension=ts&play_token=nqoYtDo90K
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴴᴰ",PLAY+| NATIONAL GEOGRAPHIC WILD ᴴᴰ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1691061&extension=ts&play_token=NruiiGhsPQ
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| NATIONAL GEOGRAPHIC ᴿᴬᵂ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1697607&extension=ts&play_token=6vPKWceAQ8
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1697607&extension=ts&play_token=v4xJfvqikW
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="PL| CANAL+ ONLINE ROZRYWKA ᴿᴬᵂ",PLAY+| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1697606&extension=ts&play_token=ITDtz95OEd
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="CZ| SKYLINK ZÁBAVA ᴿᴬᵂ",CZ| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1725075&extension=ts&play_token=KdjQWOISS0
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="PT| MEO+ ᴿᴬᵂ",M+| NATIONAL GEOGRAPHIC ᴿᴬᵂ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1829335&extension=ts&play_token=jV7XPVg1rU
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="PT| MEO+ ᴿᴬᵂ",M+| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1829334&extension=ts&play_token=Hhk7RYoAPr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NATIONAL-GEOGRAPHIC.png" group-title="BULGARIA",BG| NATIONAL GEOGRAPHIC
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=154886&extension=ts&play_token=IGtNrfdtFT
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="IS| CELLCOM TV BOXES",IS| CELLCOM TV NATIONAL GEOGRAPHIC
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1828877&extension=ts&play_token=X7gHYXWMib
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1697606&extension=ts&play_token=A8yT7tuEsZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="LATVIA",LV| NATIONAL GEOGRAPHICS HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=666066&extension=ts&play_token=pjzMUCHdOQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NETHERLAND-HICHAM/NAT-GEO.png" group-title="EU| NEDERLAND ULTRA 4K",NL| NATIONAL GEOGRAPHIC CHANNEL 4K
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1283272&extension=ts&play_token=Us6NvWH57n
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/nationalgeographicwild.png" group-title="PL| POLAND VIP",PL-VIP| NATIONAL GEOGRAPHIC WILD RAW
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1530182&extension=ts&play_token=mByZtjV5Mg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/nationalgeographicwild.png" group-title="BE| BELGIUM VIP ᴿᴬᵂ",BE-VIP| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1668337&extension=ts&play_token=3RSLb1j0sB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="RUSSIA",RU| NATIONAL GEOGRAPHIC
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=132611&extension=ts&play_token=3YnmJ2THP6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="RUSSIA",RU| NATIONAL GEOGRAPHIC HD
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=132627&extension=ts&play_token=cdN5ToDahw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="TR| BELGESEL KANALLARI",TR| NATiONAL GEOGRAPHiC 4K
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=913186&extension=ts&play_token=axmVIhwo3o
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="TR| BELGESEL KANALLARI",TR| NATiONAL GEOGRAPHiC HD
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=913185&extension=ts&play_token=urGJzeqBdy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="EXYU| DOKUMENTARNI",RS| NATIONAL GEOGRAPHIC FHD
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=161984&extension=ts&play_token=YuJo6ey3eh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="VIETNAM",VN| NATIONAL GEOGRAPHIC HD
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=157345&extension=ts&play_token=pUxNNUiezb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO--PL.png" group-title="PL| DOKUMENTALNE",PL| NATIONAL GEOGRAPHIC FHD
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=880438&extension=ts&play_token=gE61HgGGI3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO--PL.png" group-title="PL| DOKUMENTALNE",PL| NATIONAL GEOGRAPHIC HD
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=880298&extension=ts&play_token=ozRUkmknh7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="ALBANIA",ALB| NATIONAL GEOGRAPHIC
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=116113&extension=ts&play_token=zJAv4mH1f7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographicwild.png" group-title="ALBANIA",ALB| NATIONAL GEOGRAPHIC WILD
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=116325&extension=ts&play_token=5XiAeNjM8g
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="RO| FOCUS SAT VIP",RO| NATIONAL GEOGRAPHIC ᴿᴬᵂ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1741024&extension=ts&play_token=SuRIFxzgmm
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="RO| FOCUS SAT VIP",RO| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1741011&extension=ts&play_token=SggQDv4eFx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/nationalgeographic.png" group-title="LAT| MEXICO",MXC| NATIONAL GEOGRAPHIC
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1547304&extension=ts&play_token=BFBqumIdgK
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1530182&extension=ts&play_token=0MaOTU6t7S
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="PT| MEO+ ᴴᴰ",M+| NATIONAL GEOGRAPHIC ᴴᴰ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1829507&extension=ts&play_token=hXIPffgQjU
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1829507&extension=ts&play_token=WObakf8m3w
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="PT| MEO+ ᴴᴰ",M+| NATIONAL GEOGRAPHIC WILD ᴴᴰ
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1829506&extension=ts&play_token=elpBa9qYup
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1829506&extension=ts&play_token=3830OISdxF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/nationalgeographicwild.png" group-title="BE| BELGIUM VIP ᴿᴬᵂ",BE-VIP| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1668337&extension=ts&play_token=CEBkT57w3j
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/nationalgeographic.png" group-title="LAT| MEXICO",MXC| NATIONAL GEOGRAPHIC
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1547304&extension=ts&play_token=VndrwtDh99
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="IS| ISRAEL HD",ISR| YES NATIONAL GEOGRAPHIC FHD
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=1035209&extension=ts&play_token=uwq93oY1yW
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1035209&extension=ts&play_token=vJ8rkoz4yM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/063nationalgeographic.png" group-title="AFR| AZAM NETWORK",AF| NATIONAL GEOGRAPHIC WILD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1118079&extension=ts&play_token=exGye4WK4K
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="NL| ODIDO VERMAAK ᴴᴰ ᴳᴼᴸᴰ",OD| NATIONAL GEOGRAPHIC ᴴᴰ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1687132&extension=ts&play_token=wpwSbTfQd0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="TR| BELGESEL KANALLARI",TR| NATiONAL GEOGRAPHiC 4K
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=913186&extension=ts&play_token=JHkqQQMWyu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="TR| BELGESEL KANALLARI",TR| NATiONAL GEOGRAPHiC HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=913185&extension=ts&play_token=vssRJSipMC
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="LITHUANIA",LT| NATIONAL GEOGRAPHICS HD EUROPE
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=650605&extension=ts&play_token=UndtGgCOzx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeowildhdcz.png" group-title="CZ| KULTURNÍ",CZ| NATIONAL GEOGRAPHIC WILD HD
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=98295&extension=ts&play_token=dD2s0cile3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographicwild.png" group-title="CZ| KULTURNÍ",CZ| NATIONAL GEOGRAPHIC WILD HEVC
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=98247&extension=ts&play_token=KpURXUJSrK
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=650605&extension=ts&play_token=n6lRsRZuHo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/280766.png" group-title="ASIA | INDIA MOVIES",HINDI| STAR GOLD HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=280766&extension=ts&play_token=6b9o7D6biS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/280772.png" group-title="ASIA | INDIA MOVIES",HINDI| ZEE CINEMA HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=280772&extension=ts&play_token=Tnxs3zJIVy
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="RO| FOCUS SAT VIP",RO| NATIONAL GEOGRAPHIC ᴿᴬᵂ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1741024&extension=ts&play_token=HdzY2uZ5YQ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="RO| FOCUS SAT VIP",RO| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1741011&extension=ts&play_token=nNz1TrynS4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NATIONAL-GEOGRAPHIC.png" group-title="GR| ΝΤΟΚΙΜΑΝΤΈΡ/DOCUMENTARY",GR| NATIONAL GEOGRAPHIC HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=307800&extension=ts&play_token=lg9mCeSg0O
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NATIONAL-GEOGRAPHIC-WILD.png" group-title="GR| ΝΤΟΚΙΜΑΝΤΈΡ/DOCUMENTARY",GR| NATIONAL GEOGRAPHIC WILD HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=307799&extension=ts&play_token=QEwyuNjVww
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="RUSSIA",RU| NATIONAL GEOGRAPHIC
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=132611&extension=ts&play_token=BsLFb6TYA4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="RUSSIA",RU| NATIONAL GEOGRAPHIC HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=132627&extension=ts&play_token=Fx7wdIy2oC
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="IS| CELLCOM TV BOXES",IS| CELLCOM TV NATIONAL GEOGRAPHIC
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1828877&extension=ts&play_token=NziZOxmS2Q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="VIETNAM",VN| NATIONAL GEOGRAPHIC HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=157345&extension=ts&play_token=uccnObLc1s
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="DENMARK NORSLY PLAY ᴿᴬᵂ",PLAY| NATIONAL GEOGRAPHIC ᴿᴬᵂ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1811650&extension=ts&play_token=WDIO5WIup3
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="PT| MEO+ ᴿᴬᵂ",M+| NATIONAL GEOGRAPHIC ᴿᴬᵂ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1829335&extension=ts&play_token=wGSVWc5lfa
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="PT| MEO+ ᴿᴬᵂ",M+| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1829334&extension=ts&play_token=RyLNbhe47W
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="NL| ODIDO VERMAAK ᴿᴬᵂ ᴳᴼᴸᴰ",OD| NATIONAL GEOGRAPHIC ᴿᴬᵂ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1687319&extension=ts&play_token=d8jwDBG4bL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="FINLAND HD & HEVC",FIN| NATIONAL GEOGRAPHIC HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=444237&extension=ts&play_token=wTzcP05PVa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO--PL.png" group-title="PL| DOKUMENTALNE",PL| NATIONAL GEOGRAPHIC FHD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=880438&extension=ts&play_token=8Qc7kn9yCg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO--PL.png" group-title="PL| DOKUMENTALNE",PL| NATIONAL GEOGRAPHIC HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=880298&extension=ts&play_token=sPfsTgZ8Uv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="EXYU| DOKUMENTARNI",RS| NATIONAL GEOGRAPHIC FHD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=161984&extension=ts&play_token=pu1NgkWHI8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/nationalgeographic.png" group-title="SWEDEN HD & HEVC",SWE| NATIONAL GEOGRAPHIC
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=79991&extension=ts&play_token=c4tdSRku5W
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/nationalgeographic.png" group-title="SWEDEN HD & HEVC",SWE| NATIONAL GEOGRAPHIC HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=79990&extension=ts&play_token=DKFvvbWfkX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/nationalgeographic.png" group-title="SWEDEN HD & HEVC",SWE| NATIONAL GEOGRAPHIC HEVC
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=965355&extension=ts&play_token=EuCg6k4uHu
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographic.png" group-title="AFR| DSTV NETWORK",SA| NATIONAL GEOGRAPHIC HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1741533&extension=ts&play_token=7hAR6uLm3H
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="AFR| DSTV NETWORK",SA| NATIONAL GEOGRAPHIC WILD HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1741532&extension=ts&play_token=RU2fT3Zx2h
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/921076.png" group-title="FR| CARIBBEAN",FR|  ZEE CINEMA HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=921076&extension=ts&play_token=xJHOiA8hiU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeowildhd.png" group-title="AFR| GENERAL",UGA| NATIONAL GEOGRAPHIC WILD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=833256&extension=ts&play_token=Db7uQCylRi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeo.png" group-title="AFR| GENERAL",UGA| NATIONAL GEOGRAPHIC
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=833255&extension=ts&play_token=RvNq9Yq4N6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NATIONAL-GEOGRAPHIC.png" group-title="BULGARIA",BG| NATIONAL GEOGRAPHIC
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=154886&extension=ts&play_token=a9DmY3dCwi
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NATIONAL%20GEOGRAPHIC.png" group-title="EU| GERMANY HEVC",DE| NATIONAL GEOGRAPHIC HEVC
-http://trxx.in:80/play/live.php?mac=00:1A:79:B4:6F:FE&stream=889534&extension=ts&play_token=F7p0LUMQXn
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=889534&extension=ts&play_token=nhjF7ii5gK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="ALBANIA",ALB| NATIONAL GEOGRAPHIC
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=116113&extension=ts&play_token=AWfWtGNjeY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographicwild.png" group-title="ALBANIA",ALB| NATIONAL GEOGRAPHIC WILD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=116325&extension=ts&play_token=RZxBWtgUjN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeowildhdcz.png" group-title="CZ| KULTURNÍ",CZ| NATIONAL GEOGRAPHIC WILD HD
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=98295&extension=ts&play_token=XzPZlg0li6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographicwild.png" group-title="CZ| KULTURNÍ",CZ| NATIONAL GEOGRAPHIC WILD HEVC
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=98247&extension=ts&play_token=GUyi2E2bT3
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nationalgeographicwild.png" group-title="CZ| SKYLINK ZÁBAVA ᴿᴬᵂ",CZ| NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ
+http://brekna.club:80/play/live.php?mac=00:1A:79:B5:12:16&stream=1725075&extension=ts&play_token=VA2F6yXq0X
