@@ -1,1 +1,35 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1423427.png" group-title="CA| FOREIGN",CA| ATN DD BHARATI
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1423427&extension=ts&play_token=CyZ62jEW1E
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1529342.png" group-title="ASIA | GUJARATI/ASSAM",GUJARATI| TV9 BHARATVARSH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1529342&extension=ts&play_token=FDUKaVKgg6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1526171.png" group-title="ASIA | INDIA NEWS",IN-NEWS| BHARAT 24
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1526171&extension=ts&play_token=vPsHBE2NuF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1526169.png" group-title="ASIA | INDIA NEWS",IN-NEWS| BHARAT EXPRESS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1526169&extension=ts&play_token=FumrFYzSp4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BHARAT-SAMACHAR.png" group-title="ASIA | INDIA NEWS",IN-NEWS| BHARAT SAMACHAR
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1526178&extension=ts&play_token=pf2zfgxqdH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1526153.png" group-title="ASIA | INDIA NEWS",IN-NEWS| C NEWS BHARAT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1526153&extension=ts&play_token=iSUzjX9rzc
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1112142.png" group-title="ASIA | INDIA NEWS",IN-NEWS| DD BHARATI
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1112142&extension=ts&play_token=BMC1JKiRQF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/280868.png" group-title="ASIA | INDIA NEWS",IN-NEWS| NEWS 11 BHARAT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=280868&extension=ts&play_token=U0NkqfL6N9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1526145.png" group-title="ASIA | INDIA NEWS",IN-NEWS| REPUBLIC BHARAT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1526145&extension=ts&play_token=QBTWqe6BvU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/156040.png" group-title="ASIA | INDIA NEWS",IN-NEWS| REPUBLIC BHARAT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=156040&extension=ts&play_token=n0wD5RHWlr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1526124.png" group-title="ASIA | INDIA NEWS",IN-NEWS| TIMES NOW NAVBHARAT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=1526124&extension=ts&play_token=GU9gtaFHlT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/280908.png" group-title="ASIA | INDIA NEWS",IN-NEWS| TV9 BHARATVARSH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=280908&extension=ts&play_token=ewGJjbz247
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/57119.png" group-title="ASIA | INDIA EU",IN| UTSAV BHARAT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=57119&extension=ts&play_token=VOA6u901aP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/697929.png" group-title="ASIA | INDIA EU",IN| UTSAV BHARAT (BK)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=697929&extension=ts&play_token=iQwsj8aGQ6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/156173.png" group-title="ASIA | INDIA",HINDI| STAR BHARAT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=156173&extension=ts&play_token=s7UqrYoqBF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/280765.png" group-title="ASIA | INDIA",HINDI| STAR BHARAT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=280765&extension=ts&play_token=VMuE1q78G7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/945579.png" group-title="ASIA | INDIA",HINDI| STAR BHARAT UK
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:50:BA:D0&stream=945579&extension=ts&play_token=fiFg5TL6WQ
