@@ -1,35 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/NatGeo.es.png" group-title="ES : ESPAŇA",(ES) National Geographic HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30192&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/romania.png" group-title="RO : DOCU & REALITATE",(RO) National Geographic 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=31334&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/norway.png" group-title="SC : DENMARK:NORWAY",(NO) National Geographic Wild HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=44852&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/denmark.png" group-title="SC : DENMARK:NORWAY",(DK) National Geographic 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41885&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png" group-title="DE - DOKUMENTATION",(DE) National Geographic 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=7522&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-states-of-america.png" group-title="USA : AMERICA",(US) National Geographic
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47319&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-albania.png" group-title="AL/KS : SHQIPERIA/KOSOVA",(AL) National Geographic
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47423&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) National Geographic HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=55797&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kroatie.png" group-title="HR : HRVATSKA",(HR) National Geographic Channel
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39580&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/nn/nat_geo_us.png" group-title="AR : ARABIC",(AR) National Geographic Abu Dhabi
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=105854&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/portugalvlag.png" group-title="PT : PORTUGAL",(PT) National Geographic
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30283&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) NATIONAL GEOGRAPHIC HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=178125&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nationalgeographichd.png" group-title="NL - DOCUMENTARY",(NL) National Geographic 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=7677&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png" group-title="UK - ENGLISH",(UK) National Geographic Channel HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=38347&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png" group-title="PL - POLSKA",(PL) National Geographic 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=42978&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/finland.png" group-title="FI : FINLAND",(FI) National Geographic HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=53528&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Cinema HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40025&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/ZEE-CINEMA.png" group-title="FR| CARIBBEAN HD/4K",FR:  ZEE CINEMA HD
+http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=693928&extension=ts&play_token=8cHijexguW
