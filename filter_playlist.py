@@ -1,7 +1,7 @@
 import requests
 
 SOURCE_URL = "https://raw.githubusercontent.com/Esmaeli/m3u/refs/heads/main/mvp.m3u"
-CHANNELS_TO_KEEP = ["[IN]", "BHARAT"]
+CHANNELS_TO_KEEP = ["STAR","INDIA","ZEE","COLORS"]
 
 def filter_playlist():
     response = requests.get(SOURCE_URL)
