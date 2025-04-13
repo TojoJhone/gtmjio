@@ -1,235 +1,235 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG - SPORT",(BG) Trace Sport Stars HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56278&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56278&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLigaTVBAR 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=121009&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=121009&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=121005&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=121005&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 3 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=120897&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=120897&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 2 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=120896&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=120896&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-states-of-america.png" group-title="USA : AMERICA",(US) Starz Comedy HD+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47287&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=47287&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-states-of-america.png" group-title="USA : AMERICA",(US) Starz Edge HD+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47310&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=47310&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarComedia.es.png" group-title="ES : CINE",(ES) Movistar Comedia HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30240&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=30240&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarEstrenos.es.png" group-title="ES : CINE",(ES) Movistar Estrenos HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30238&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=30238&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarAccion.es.png" group-title="ES : CINE",(ES) Movistar Action HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30241&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=30241&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarDCine.es.png" group-title="ES : CINE",(ES) Movistar Drama HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30239&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=30239&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarSeries.es.png" group-title="ES : CINE",(ES) Movistar Series HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30237&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=30237&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cstar.png" group-title="FR - FRANCE",(FR) Cstar HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=37815&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=37815&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="NL - NEDERLAND ᵘˡᵗʳᵃ",(NL)⚡️STAR CHANNEL ᵘˡᵗʳᵃ
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=184211&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=184211&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Zee TV HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=55850&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=55850&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/omroepzeeland.png" group-title="NL - REGIONAAL",(NL) Omroep Zeeland
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=78292&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=78292&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/starchannelgr.png" group-title="GR - GREECE",(GR) Star HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46558&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=46558&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviesstarshd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Stars 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=3039&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=3039&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Star Jalsha
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46568&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=46568&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Zee Bangla Cinema
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46570&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=46570&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Zee Bangla HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46571&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=46571&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Daystar HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157326&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=157326&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Al Jazeera HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157315&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=157315&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Star Life HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157297&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=157297&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Zee World HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157296&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=157296&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-bosna.png" group-title="BH : BOSNIA",(BH) Al Jazeera Balkans
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=100491&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=100491&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/colorshd.png" group-title="UK - ENGLISH",(UK) Colors
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=38205&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=38205&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="UK - ENGLISH",(UK) Al Jazeera News 4K+ UK
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=38430&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=38430&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/Albania/star_plus_al.png" group-title="AL/KS : SHQIPERIA/KOSOVA",(AL) Star Plus 4K++
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=105065&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=105065&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG - FILM",(BG) MovieStar
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56243&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56243&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="AR : ARABIC NA +6H",(AR) ZEE ALWAN +6H
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=152809&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=152809&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="AR : ARABIC NA +6H",(AR) ZEE AFLAM +6H
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=152808&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=152808&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/romania.png" group-title="RO : ROMAINE",(RO) Antena Stars
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=31376&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=31376&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/romania.png" group-title="RO : ROMAINE",(RO) Telestar 1
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=121934&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=121934&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/finland.png" group-title="FI : FINLAND",(FI) C More Stars 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=89609&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=89609&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Action
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39679&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39679&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Premiere 1
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39678&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39678&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Premiere 2
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39677&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39677&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) Star Lite 
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=183794&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=183794&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) STAR ASIA NEWS 
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=183792&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=183792&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) STAR SPORTS TAMIL VIP 
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=183764&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=183764&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) STARS.TV
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=51395&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=51395&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Star Wars
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=144867&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=144867&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : ARABIC",(AR) Zee Aflam
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=42119&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=42119&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : ARABIC",(AR) Zee Alwan
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41700&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41700&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeeradocumentary.png" group-title="AR : ARABIC",(AR) Al Jazeera Documentary
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41711&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41711&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="AR : ARABIC",(AR) Al JAZEERA ENGLISH
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41721&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41721&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="AR : ARABIC",(AR) Al Jazeera Mubasher
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41712&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41712&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeerachannelqahd.png" group-title="AR : ARABIC",(AR) Al Jazeera
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41722&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41722&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/osnmovieshd.png" group-title="AR : CINEMA",(AR) OSN Star Movies
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41839&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41839&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax.png" group-title="AR : CINEMA",(AR) Star Cinema 1
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41760&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41760&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax2hd.png" group-title="AR : CINEMA",(AR) Star Cinema 2
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41759&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41759&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Deportes 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56336&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56336&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Formula 1 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56337&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56337&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Liga de Campeones 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56334&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56334&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Golf HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56338&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56338&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/norway.png" group-title="SC : DENMARK:NORWAY",(NO) C More Stars 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=44896&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=44896&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/denmark.png" group-title="SC : DENMARK:NORWAY",(DK) C More Stars HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41857&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41857&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-albania.png" group-title="AL : CİNEMA",(AL) Star Plus HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=50517&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=50517&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kroatie.png" group-title="HR : HRVATSKA",(HR) Al Jazeera Balkans
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39597&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39597&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="AR : EGYPT",(AR) STAR CINEMA 1
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=167608&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=167608&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : EGYPT",(AR) Star Cinema 1
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=154231&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=154231&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : EGYPT",(AR) Star Cinema 2
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=154230&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=154230&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Star Tv 4K
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=2855&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=2855&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Star Tv HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=2854&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=2854&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurostartr.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Euro Star
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=2987&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=2987&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="NL - NEDERLAND ʰᵉᵛᶜ",(NL) STAR CHANNEL HEVC
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=151274&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=151274&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Star Tv ᵘˡᵗʳᵃ
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=182947&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=182947&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_stars_hd.png" group-title="SW : SWEDEN",(SW) TV4 Stars HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39068&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39068&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",✦✦✦✦ INDIA ✦✦✦✦
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47815&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=47815&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee TV HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40024&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40024&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Action
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40023&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40023&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Cinema HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40025&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40025&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Punjabi
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40027&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40027&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee News HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39949&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39949&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Bangla Cinema
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39954&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39954&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Bollywood HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40026&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40026&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Talkies
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40028&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40028&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) SET ASIA
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=78299&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=78299&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) NDTV 24x7
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39976&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39976&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Living Foodz
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39980&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39980&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 1 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39960&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39960&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 2 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39959&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39959&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 3 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39958&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39958&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Music
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40032&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40032&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Plus
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40033&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40033&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Movies
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40031&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40031&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) UTV Movies
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40022&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40022&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Jaya Movies
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39983&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39983&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Plus HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40009&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40009&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Jalsha
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40017&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40017&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Gold
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39966&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39966&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Vijay
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39961&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39961&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Sports 1 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39965&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39965&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Sports 2 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40019&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40019&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) PTV Sports
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39975&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39975&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony TV HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40008&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40008&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony TV UK
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39987&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39987&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony MIX HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40014&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40014&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Pal
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39969&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39969&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Sab HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40015&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40015&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Six HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39967&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39967&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Colors IN HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40034&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40034&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zing 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39939&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39939&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Rishtey Colors
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40005&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40005&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Geo News
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40042&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40042&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Jaya TV
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40002&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40002&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Aaj Tak
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39994&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39994&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) 9X Jalwa
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39997&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39997&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Colors UK
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39998&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39998&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) 9XM
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39995&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39995&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) PTC Punjabi
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40000&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40000&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Geo TV
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40040&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40040&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) MAA Gold
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39979&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39979&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Times Now
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39956&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39956&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Willow Cricket HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39955&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39955&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Kadak
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40038&extension=ts
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40038&extension=ts
