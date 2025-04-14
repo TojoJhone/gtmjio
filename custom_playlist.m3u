@@ -1,915 +1,235 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8204.jpg?6338" group-title="US| MOVIES HD/4K",US: START TV
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325989&extension=ts&play_token=34RYRdhXcX
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3327.jpg?67411" group-title="US| MOVIES HD/4K",US: CINEMAX 5 STAR MAX
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=436537&extension=ts&play_token=NsYWF2EjUo
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3327.jpg?43623" group-title="US| MOVIES HD/4K",US: CINEMAX 5 STARMAX 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=436158&extension=ts&play_token=aiZr9sPXhh
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325947&extension=ts&play_token=sqaGp1whLC
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ BLACK HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325961&extension=ts&play_token=VTmx1T16IM
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ CINEMA HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325959&extension=ts&play_token=FgXqHL4gIi
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ CINEMA EAST HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325960&extension=ts&play_token=cdRA6OoMED
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ COMEDY HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325958&extension=ts&play_token=2makfUJWAz
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ EAST HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325957&extension=ts&play_token=nXh04kFQXI
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ WEST HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325945&extension=ts&play_token=HJ1kptzd5u
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ EDGE HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325956&extension=ts&play_token=ji0FeoisKH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ FAMILY HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325948&extension=ts&play_token=v6RsVyh2IA
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ ENCORE HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325950&extension=ts&play_token=OwIRk7p1JH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ ENCORE EAST HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325952&extension=ts&play_token=1sYey9XHpg
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/120/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ ENCORE ACTION HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325955&extension=ts&play_token=NRHQVYQn4G
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ ENCORE BLACK HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325954&extension=ts&play_token=ktE4sTkupe
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ ENCORE CLASSIC HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325953&extension=ts&play_token=ltbIeDWbid
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ ENCORE FAMILY HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325951&extension=ts&play_token=rm4RHhAtFU
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ KIDS & FAMILY HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325946&extension=ts&play_token=Es8RPb8MAj
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="US| MOVIES HD/4K",US: STARZ ENCORE WEST HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325949&extension=ts&play_token=c0DIeawD7U
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?6771" group-title="US| MOVIES HD/4K",US: STARZ ENCORE WESTERNS HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325994&extension=ts&play_token=zEEEXfKde4
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13768.png?ver=4263" group-title="US| WNBA PPV",WNBA 1 Minnesota Lynx at New York Liberty start:2024-10-21 01:00:00 stop:2024-10-21 03:00:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=812594&extension=ts&play_token=uySko2DqLy
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13768.png?ver=4263" group-title="US| WNBA PPV",WNBA 2 Postgame Press Conference: Minnesota Lynx vs. New York Liberty (Game 5) start:2024-10-21 03:00:00 stop:2024-10-21 03:59:0
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=812595&extension=ts&play_token=HHuRwtnuQy
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13768.png?ver=4263" group-title="US| WNBA PPV",WNBA 3 Postgame Press Conference: New York Liberty vs. Las Vegas Aces (Game 4) start:2024-10-06 22:00:00 stop:2024-10-07 00:00:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=812596&extension=ts&play_token=gLclEJGsZD
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13768.png?ver=4263" group-title="US| WNBA PPV",WNBA 4 Minnesota Lynx @ Connecticut Sun start:2024-10-06 22:00:00 stop:2024-10-07 00:00:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=812597&extension=ts&play_token=Ir5qvDTZuY
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13768.png?ver=4263" group-title="US| WNBA PPV",WNBA 5 Postgame Press Conference: Phoenix Mercury vs. Minnesota Lynx (Game 1) start:2024-09-23 00:00:00 stop:2024-09-23 02:00:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=812598&extension=ts&play_token=lEM00KCbnh
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13768.png?ver=4263" group-title="US| WNBA PPV",WNBA 6 Postgame Press Conference: Seattle Storm vs. Las Vegas Aces (Game 1) start:2024-09-23 04:55:00 stop:2024-09-23 06:55:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=812599&extension=ts&play_token=L7o8NC3YZ2
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13768.png?ver=4263" group-title="US| WNBA PPV",WNBA 7 Postgame Press Conference: Atlanta Dream vs. New York Liberty (Game 1) start:2024-09-22 20:00:00 stop:2024-09-22 22:00:0
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=812600&extension=ts&play_token=ZqDtERlYOA
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13768.png?ver=4263" group-title="US| WNBA PPV",WNBA 8 Postgame Press Conference: Indiana Fever vs. Connecticut Sun (Game 1) start:2024-09-22 22:00:00 stop:2024-09-23 00:00:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=812601&extension=ts&play_token=RwVsbieH5W
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA TEAM PPV",NBA: INDIANA PACERS ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=633389&extension=ts&play_token=faQhFQPeWq
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA TEAM PPV",NBA: INDIANA PACERS SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=633388&extension=ts&play_token=YUYN3oDbL7
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA TEAM PPV",NBA: INDIANA PACERS
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607667&extension=ts&play_token=vt8YF5QaNq
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13725.jpg?ver=63614" group-title="US| B1G+ PPV",BTN+ 9 HD (D): B1G+ | Softball | Indiana at Wisconsin | Sun 13 Apr 13:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=615491&extension=ts&play_token=DFTBNW6T8q
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13725.jpg?ver=63614" group-title="US| B1G+ PPV",BTN+ 17 HD (D): B1G+ | Baseball | Indiana at Illinois | Sun 13 Apr 14:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=615483&extension=ts&play_token=WmWHHxwBde
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13725.jpg?ver=63614" group-title="US| B1G+ PPV",BTN+ 24 HD (D): B1G+ | Softball | IU Indianapolis at Purdue | Tue 15 Apr 17:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=615476&extension=ts&play_token=prDlJeYqaH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13725.jpg?ver=63614" group-title="US| B1G+ PPV",BTN+ 27 HD (D): B1G+ | Baseball | Indiana St. at Indiana | Tue 15 Apr 18:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=615473&extension=ts&play_token=NcYk0p3UVi
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13621.png?ver=501" group-title="US| ABC HD/4K",US: ABC 6 (WRTV) INDIANAPOLIS HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=430309&extension=ts&play_token=MzvSXqwFxT
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13622.png?ver=58093" group-title="US| CBS HD/4K",US: CBS 4 (WTTV) INDIANAPOLIS HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=430002&extension=ts&play_token=AI9Y9zJHTm
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="US| FLO SPORTS PPV",Flo (FLSP) 223: 2025 Indianapolis vs Purdue Northwest - Doubleheader - 22/04 14:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=615578&extension=ts&play_token=HuTy7RIUi3
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 1 | Nationals x Pirates start:2025-04-14 23:40:00 stop:2025-04-15 06:53:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762779&extension=ts&play_token=VehNXDQuZF
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 2 | Giants x Phillies start:2025-04-14 23:45:00 stop:2025-04-15 06:58:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762778&extension=ts&play_token=YrRBInDRyy
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 3 | Red Sox x Rays start:2025-04-15 00:05:00 stop:2025-04-15 07:18:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762777&extension=ts&play_token=3ZUIojDZOz
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 4 | Royals x Yankees start:2025-04-15 00:05:00 stop:2025-04-15 07:18:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762776&extension=ts&play_token=eER8mNeCVO
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 5 | Braves x Blue Jays start:2025-04-15 00:07:00 stop:2025-04-15 07:20:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762775&extension=ts&play_token=2eWOUjOV9S
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 6 | Mets x Twins start:2025-04-15 00:40:00 stop:2025-04-15 07:53:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762774&extension=ts&play_token=DVOhId4eEL
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 7 | Tigers x Brewers start:2025-04-15 00:40:00 stop:2025-04-15 07:53:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762773&extension=ts&play_token=1w2Idnwp7H
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 8 | Astros x Cardinals start:2025-04-15 00:45:00 stop:2025-04-15 07:58:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762772&extension=ts&play_token=nZkRuSc59l
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 9 | Cubs x Padres start:2025-04-15 02:40:00 stop:2025-04-15 09:53:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762771&extension=ts&play_token=j7XQw5RaEy
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 10 | Rockies x Dodgers start:2025-04-15 03:10:00 stop:2025-04-15 10:23:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762770&extension=ts&play_token=xlXznR1qvT
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 11 | Mets x Athletics start:2025-04-13 21:05:00 stop:2025-04-14 04:18:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762769&extension=ts&play_token=l1LFTPs3Vi
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 12 | Rockies x Padres start:2025-04-13 21:10:00 stop:2025-04-14 04:23:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762768&extension=ts&play_token=cjg7NtAreO
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 13 | Rangers x Mariners start:2025-04-13 21:10:00 stop:2025-04-14 04:23:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762767&extension=ts&play_token=a3UDfsO9lP
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 14 | Brewers x D-backs start:2025-04-13 21:10:00 stop:2025-04-14 04:23:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762766&extension=ts&play_token=Xhd8ETwWND
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 15 | Cubs x Dodgers start:2025-04-14 00:10:00 stop:2025-04-14 07:23:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762765&extension=ts&play_token=3Vk4j1BuMW
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="US| MLB PPV",MLB 16 | Guardians x Angels start:2025-04-06 21:07:00 stop:2025-04-07 04:20:20
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=762764&extension=ts&play_token=QMvQG6NBJH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13623.png?ver=41451" group-title="US| NBC HD/4K",US: NBC 13 (WTHR) INDIANAPOLIS HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=429880&extension=ts&play_token=6WGPQBqkg8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 01: Bucks (MIL) x Pistons (DET) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607601&extension=ts&play_token=Iw0T7ZLtA9
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 02: Knicks (NYK) x Timberwolves (MIN) start:2025-01-18 00:20:00 stop:2025-01-18 04:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607600&extension=ts&play_token=9JeTRiloqE
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 03: Heat (MIA) x Wizards (WAS) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607599&extension=ts&play_token=NCH9QCgUpB
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 04: Cavaliers (CLE) x Pacers (IND) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607598&extension=ts&play_token=AewFGAIDIp
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 05: Nets (BKN) x Knicks (NYK) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607597&extension=ts&play_token=VcE8ea96fH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 06: Celtics (BOS) x Hornets (CHA) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607596&extension=ts&play_token=wAh6jVgAVy
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 07: Hawks (ATL) x Magic (ORL) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607595&extension=ts&play_token=OUalD90DEn
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 08: Kings (SAC) x Suns (PHX) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607594&extension=ts&play_token=Su14mMBilY
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 09 : Trail Blazers (POR) x Lakers (LAL) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607593&extension=ts&play_token=Bb5FtJpT9L
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 10 : Warriors (GSW) x Clippers (LAC) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607592&extension=ts&play_token=hfmGwTaxdi
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 11 : Spurs (SAS) x Raptors (TOR) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607591&extension=ts&play_token=PT9QhtHu0O
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 12 : Pelicans (NOP) x Thunder (OKC) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607590&extension=ts&play_token=cy72gIqOEW
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 13 : Timberwolves (MIN) x Jazz (UTA) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607589&extension=ts&play_token=q5mwmInkRq
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 14 : Grizzlies (MEM) x Mavericks (DAL) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607588&extension=ts&play_token=vflCYXFoPb
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 15 : Rockets (HOU) x Nuggets (DEN) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=607587&extension=ts&play_token=xOjfc4UdYq
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 01: Bucks (MIL) x Pistons (DET) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616096&extension=ts&play_token=Y6MrDzk5aS
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 02: 76ers (PHI) x Bulls (CHI) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616095&extension=ts&play_token=LXKLyREITa
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 03: Heat (MIA) x Wizards (WAS) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616094&extension=ts&play_token=kRIIjmlIVR
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 04: Cavaliers (CLE) x Pacers (IND) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616093&extension=ts&play_token=frBRLDGKTD
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 05: Nets (BKN) x Knicks (NYK) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616092&extension=ts&play_token=6Hgf4UHaNP
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 06: Celtics (BOS) x Hornets (CHA) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616091&extension=ts&play_token=sM8RUp7eP9
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 07: Hawks (ATL) x Magic (ORL) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616090&extension=ts&play_token=Chj65st1D3
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 08: Kings (SAC) x Suns (PHX) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616089&extension=ts&play_token=77RJwVBGbL
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 09 : Trail Blazers (POR) x Lakers (LAL) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616088&extension=ts&play_token=HdBDvpb3Oi
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 10 : Warriors (GSW) x Clippers (LAC) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616087&extension=ts&play_token=UOwSsXlaAx
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 11 : Spurs (SAS) x Raptors (TOR) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616086&extension=ts&play_token=A9PjAViW8W
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 12 : Pelicans (NOP) x Thunder (OKC) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616085&extension=ts&play_token=zzelvXeUoj
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 13 : Timberwolves (MIN) x Jazz (UTA) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616084&extension=ts&play_token=Tp5gELDvbH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 14 : Grizzlies (MEM) x Mavericks (DAL) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616083&extension=ts&play_token=D3fxYAHdLu
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="US| NBA PPV",NBA 15 : Rockets (HOU) x Nuggets (DEN) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=616082&extension=ts&play_token=0sI7Nrijlx
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3367.jpg?18634" group-title="US| NEWS HD/4K",US: AL JAZEERA ENGLISH
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325829&extension=ts&play_token=juurjC3GcN
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13724.jpeg?ver=5274" group-title="US| ESPN PLAY PPV",(US) ESPN PLAY 6 (D): New Zealand National Basketball League | Hawkes Bay Hawks vs. Indian Panthers (Round 6) | 04-15-2025 3:00am
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=614557&extension=ts&play_token=dMFbCWOtxo
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/24.7.png" group-title="US| 24/7 PPV TV",US: 24/7 INDIANA JONES
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=485190&extension=ts&play_token=xLjwFOLQgo
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/24.7.png" group-title="US| 24/7 PPV TV",US: 24/7 STAR TREK MOVIES
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=485171&extension=ts&play_token=64qRfdpPXO
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/24.7.png" group-title="US| 24/7 PPV TV",US: 24/7 STAR WARS
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=485170&extension=ts&play_token=gf5IdaQ0U3
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9896.png?9756" group-title="RO| FOCUS SAT VIP",RO: FILM BOX STARS INT ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1251971&extension=ts&play_token=6ZHhRWkHgH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="US| FOX HD/4K",US: FOX 59 (WXIN) INDIANAPOLIS HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=429389&extension=ts&play_token=xGBZp2rUUc
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 1 | KansasCity vs. Portland start:2025-04-13 19:10:00 stop:2025-04-13 21:52:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605394&extension=ts&play_token=Ur2QBPmSCO
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 2 | MLSCountdown start:2025-04-13 22:55:00 stop:2025-04-14 01:37:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605393&extension=ts&play_token=YvHyNEsIAb
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 3 | MLSWrap-Up start:2025-04-14 02:25:00 stop:2025-04-14 05:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605392&extension=ts&play_token=t1VkJKHrHQ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 4 | Chicago vs. Miami start:2025-04-13 21:25:00 stop:2025-04-14 00:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605391&extension=ts&play_token=nWKKSmu9bs
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 5 | St.Louis vs. Columbus start:2025-04-13 23:55:00 stop:2025-04-14 02:37:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605390&extension=ts&play_token=G92R0pEtzm
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 6 | LAFC vs. SanJose start:2025-04-13 03:25:00 stop:2025-04-13 06:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605389&extension=ts&play_token=rUZ7dr9ZTk
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 7 | Orlando vs. NewYork start:2025-04-12 21:25:00 stop:2025-04-13 00:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605388&extension=ts&play_token=KKqaSKa3zM
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 8| NewYorkCity vs. Philadelphia start:2025-04-13 00:25:00 stop:2025-04-13 03:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605387&extension=ts&play_token=rkQkB8gduT
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 9 | LA vs. Houston start:2025-04-13 03:25:00 stop:2025-04-13 06:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605386&extension=ts&play_token=7S0pRhJc5O
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 10 | D.C. vs. Cincinnati start:2025-04-13 00:25:00 stop:2025-04-13 03:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605385&extension=ts&play_token=pnDNVApDiG
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 15 | Chicago vs. Montréal start:2025-03-30 00:25:00 stop:2025-03-30 04:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605384&extension=ts&play_token=wdGZSh7ptt
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 11 | Montréal vs. Charlotte start:2025-04-13 00:25:00 stop:2025-04-13 03:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605383&extension=ts&play_token=7iLDxNoOOu
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 12 | MLS360 start:2025-04-13 00:25:15 stop:2025-04-13 03:07:15
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605382&extension=ts&play_token=RLc2eBAxKq
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 13 | Dallas vs. Seattle start:2025-04-13 01:25:00 stop:2025-04-13 04:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605381&extension=ts&play_token=TMYsozMGRh
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 14 | Nashville vs. SaltLake start:2025-04-13 01:25:00 stop:2025-04-13 04:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605380&extension=ts&play_token=FT5ryulRTm
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 16 | D.C. vs. Toronto start:2025-02-23 00:25:00 stop:2025-02-23 03:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605379&extension=ts&play_token=Lk4yzXKVes
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS LIVE 17: MLSCountdown start:2025-02-22 23:25:00 stop:2025-02-23 02:07:00
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605378&extension=ts&play_token=BeLAjqtomK
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS LIVE 18: MLS360 start:2025-02-23 00:25:15 stop:2025-02-23 03:07:15
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=605377&extension=ts&play_token=c1vD0AZEQj
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13620.jpg?ver=73852" group-title="US| BALLY SPORTS PPV",US: BALLY SPORTS INDIANA PLUS HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=430341&extension=ts&play_token=ZNLmE4qgFJ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13620.jpg?ver=73852" group-title="US| BALLY SPORTS PPV",US: BALLY SPORTS INDIANA HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=430340&extension=ts&play_token=PALYdmDZmg
-#EXTINF:-1 tvg-logo="" group-title="ES| MOVISTAR PLUS+ VIP",#### ES| MOVISTAR PLUS+ VIP ᴴᴰ ####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840101&extension=ts&play_token=ZYYGnAMvPf
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10644.png?58793" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR PLUS+ ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840100&extension=ts&play_token=imUkRaRoUj
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10559.jpg?87054" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR PLUS+ 2 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840099&extension=ts&play_token=nnx7SiP2q7
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10649.jpg?28859" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR HITS ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840098&extension=ts&play_token=YtpEivVfPl
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10572.png?83934" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR DOCUMENTALES ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840097&extension=ts&play_token=nWie85GyMA
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10573.png?10242" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR LA RESISTENCIA ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840096&extension=ts&play_token=xUh41SQfv9
-#EXTINF:-1 tvg-logo="" group-title="ES| MOVISTAR PLUS+ VIP",#### ES| MOVISTAR PLUS+ VIP SD ####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840095&extension=ts&play_token=qzpDKqzPEZ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10644.png?95674" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR PLUS+ SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840094&extension=ts&play_token=G4APPK2hcY
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10559.jpg?84460" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR PLUS+ 2 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840093&extension=ts&play_token=h0ETvbt7X1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10649.jpg?36823" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR HITS SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840092&extension=ts&play_token=Oa19pyZAD9
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10572.png?42430" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR DOCUMENTALES SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840091&extension=ts&play_token=Q7LREVhoUB
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10573.png?59243" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR LA RESISTENCIA SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840090&extension=ts&play_token=8uDKt2WTLH
-#EXTINF:-1 tvg-logo="" group-title="ES| MOVISTAR PLUS+ VIP",#### ES| MOVISTAR PLUS+ VIP ᵁᴴᴰ ####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840089&extension=ts&play_token=O3FQG5nMbX
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10644.png?5438" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR PLUS+ ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840088&extension=ts&play_token=nixM02K8Lh
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10559.jpg?64521" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR PLUS+ 2 ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840087&extension=ts&play_token=OuY6WcCH2m
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10649.jpg?66750" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR HIT ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840086&extension=ts&play_token=DI35Eb1Oz1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10572.png?11402" group-title="ES| MOVISTAR PLUS+ VIP",ES: MOVISTAR DOCUMENTALES ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840085&extension=ts&play_token=63REHfu1WK
-#EXTINF:-1 tvg-logo="" group-title="US| STARZ NETWORK HD/4K",##### STARZ ORIGINAL #####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624950&extension=ts&play_token=P9QSIAlMKZ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL INFO ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624949&extension=ts&play_token=SHpKfSrNDn
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL 1 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624948&extension=ts&play_token=xLWzOU2Wu1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL 2 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624947&extension=ts&play_token=7Y5cFQPZ0c
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL 3 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624946&extension=ts&play_token=LL34NuH1Yc
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL 4 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624945&extension=ts&play_token=8VUwpyhRep
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL 5 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624944&extension=ts&play_token=c4XXuUX43F
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL 6 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624943&extension=ts&play_token=PlCvZXvbUF
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL 7 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624942&extension=ts&play_token=r9uAzEo9xX
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL 8 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624941&extension=ts&play_token=zwSqF4iiCw
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL 9 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624940&extension=ts&play_token=mOQDdFVOzj
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="US| STARZ NETWORK HD/4K",US: STARZ ORIGINAL 10 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624939&extension=ts&play_token=MELEvTwaQz
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/cinemania.jpg" group-title="US| CINEMA TV SHOWS HD/4K",US: LEGO STAR WARS 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=696123&extension=ts&play_token=1LZVjdgYnl
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: DALLAS STARS
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=604284&extension=ts&play_token=hRY9xmN9T1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12077.jpg?97025" group-title="US| ENTERTAINMENT HD/4K",US: DAYSTAR HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=325854&extension=ts&play_token=HoiZ7JZl3n
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13758.jpg?ver=13594" group-title="US| MILB PPV",MILB 23: Indianapolis Indians @ Louisville Bats 13/04 13:05et
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=766151&extension=ts&play_token=AWWJ9N9GEK
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13758.jpg?ver=13594" group-title="US| MILB PPV",MILB 54: Vancouver Canadians @ Spokane Indians 13/04 16:05et
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=766121&extension=ts&play_token=oxGd7we4fg
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12146.jpg?75124" group-title="AR| BEIN ENTERTAINMENT ᴺᴹ ▶ الترفيهية",NM: beIN STAR ACTION ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1201407&extension=ts&play_token=TiFeoAbDvZ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11044.png?99544" group-title="AR| BEIN ENTERTAINMENT ᴺᴹ ▶ الترفيهية",NM: beIN STAR MOVIES ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1201406&extension=ts&play_token=K7hv0DdXzG
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9400.png?61771" group-title="AR| BEIN ENTERTAINMENT ᴺᴹ ▶ الترفيهية",NM: beIN STAR LIFE ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1201405&extension=ts&play_token=OSb6nFMfaa
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9333.jpg?86309" group-title="AR| BEIN ENTERTAINMENT ᴺᴹ ▶ الترفيهية",NM: beIN STAR WORLD ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1201404&extension=ts&play_token=GsYNZoBvYV
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9400.png?61771" group-title="AR| BEIN ENTERTAINMENT 4K ▶ الترفيهية",AR: beIN STAR LIFE HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=467315&extension=ts&play_token=QfJVmwa4S5
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11044.png?99544" group-title="AR| BEIN ENTERTAINMENT 4K ▶ الترفيهية",AR: beIN STAR MOVIES HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=722042&extension=ts&play_token=uTQGpbzAjo
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9333.jpg?86309" group-title="AR| BEIN ENTERTAINMENT 4K ▶ الترفيهية",AR: beIN STAR WORLD HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=722041&extension=ts&play_token=zVoMrFma3K
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12146.jpg?75124" group-title="AR| BEIN ENTERTAINMENT F ▶ الترفيهية",AR: BEIN STAR ACTION ᶠ ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1314045&extension=ts&play_token=VDl2gVS62v
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11508.jpg?78399" group-title="AR| BEIN ENTERTAINMENT F ▶ الترفيهية",AR: BEIN STAR FILMS ᶠ ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1314044&extension=ts&play_token=aZwXPIc9G1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9400.png?16671" group-title="AR| BEIN ENTERTAINMENT F ▶ الترفيهية",AR: BEIN STAR LIFE ᶠ ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1314043&extension=ts&play_token=CKwDGLiqh2
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13148.jpg?94010" group-title="AR| BEIN ENTERTAINMENT F ▶ الترفيهية",AR: BEIN STAR MOVIES ᶠ ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1314042&extension=ts&play_token=g9eFwOf76q
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13148.jpg?94010" group-title="AR| BEIN ENTERTAINMENT F ▶ الترفيهية",AR: BEIN STAR MOVIES ᶠ ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1314041&extension=ts&play_token=sY990AOC73
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9328.jpg?89447" group-title="AR| BEIN ENTERTAINMENT F ▶ الترفيهية",AR: BEIN STAR SERIES ᶠ ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1314040&extension=ts&play_token=T4wyVnywxk
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8438.png?46883" group-title="AR| BEIN ENTERTAINMENT F ▶ الترفيهية",AR: BEIN STAR WORLD ᶠ ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1314039&extension=ts&play_token=uHasGbOBEG
-#EXTINF:-1 tvg-logo="" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",####### STARZPLAY SPORT 8K & 4K #######
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806997&extension=ts&play_token=kJ58xhkTHH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9686.jpg?59885" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT FIGHT ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1325563&extension=ts&play_token=EsKq8lKP4T
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9686.jpg?59885" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT FIGHT SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1325562&extension=ts&play_token=fnKnVFMTlA
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9686.jpg?59885" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT FIGHT ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1325564&extension=ts&play_token=F3bc63kpja
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=288268&extension=ts&play_token=XoaxPGPK3K
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM HD (STC)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=633642&extension=ts&play_token=xqVJIDqQWc
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM HD (STZ)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=633639&extension=ts&play_token=heroBNGfgH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=411005&extension=ts&play_token=1ilVumrxLC
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=301910&extension=ts&play_token=0ut916kV2R
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM 4K (STC)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=633645&extension=ts&play_token=a6ltpl9XQf
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=301908&extension=ts&play_token=oQuVjs4dmV
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM HD (STC)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=633641&extension=ts&play_token=7VZHud2HsA
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM HD (STZ)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=633638&extension=ts&play_token=TiIBQzWlAS
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=411004&extension=ts&play_token=CJhma00rHT
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=301911&extension=ts&play_token=LlenG6MF0F
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM 4K (STC)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=633644&extension=ts&play_token=dQt0LcUWWY
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 1 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=329205&extension=ts&play_token=LiMVTZdgbD
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 1 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=516882&extension=ts&play_token=FB2RphA6ij
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 1 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=293201&extension=ts&play_token=AxqQ9Y8TWm
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 1 HD (STZ)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=633636&extension=ts&play_token=mF5bGuB5ER
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 2 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=329206&extension=ts&play_token=uSSkn2gXAQ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 2 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=516881&extension=ts&play_token=wCmzqA1IXp
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 2 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=293202&extension=ts&play_token=XFm9Cxk3Zs
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 2 HD (STZ)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=633635&extension=ts&play_token=i9lW0uAk3v
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=498838&extension=ts&play_token=pPTLXgeGo5
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=333581&extension=ts&play_token=2Q5yYeyIbQ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=3123&extension=ts&play_token=4hVjeBDYGC
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=498839&extension=ts&play_token=Kd6EeE6I4u
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=333580&extension=ts&play_token=CfU1rSlZ0Y
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=3124&extension=ts&play_token=FR26vnKfj8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 3 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=301909&extension=ts&play_token=Cxl6QnDXR8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 3 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=411003&extension=ts&play_token=uECHGfwHQz
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 3 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=386055&extension=ts&play_token=fRA5yI8639
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 1 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=387844&extension=ts&play_token=3VXAShiEVW
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 1 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=533831&extension=ts&play_token=b23GDkL6ST
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 1 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=386804&extension=ts&play_token=UhVhxgvabE
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 2 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=387843&extension=ts&play_token=F3WSWwuKZk
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 2 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=533830&extension=ts&play_token=5l5DIdSTeR
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 2 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=386803&extension=ts&play_token=ke72wSUsYx
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: GOLF TV HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=534010&extension=ts&play_token=J0wnJD9Ymm
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: GOLF TV SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=534009&extension=ts&play_token=sDOGsLtAvC
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: GOLF TV 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=534011&extension=ts&play_token=6sVKiMJ1pV
-#EXTINF:-1 tvg-logo="" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",##### AD SPORT M ᴴᴰ #####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204156&extension=ts&play_token=Vox1DRLRjo
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: AD PREMIUM 1 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204155&extension=ts&play_token=j1BZtGCfLa
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: AD PREMIUM 2 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204154&extension=ts&play_token=1G0UfLjmb4
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: AD SPORT ASIA 1 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204153&extension=ts&play_token=JuzuckvatF
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: AD SPORT ASIA 2 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204152&extension=ts&play_token=X7Q08ziWUn
-#EXTINF:-1 tvg-logo="" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",##### AD SPORT M ʰᵉᵛᶜ #####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204151&extension=ts&play_token=L7z3I2Fzne
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: AD SPORT ASIA 1 ʰᵉᵛᶜ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204150&extension=ts&play_token=WdFZLDHbCV
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: AD SPORT ASIA 2 ʰᵉᵛᶜ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204149&extension=ts&play_token=1vDtSGzptd
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: AD PREMIUM 1 ʰᵉᵛᶜ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204148&extension=ts&play_token=ThAR7o8pF0
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: AD PREMIUM 2 ʰᵉᵛᶜ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204147&extension=ts&play_token=SgfyQeA1zk
-#EXTINF:-1 tvg-logo="" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",##### AD SPORT M ᴿᴬᵂ #####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204146&extension=ts&play_token=YyM3snCten
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: AD PREMIUM 1 ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204145&extension=ts&play_token=KrQg3ax75Y
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: AD PREMIUM 2 ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204144&extension=ts&play_token=lJs4Xqmw8N
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴹ & ᴿᴬᵂ ⚽",M: STARZPLAY SPORT ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1204143&extension=ts&play_token=yTAdqGhdrB
-#EXTINF:-1 tvg-logo="" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",####### AD SPORT ᴴᴰ #######
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353049&extension=ts&play_token=x2e5wIJma9
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",BE: AD SPORT SERIA 1 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353048&extension=ts&play_token=WzC1v2PzMc
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",BE: AD SPORT SERIA 2 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353047&extension=ts&play_token=tCuB1Omh1t
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",BE: AD SPORT SERIA 3 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353046&extension=ts&play_token=xfohuSjOvY
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",BE: AD SPORT 1 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353045&extension=ts&play_token=fdjQt02uyl
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",BE: AD SPORT 2 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353044&extension=ts&play_token=kr5JmrPiAC
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",BE: AD ASIA 1 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353043&extension=ts&play_token=BHLwPDisK1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",BE: AD ASIA 2 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353042&extension=ts&play_token=6YiGv0mXbI
-#EXTINF:-1 tvg-logo="" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",####### AD SPORT ᴿᴬᵂ #######
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353041&extension=ts&play_token=3NZPTv8vG5
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",BE: AD SPORT SERIA 1 ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353040&extension=ts&play_token=5uUMcZITSn
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",BE: AD SPORT SERIA 2 ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353039&extension=ts&play_token=ipafzIrtNH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ᴮᴱ & ᴿᴬᵂ ⚽",BE: AD SPORT SERIA 3 ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353038&extension=ts&play_token=lJPBxLOUqx
-#EXTINF:-1 tvg-logo="" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",####### STARZPLAY SPORT 8K & TK #######
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806996&extension=ts&play_token=xtYidSwdyJ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 1 PREMIUM HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806994&extension=ts&play_token=vhTNaHvOtS
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 2 PREMIUM HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806993&extension=ts&play_token=AkZlhTJsxL
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORT ASIA 1 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806992&extension=ts&play_token=glAaQADPKa
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORT ASIA 2 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806991&extension=ts&play_token=6iqabEYH2I
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 1 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806990&extension=ts&play_token=2Yb5Rv1mgq
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 2 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806989&extension=ts&play_token=hDLEdtkq1g
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 3 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806988&extension=ts&play_token=tfy3unxWJu
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: CRLIFE 1 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806987&extension=ts&play_token=4IJSy9jlWG
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: CRLIFE 2 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806986&extension=ts&play_token=0XnilKDxcu
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: GOLF TV HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806985&extension=ts&play_token=xNy0pAB7ep
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 1 PREMIUM SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806983&extension=ts&play_token=apqgVlAzxJ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 2 PREMIUM SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806982&extension=ts&play_token=blUyuKHWyW
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORT ASIA 1 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806981&extension=ts&play_token=mZGvhKadVo
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORT ASIA 2 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806980&extension=ts&play_token=n1QB7pw2lD
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 1 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806979&extension=ts&play_token=p5ZblzvhrL
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 2 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806978&extension=ts&play_token=fScdb2ujvi
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 3 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806977&extension=ts&play_token=irYiy7ld4z
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: CRLIFE 1 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806976&extension=ts&play_token=BjpUqNy6o4
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: CRLIFE 2 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806975&extension=ts&play_token=AIATveqIg5
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: GOLF TV SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806974&extension=ts&play_token=07Zqly5HGM
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 1 PREMIUM 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806972&extension=ts&play_token=PnNXtkjnVc
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 2 PREMIUM 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806971&extension=ts&play_token=1hQZHQEHbd
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORT ASIA 1 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806970&extension=ts&play_token=T1iUIablRg
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORT ASIA 2 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806969&extension=ts&play_token=QYoMwUbjAs
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 1 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806968&extension=ts&play_token=amxL6cngYz
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 2 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806967&extension=ts&play_token=bC9QFOmx8k
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: AD SPORTS 3 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806966&extension=ts&play_token=L4gB4w6MM6
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: CRLIFE 1 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806965&extension=ts&play_token=WsCdO3ZVtE
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: CRLIFE 2 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806964&extension=ts&play_token=CD0yls3DHG
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ᵀᴷ ⚽",TK: GOLF TV 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=806963&extension=ts&play_token=dwhxPCRuyA
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: ISANGO STAR TV
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=293374&extension=ts&play_token=EqF27xygjX
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: STAR TV
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=293417&extension=ts&play_token=Ugr7pttImO
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: ZEE MAGIC
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=293242&extension=ts&play_token=NLF5eAk46C
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13850.jpg?ver=63700" group-title="NL| CANAL+ ONLINE VERMAAK ᴿᴬᵂ",PLAY+: OMROEP ZEELAND ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1181101&extension=ts&play_token=ukjRCxGhQA
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13850.jpg?ver=63700" group-title="NL| CANAL+ ONLINE VERMAAK ᴿᴬᵂ",PLAY+: STAR CHANNEL ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1181095&extension=ts&play_token=s60sh9jXHx
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13850.jpg?ver=63700" group-title="NL| CANAL+ ONLINE VERMAAK ᴿᴬᵂ",PLAY+: AL JAZEERA ENGLISH ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1181079&extension=ts&play_token=OfTxaBCOQE
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13850.jpg?ver=63700" group-title="NL| CANAL+ ONLINE VERMAAK ᴴᴰ",PLAY+: OMROEP ZEELAND ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1181192&extension=ts&play_token=VVanUDDAks
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13850.jpg?ver=63700" group-title="NL| CANAL+ ONLINE VERMAAK ᴴᴰ",PLAY+: STAR CHANNEL ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1181186&extension=ts&play_token=nukSHStgPx
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13850.jpg?ver=63700" group-title="NL| CANAL+ ONLINE VERMAAK ᴴᴰ",PLAY+: AL JAZEERA ENGLISH ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1181170&extension=ts&play_token=Dxff6XTTqN
-#EXTINF:-1 tvg-logo="" group-title="ES| MOVISTAR SERIES VIP",#### ES| MOVISTAR SERIES VIP ᴴᴰ ####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840084&extension=ts&play_token=F4SqVHxIO6
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11306.jpg?20026" group-title="ES| MOVISTAR SERIES VIP",ES: A3SERIES ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840083&extension=ts&play_token=v9MPPVWOGs
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11291.jpg?23653" group-title="ES| MOVISTAR SERIES VIP",ES: MEGA ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840082&extension=ts&play_token=dPygT7dC0L
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11296.jpg?29848" group-title="ES| MOVISTAR SERIES VIP",ES: NEOX ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840081&extension=ts&play_token=gUaokyWV7v
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3784.jpg?56889" group-title="ES| MOVISTAR SERIES VIP",ES: NOVA ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840080&extension=ts&play_token=RbynG4f3lW
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10576.png?91497" group-title="ES| MOVISTAR SERIES VIP",ES: BEMAD ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840079&extension=ts&play_token=V55O3btqlm
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11284.jpg?45378" group-title="ES| MOVISTAR SERIES VIP",ES: FDF ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840078&extension=ts&play_token=FKPladLQbc
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11289.jpg?40264" group-title="ES| MOVISTAR SERIES VIP",ES: ENERGY ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840077&extension=ts&play_token=Y0n8A3ylYx
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11297.jpg?51157" group-title="ES| MOVISTAR SERIES VIP",ES: DIVINITY ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840076&extension=ts&play_token=qwlBniLr4u
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11298.jpg?9514" group-title="ES| MOVISTAR SERIES VIP",ES: TV GALICIA ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840075&extension=ts&play_token=kTqJI2wtXc
-#EXTINF:-1 tvg-logo="" group-title="ES| MOVISTAR SERIES VIP",#### ES| MOVISTAR SERIES VIP SD ####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840074&extension=ts&play_token=kOXxahrsti
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11306.jpg?5562" group-title="ES| MOVISTAR SERIES VIP",ES: A3SERIES SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840073&extension=ts&play_token=7yEdrk8hnr
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11291.jpg?10205" group-title="ES| MOVISTAR SERIES VIP",ES: MEGA SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840072&extension=ts&play_token=Enm1TRrjft
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11296.jpg?31956" group-title="ES| MOVISTAR SERIES VIP",ES: NEOX SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840071&extension=ts&play_token=4roSmn8CwV
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3784.jpg?7087" group-title="ES| MOVISTAR SERIES VIP",ES: NOVA SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840070&extension=ts&play_token=CnqVmqHCtU
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10576.png?75680" group-title="ES| MOVISTAR SERIES VIP",ES: BEMAD SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840069&extension=ts&play_token=puiFmOIqXS
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11284.jpg?14767" group-title="ES| MOVISTAR SERIES VIP",ES: FDF SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840068&extension=ts&play_token=2PYpt1G6wb
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11289.jpg?47329" group-title="ES| MOVISTAR SERIES VIP",ES: ENERGY SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840067&extension=ts&play_token=7rj2HUgaeo
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11297.jpg?52812" group-title="ES| MOVISTAR SERIES VIP",ES: DIVINITY SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840066&extension=ts&play_token=1sq1FfIMFZ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/236.png?40163" group-title="ES| MOVISTAR SERIES VIP",ES: TEN SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840065&extension=ts&play_token=Sf6Ms5TpZ9
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11299.jpg?37205" group-title="ES| MOVISTAR SERIES VIP",ES: DKISS SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840064&extension=ts&play_token=ZQGV3ujEcG
-#EXTINF:-1 tvg-logo="" group-title="ES| MOVISTAR SERIES VIP",#### ES| MOVISTAR SERIES VIP ᵁᴴᴰ ####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840063&extension=ts&play_token=wdj00YVcHc
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11306.jpg?40520" group-title="ES| MOVISTAR SERIES VIP",ES: A3SERIES ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840062&extension=ts&play_token=cFgN33bLLh
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11291.jpg?62147" group-title="ES| MOVISTAR SERIES VIP",ES: MEGA ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840061&extension=ts&play_token=JSswz1FGP3
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11296.jpg?75339" group-title="ES| MOVISTAR SERIES VIP",ES: NEOX ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840060&extension=ts&play_token=lhAYLPvP0N
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3784.jpg?63669" group-title="ES| MOVISTAR SERIES VIP",ES: NOVA ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840059&extension=ts&play_token=pTJuEbrJif
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10576.png?68582" group-title="ES| MOVISTAR SERIES VIP",ES: BEMAD ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840058&extension=ts&play_token=M2bNUt2Fv4
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11284.jpg?58323" group-title="ES| MOVISTAR SERIES VIP",ES: FDF ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840057&extension=ts&play_token=an0xjVABN3
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11289.jpg?13026" group-title="ES| MOVISTAR SERIES VIP",ES: ENERGY ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840056&extension=ts&play_token=e2NwzGGIr8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11297.jpg?98511" group-title="ES| MOVISTAR SERIES VIP",ES: DIVINITY ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840055&extension=ts&play_token=3QRkAAstkT
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/236.png?40163" group-title="ES| MOVISTAR SERIES VIP",ES: TEN ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840054&extension=ts&play_token=Jn5q6TgEeH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11299.jpg?37205" group-title="ES| MOVISTAR SERIES VIP",ES: DKISS ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840053&extension=ts&play_token=jBqn1zOAqS
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/logos/aljazeera.png" group-title="AU| AUSTRALIA VIP",AU: AL JAZEERA (NZ)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=441344&extension=ts&play_token=LFgN2UAIZf
-#EXTINF:-1 tvg-logo="" group-title="ES| MOVISTAR DEPORTES VIP",#### ES| MOVISTAR DEPORTES VIP ᴴᴰ ####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839947&extension=ts&play_token=K8Fm8B64mA
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10582.png?33075" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839946&extension=ts&play_token=LLzpr6nrRs
-#EXTINF:-1 tvg-logo="" group-title="ES| MOVISTAR DEPORTES VIP",#### ES| MOVISTAR DEPORTES VIP  SD ####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839945&extension=ts&play_token=WgG4cjP7IS
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10582.png?33075" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839944&extension=ts&play_token=sjJcskLXvO
-#EXTINF:-1 tvg-logo="" group-title="ES| MOVISTAR DEPORTES VIP",#### ES| MOVISTAR DEPORTES VIP ᵁᴴᴰ ####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839943&extension=ts&play_token=97HFhvZpkX
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES ʰᵉᵛᶜ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839942&extension=ts&play_token=VAzlm7roSW
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839941&extension=ts&play_token=p64tuI00LM
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10581.png?10706" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES 2 ᵁᴴᴰ (SOLO EVENTOS)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839940&extension=ts&play_token=glcr0eGNyK
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10581.png?10706" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES 2 SD (SOLO EVENTOS)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839939&extension=ts&play_token=YVjoW5k9Fp
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES 3 SD (SOLO EVENTOS)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839938&extension=ts&play_token=FRY8i3emCz
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10692.png?9659" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES 4 SD (SOLO EVENTOS)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839937&extension=ts&play_token=utGiqzB9wa
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10692.png?9659" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839936&extension=ts&play_token=uI6x4KJ8B2
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10692.png?9659" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839935&extension=ts&play_token=PgezAHBCAa
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10692.png?9659" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839934&extension=ts&play_token=oWDdeYwmaI
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10692.png?9659" group-title="ES| MOVISTAR DEPORTES VIP",ES: MOVISTAR DEPORTES 8 SD (SOLO EVENTOS)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839933&extension=ts&play_token=Aw6bKPpAmf
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/167.jpg" group-title="AR| MBC 4K",AR: Zee Alwan
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=3150&extension=ts&play_token=cMs1HbpWmb
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/156.jpg" group-title="AR| MBC 4K",AR: Zee Aflam
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=3149&extension=ts&play_token=Ej9lMIW3fa
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/logos/zeetv.png" group-title="RU| RUSSIAN HD/4K",RU: ZEE TV
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=439380&extension=ts&play_token=88ZuesQeA0
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/logos/START-TV--.png" group-title="RU| RUSSIAN HD/4K",RU: START TV
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=439514&extension=ts&play_token=HM6PieMMHg
-#EXTINF:-1 tvg-logo="" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",#### STARZ PLAY TURKISH ####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=509597&extension=ts&play_token=79S4iVxyhh
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: الملحمة
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=541355&extension=ts&play_token=uEO0yzKzG7
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: هذا العالم لا يسعني
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=541353&extension=ts&play_token=pEd6ihJOHw
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: أطرق بابي
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=541356&extension=ts&play_token=p0M0InkDSq
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: أميرة بلا تاج
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=541354&extension=ts&play_token=yP0bBsFTCY
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: علي رضا
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=509596&extension=ts&play_token=NnrgdL8jtR
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: محكوم
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=518909&extension=ts&play_token=ZZZXM5W4HQ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: العائلة
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=518910&extension=ts&play_token=2jHhkZEYFp
-#EXTINF:-1 tvg-logo="" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",##### STARS PLAY 4K #####
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=488575&extension=ts&play_token=O9nQeHwskg
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: إكس لانس
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494134&extension=ts&play_token=ODiPnRMjbd
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: الأجهر
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=488581&extension=ts&play_token=Um9G6UCl8L
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: الثمن
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494644&extension=ts&play_token=mZTMs3acl9
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: الزند
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=488580&extension=ts&play_token=WxFLQMERYC
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: العربجي
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=501844&extension=ts&play_token=9sCpw3HPS9
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: النار بالنار
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=488579&extension=ts&play_token=C3IipDxj02
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: النكران
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494133&extension=ts&play_token=qXjsZC6JuE
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: جت سليمة
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494132&extension=ts&play_token=q7CcK9q6eb
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: حضرة العمدة
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494131&extension=ts&play_token=Wi1oPJVxR0
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: خريف عمر
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=488578&extension=ts&play_token=Iy83l0sjT0
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: زقاق الجن
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=488577&extension=ts&play_token=ni3GUJWhi6
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: ستهم
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494130&extension=ts&play_token=X6LAbqCAs1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: سره الباتع
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494129&extension=ts&play_token=VXgJdRyilR
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: سوق الكانتو
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494128&extension=ts&play_token=Btr7sHPK1J
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: عملة نادرة
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494127&extension=ts&play_token=1ODbt8lpWn
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: فريد
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=509595&extension=ts&play_token=2eiL8BMsrW
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: فنطاس
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494126&extension=ts&play_token=3M0hid2Lm7
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: قرة عينك
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494125&extension=ts&play_token=mTXo9VLhwE
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: قفص مخملي
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494124&extension=ts&play_token=ic0BqngdT4
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: مجاريح
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494123&extension=ts&play_token=59ajDIiACv
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: مربى العز
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=488576&extension=ts&play_token=GTnqBASUkL
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13633.png?ver=95819" group-title="AR| STARZ PLAY 4K ▶ ستارز بلاي",AR: منزل12
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=494122&extension=ts&play_token=s8udzpJRO1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/856.png?23326" group-title="TR| TÜRKIYE 4K TV",TR: Star TV 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=8705&extension=ts&play_token=P1WUZJ1xsB
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/856.png?72547" group-title="TR| TÜRKIYE 4K TV",TR: Star TV HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=282262&extension=ts&play_token=Lr0zjjvrEJ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3308.jpg?36121" group-title="TR| TÜRKIYE 4K TV",TR: Euro Star
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=3384&extension=ts&play_token=lOPfOOr4Yr
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" group-title="AR| GOBX ᴮᴱ",BE: GOBX TRACE SPORT STARS ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1353176&extension=ts&play_token=IobSswAT1F
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6311.jpg?56381" group-title="FR| FRANCE HEVC VIP",FR: CSTAR HITS FRANCE HEVC
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=425563&extension=ts&play_token=2nFKwxgBPK
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13693.jpeg?ver=86693" group-title="AR| ️POWER 4K",AR: POWER INDIAN 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=575781&extension=ts&play_token=Krsm6JEqWp
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LA LIGA ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840022&extension=ts&play_token=vYQrbGVbf6
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11527.png?3188" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LA LIGA SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840018&extension=ts&play_token=fb3JjSKV1G
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11527.png?3188" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LA LIGA 2 SD (SOLO EVENTOS)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840017&extension=ts&play_token=wgZo8Fa1vo
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11527.png?91435" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LA LIGA ʰᵉᵛᶜ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840010&extension=ts&play_token=jsY21yKMGX
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11527.png?91435" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LA LIGA ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840009&extension=ts&play_token=TbOF0pD8Hf
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11527.png?60016" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1317930&extension=ts&play_token=tgB6RBAmiE
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11527.png?91435" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LA LIGA 2 ᵁᴴᴰ (SOLO EVENTOS)
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840008&extension=ts&play_token=mfnoixXXzU
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9700.png?2965" group-title="RO| ROMANIA HD/4K",RO: Antena Stars HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=230579&extension=ts&play_token=8qK8Cbvlcf
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9700.png?40187" group-title="RO| ROMANIA HD/4K",RO: Antena Stars
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=809&extension=ts&play_token=GU3uVamyHK
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1182.jpg" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=499084&extension=ts&play_token=NMNLuuSRLB
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1182.jpg" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=107160&extension=ts&play_token=XCSQCgspKL
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1182.jpg" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera UHD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=2319&extension=ts&play_token=hUOKGpTUQ2
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/218.jpg" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera English 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=3254&extension=ts&play_token=vaeFLzGAXy
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/218.jpg" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera English HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=499085&extension=ts&play_token=FxyqOWi1M2
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/354.png" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera Mubasher
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=4301&extension=ts&play_token=LdJSyAcTnz
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/354.png" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera Mubasher HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=499087&extension=ts&play_token=D9Y4MGlZBX
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/354.png" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera Mubasher 2 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=191259&extension=ts&play_token=C5F8G2QPQ4
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/354.png" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera Mubasher 2 HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=499086&extension=ts&play_token=upYyyKMBw1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13781.png?ver=99080" group-title="ES| TIVIFY ᴴᴰ",ES: MOVISTAR PLUS +2 ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1340227&extension=ts&play_token=Jrz8Qi10Ba
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8438.png?39226" group-title="JP| JAPAN HD/4K",JP: STAR CHANNEL 1
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=904906&extension=ts&play_token=dM4WqvcSQN
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8438.png?39226" group-title="JP| JAPAN HD/4K",JP: STAR RCHANNEL 2
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=904907&extension=ts&play_token=ZHvQzSjXRi
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8438.png?39226" group-title="JP| JAPAN HD/4K",JP: STAR CHANNEL 3
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=904908&extension=ts&play_token=SPkf5Tn1XL
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13724.jpeg?ver=5274" group-title="AU| ESPN PLAY PPV",(AU) ESPN PLAY 2 (D): WatchESPN NHL | Dallas Stars vs. Detroit Red Wings | 04-14-2025 6:30pm
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=618111&extension=ts&play_token=tJZzVR4RQy
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13724.jpeg?ver=5274" group-title="AU| ESPN PLAY PPV",(AU) ESPN PLAY 7 (D): WatchESPN NHL | Dallas Stars vs. Detroit Red Wings | 04-14-2025 6:30pm
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=618106&extension=ts&play_token=uafV29KdXH
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/593.png?55768" group-title="NL| ALGEMEEN HD/4K",NL: STAR CHANNEL 4K ◉
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=76323&extension=ts&play_token=yveWbEymei
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/650.png?14031" group-title="NL| ALGEMEEN HD/4K",NL: Omroep Zeeland 4K ◉
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1582&extension=ts&play_token=Ni0KQSujLe
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12603.png?70152" group-title="NL| KINDEREN HD/4K",NL: DE KLEINE ZEEMEERMIN 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1019857&extension=ts&play_token=aa87vDESZL
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13766.png?ver=66817" group-title="UK| 24/7 ᴴᴰ/ᴿᴬᵂ",UK: 24/7 INDIANA JONES 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1013592&extension=ts&play_token=tUSdfWUZTD
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13766.png?ver=66817" group-title="UK| 24/7 ᴴᴰ/ᴿᴬᵂ",UK: 24/7 STAR TREK 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1013574&extension=ts&play_token=rXjXcf8ljZ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13766.png?ver=66817" group-title="UK| 24/7 ᴴᴰ/ᴿᴬᵂ",UK: 24/7 STAR WARS 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1013573&extension=ts&play_token=S4JpVSe8Vs
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13766.png?ver=66817" group-title="UK| 24/7 ᴴᴰ/ᴿᴬᵂ",UK: 24/7 STAR WARS 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1013393&extension=ts&play_token=ekl7lwwo9A
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13766.png?ver=66817" group-title="UK| 24/7 ᴴᴰ/ᴿᴬᵂ",UK: 24/7 STAR TREK MOVIES 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1013392&extension=ts&play_token=i8xZxDgg7o
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13766.png?ver=66817" group-title="UK| 24/7 ᴴᴰ/ᴿᴬᵂ",UK: 24/7 INDIANA JONES 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1013374&extension=ts&play_token=3DDvB0PIK2
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13159.png?11651" group-title="TR| TURKISH +6H NA",TR: STAR TV 4K +6H
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=557169&extension=ts&play_token=4zsQYbSUDe
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1183.jpg" group-title="AR| DOCUMENTARY 4K ▶ وثائقي",AR: Al Jazeera Documentary 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=2320&extension=ts&play_token=TAz71BGcXQ
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/ZEE-CINEMA.png" group-title="FR| CARIBBEAN HD/4K",FR:  ZEE CINEMA HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=693928&extension=ts&play_token=mnmqx7O4s6
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/ZEE-THIRAI.webp" group-title="FR| CARIBBEAN HD/4K",FR:  ZEE THIRAI HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=693927&extension=ts&play_token=jWHeaNnT5p
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/zeetv.png" group-title="FR| CARIBBEAN HD/4K",FR:  ZEE TV HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=693926&extension=ts&play_token=Ye1j9sAlDM
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12485.png?ver=99023" group-title="CZ| IPRIMA ᴴᴰ",CZ: PRIMA STAR ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1228837&extension=ts&play_token=SSX67aiZ3a
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1182.jpg?84513" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: AL JAZEERA EN HD ◉
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=162148&extension=ts&play_token=Cp2Kur2XYf
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" group-title="AR| GOBX PLATINUM 4K",GOBX: STARZPLAY SERIES 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=477613&extension=ts&play_token=Ll9AM2ugxF
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" group-title="AR| GOBX PLATINUM 4K",GOBX: STARZPLAY CRIME 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=477612&extension=ts&play_token=O3rQXUJHir
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" group-title="AR| GOBX PLATINUM 4K",GOBX: STARZPLAY COMEDY 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=477611&extension=ts&play_token=OAFeLlNlQx
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" group-title="AR| GOBX PLATINUM 4K",GOBX: STARZPLAY ACTION 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=477610&extension=ts&play_token=wTEfVTC1ys
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" group-title="AR| GOBX PLATINUM 4K",GOBX: TRACE SPORT STARS 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=477586&extension=ts&play_token=a9GyCau29j
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12077.jpg?76070" group-title="UK| GENERAL ᴴᴰ/ᴿᴬᵂ",UK: DAYSTAR HD ◉
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=162252&extension=ts&play_token=RfDQbzVhOL
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12145.jpg?17495" group-title="UK| GENERAL ᴴᴰ/ᴿᴬᵂ",UK: 5 STAR ◉
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=162291&extension=ts&play_token=98y3ZNtVLW
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12145.jpg?17495" group-title="UK| GENERAL ᴴᴰ/ᴿᴬᵂ",UK: 5 STAR+1 ◉
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=162292&extension=ts&play_token=HUhjnzmSRW
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11504.jpg?ver=81173" group-title="TR| FIMLER 4K",TR: BEIN MOVIES STARS 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=200304&extension=ts&play_token=BgtMHHBLa1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12848.png" group-title="CH| SWITZERLAND HD/4K",SW: Star TV 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=386533&extension=ts&play_token=PzJ2sdLYzz
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6311.jpg?33536" group-title="FR| GÉNÉRAL HD/4K",FR: CSTAR HD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=207212&extension=ts&play_token=FwrHkSuzs9
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6311.jpg?40470" group-title="FR| GÉNÉRAL HD/4K",FR: CSTAR 4K
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=106939&extension=ts&play_token=8vi2HB9h70
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8415.png?40482" group-title="ES| OTROS DEPORTES VIP",ES: MOVISTAR GOLF ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839929&extension=ts&play_token=RvLvJfiFhg
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8415.png?40482" group-title="ES| OTROS DEPORTES VIP",ES: MOVISTAR GOLF SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839921&extension=ts&play_token=ng5MAmDROZ
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8415.png?76883" group-title="ES| OTROS DEPORTES VIP",ES: MOVISTAR GOLF 2 SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839920&extension=ts&play_token=yBnlFomS2e
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8415.png?29036" group-title="ES| OTROS DEPORTES VIP",ES: MOVISTAR GOLF ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=839913&extension=ts&play_token=GnRsbB7uH0
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13847.png?ver=53660" group-title="NL| ODIDO VERMAAK ᴿᴬᵂ ᴳᴼᴸᴰ",OD: OMROEP ZEELAND ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1159273&extension=ts&play_token=9NQKNzyDtA
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13847.png?ver=53660" group-title="NL| ODIDO VERMAAK ᴿᴬᵂ ᴳᴼᴸᴰ",OD: AL JAZEERA (ENGLISH) ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1159260&extension=ts&play_token=h5LQcR7KcC
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13847.png?ver=53660" group-title="NL| ODIDO VERMAAK ᴿᴬᵂ ᴳᴼᴸᴰ",OD: STAR CHANNEL ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1159192&extension=ts&play_token=uxzZjygKZN
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9391.png?56984" group-title="ES| M+ CINE VIP",ES: MOVISTAR ACCION ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840186&extension=ts&play_token=i5o8iBJD6Y
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8403.png?38432" group-title="ES| M+ CINE VIP",ES: MOVISTAR COMEDIA ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840185&extension=ts&play_token=mLVoltnBuW
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10045.png?14921" group-title="ES| M+ CINE VIP",ES: MOVISTAR DRAMA ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840184&extension=ts&play_token=krSxeIdaqr
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?58736" group-title="ES| M+ CINE VIP",ES: MOVISTAR ORIGINALES ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840183&extension=ts&play_token=nvyl3cS6Pj
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10686.png?30539" group-title="ES| M+ CINE VIP",ES: MOVISTAR CLASICOS ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840182&extension=ts&play_token=nSk891WqVo
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12040.png?86481" group-title="ES| M+ CINE VIP",ES: MOVISTAR ESTRENOS ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840181&extension=ts&play_token=1e2brbpg40
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12040.png?86481" group-title="ES| M+ CINE VIP",ES: ES: MOVISTAR CINE ESPAÑOL  ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840180&extension=ts&play_token=re5se7at99
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?64165" group-title="ES| M+ CINE VIP",ES: MOVISTAR LOS GOYA ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840179&extension=ts&play_token=3XrLYDHZl4
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?64165" group-title="ES| M+ CINE VIP",ES: MOVISTAR INDIE ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840177&extension=ts&play_token=gGrmC60oSg
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9391.png?41867" group-title="ES| M+ CINE VIP",ES: MOVISTAR ACCION SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840159&extension=ts&play_token=FqxE7IreDs
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8403.png?39138" group-title="ES| M+ CINE VIP",ES: MOVISTAR COMEDIA SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840158&extension=ts&play_token=izs8O6XYTo
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10045.png?95325" group-title="ES| M+ CINE VIP",ES: MOVISTAR DRAMA SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840157&extension=ts&play_token=iDuxiQZ4Rw
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?75254" group-title="ES| M+ CINE VIP",ES: MOVISTAR ORIGINALES SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840156&extension=ts&play_token=s13kg1SKkL
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10686.png?93559" group-title="ES| M+ CINE VIP",ES: MOVISTAR CLASICOS SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840155&extension=ts&play_token=piKA0GG7U1
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12040.png?19047" group-title="ES| M+ CINE VIP",ES: MOVISTAR ESTRENOS SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840154&extension=ts&play_token=xF2zNUDG2J
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12040.png?19047" group-title="ES| M+ CINE VIP",ES: MOVISTAR ESTRENOS SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840153&extension=ts&play_token=j6wrtQ5jFB
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?15882" group-title="ES| M+ CINE VIP",ES: MOVISTAR LOS GOYA SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840152&extension=ts&play_token=eKs4c200AC
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?15882" group-title="ES| M+ CINE VIP",ES: MOVISTAR INDIE SD
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840150&extension=ts&play_token=sWSWIxekew
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9391.png?18439" group-title="ES| M+ CINE VIP",ES: MOVISTAR ACCION ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840132&extension=ts&play_token=FAoQnBzLk5
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8403.png?87490" group-title="ES| M+ CINE VIP",ES: MOVISTAR COMEDIA ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840131&extension=ts&play_token=DUawign2ut
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10045.png?48296" group-title="ES| M+ CINE VIP",ES: MOVISTAR DRAMA ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840130&extension=ts&play_token=NQgPJcSdLc
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?36568" group-title="ES| M+ CINE VIP",ES: MOVISTAR ORIGINALES ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840129&extension=ts&play_token=6ia4WxeOfO
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10686.png?54408" group-title="ES| M+ CINE VIP",ES: MOVISTAR CLASICOS ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840128&extension=ts&play_token=ieYnHC74Vs
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12040.png?32181" group-title="ES| M+ CINE VIP",ES: MOVISTAR ESTRENOSE ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840127&extension=ts&play_token=nZNg9WTz4R
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12040.png?32181" group-title="ES| M+ CINE VIP",ES: MOVISTAR CINE Ñ ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840126&extension=ts&play_token=LiN4NEd736
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?82861" group-title="ES| M+ CINE VIP",ES: MOVISTAR LOS GOYA ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840125&extension=ts&play_token=j9IOZZipjE
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?82861" group-title="ES| M+ CINE VIP",ES: MOVISTAR INDIE ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840123&extension=ts&play_token=NPZ4fKitua
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9339.png?86959" group-title="ES| M+ CINE VIP",ES: STAR CHANNEL (FOX) ᵁᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=840121&extension=ts&play_token=QAScw7Ekxm
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12145.jpg?503" group-title="UK| BFBS ᴿᴬᵂ",BFBS: 5 STAR ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1252312&extension=ts&play_token=YHJ7FFPQlA
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/daystar.png" group-title="CA| CANADA HD/4K",CA: DAYSTAR TV
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=498754&extension=ts&play_token=l2LhL1jZTj
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13847.png?ver=53660" group-title="NL| ODIDO VERMAAK ᴴᴰ ᴳᴼᴸᴰ",OD: OMROEP ZEELAND ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1159441&extension=ts&play_token=DYku0f54i7
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13847.png?ver=53660" group-title="NL| ODIDO VERMAAK ᴴᴰ ᴳᴼᴸᴰ",OD: AL JAZEERA (ENGLISH) ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1159428&extension=ts&play_token=2mnVysMrIO
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13847.png?ver=53660" group-title="NL| ODIDO VERMAAK ᴴᴰ ᴳᴼᴸᴰ",OD: STAR CHANNEL ᴴᴰ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1159360&extension=ts&play_token=AQE6TNdO8t
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="CR| CARIBBEAN",CRB: ALJAZEERA
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624695&extension=ts&play_token=RrJi03v5nv
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/daystar.png" group-title="CR| CARIBBEAN",CRB: DAYSTAR
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624633&extension=ts&play_token=fZiZCSoClQ
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/daystar.png" group-title="CR| CARIBBEAN",CRB: DAYSTAR
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=624632&extension=ts&play_token=4RliUJ21b2
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/FILMBOX-STARS.png" group-title="CZ| CZECH REPUBLIC",CZ: FILMBOX STARS
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=690348&extension=ts&play_token=KmgieNPbmv
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/OCKO-STAR-TV.png" group-title="CZ| CZECH REPUBLIC",CZ: OCKO STAR TV
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=690309&extension=ts&play_token=Sj3RJ05JLk
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3281.png?47556" group-title="CZ| SKYLINK ZÁBAVA ᴿᴬᵂ",CZ: FILMBOX STARS ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1228986&extension=ts&play_token=9XPnTW8gAd
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10991.png?51387" group-title="CZ| SKYLINK ZÁBAVA ᴿᴬᵂ",CZ: OCKO STAR ᴿᴬᵂ
-http://cf.onair4k.com:80/play/live.php?mac=00:1A:79:A3:0B:FE&stream=1228976&extension=ts&play_token=8bSEWBWhvT
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-states-of-america.png" group-title="USA : AMERICA",(US) Starz Comedy HD+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=47287&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-states-of-america.png" group-title="USA : AMERICA",(US) Starz Edge HD+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=47310&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Star Tv ᵘˡᵗʳᵃ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=182947&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Zee TV HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=55850&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Star Tv 4K
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=2855&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Star Tv HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=2854&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurostartr.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Euro Star
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=2987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG - SPORT",(BG) Trace Sport Stars HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56278&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) STARS.TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=51395&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cstar.png" group-title="FR - FRANCE",(FR) Cstar HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=37815&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-bosna.png" group-title="BH : BOSNIA",(BH) Al Jazeera Balkans
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=100491&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="NL - NEDERLAND ʰᵉᵛᶜ",(NL) STAR CHANNEL HEVC
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=151274&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) Star Lite 
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=183794&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) STAR ASIA NEWS 
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=183792&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) STAR SPORTS TAMIL VIP 
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=183764&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/colorshd.png" group-title="UK - ENGLISH",(UK) Colors
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=38205&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="UK - ENGLISH",(UK) Al Jazeera News 4K+ UK
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=38430&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG - FILM",(BG) MovieStar
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56243&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/starchannelgr.png" group-title="GR - GREECE",(GR) Star HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=46558&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="NL - NEDERLAND ᵘˡᵗʳᵃ",(NL)⚡️STAR CHANNEL ᵘˡᵗʳᵃ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=184211&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/osnmovieshd.png" group-title="AR : CINEMA",(AR) OSN Star Movies
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41839&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax.png" group-title="AR : CINEMA",(AR) Star Cinema 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41760&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax2hd.png" group-title="AR : CINEMA",(AR) Star Cinema 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41759&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/Albania/star_plus_al.png" group-title="AL/KS : SHQIPERIA/KOSOVA",(AL) Star Plus 4K++
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=105065&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : ARABIC",(AR) Zee Aflam
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=42119&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : ARABIC",(AR) Zee Alwan
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41700&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeeradocumentary.png" group-title="AR : ARABIC",(AR) Al Jazeera Documentary
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41711&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="AR : ARABIC",(AR) Al JAZEERA ENGLISH
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41721&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="AR : ARABIC",(AR) Al Jazeera Mubasher
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41712&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeerachannelqahd.png" group-title="AR : ARABIC",(AR) Al Jazeera
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41722&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Deportes 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56336&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Formula 1 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56337&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Liga de Campeones 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56334&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Golf HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=56338&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviesstarshd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Stars 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=3039&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarComedia.es.png" group-title="ES : CINE",(ES) Movistar Comedia HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=30240&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarEstrenos.es.png" group-title="ES : CINE",(ES) Movistar Estrenos HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=30238&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarAccion.es.png" group-title="ES : CINE",(ES) Movistar Action HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=30241&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarDCine.es.png" group-title="ES : CINE",(ES) Movistar Drama HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=30239&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarSeries.es.png" group-title="ES : CINE",(ES) Movistar Series HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=30237&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_stars_hd.png" group-title="SW : SWEDEN",(SW) TV4 Stars HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39068&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Star Jalsha
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=46568&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Zee Bangla Cinema
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=46570&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Zee Bangla HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=46571&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-albania.png" group-title="AL : CİNEMA",(AL) Star Plus HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=50517&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/romania.png" group-title="RO : ROMAINE",(RO) Antena Stars
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=31376&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/romania.png" group-title="RO : ROMAINE",(RO) Telestar 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=121934&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/finland.png" group-title="FI : FINLAND",(FI) C More Stars 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=89609&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Daystar HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=157326&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Al Jazeera HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=157315&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Star Life HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=157297&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Zee World HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=157296&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",✦✦✦✦ INDIA ✦✦✦✦
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=47815&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee TV HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40024&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Action
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40023&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Cinema HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40025&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Punjabi
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40027&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee News HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39949&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Bangla Cinema
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39954&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Bollywood HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40026&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Talkies
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40028&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) SET ASIA
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=78299&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) NDTV 24x7
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39976&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Living Foodz
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39980&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 1 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39960&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 2 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39959&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 3 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39958&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Music
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40032&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Plus
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40033&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Movies
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40031&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) UTV Movies
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40022&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Jaya Movies
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39983&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Plus HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40009&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Jalsha
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40017&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Gold
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39966&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Vijay
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39961&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Sports 1 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39965&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Sports 2 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40019&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) PTV Sports
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39975&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony TV HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40008&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony TV UK
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony MIX HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40014&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Pal
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39969&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Sab HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40015&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Six HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39967&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Colors IN HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40034&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zing 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39939&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Rishtey Colors
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40005&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Geo News
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40042&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Jaya TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40002&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Aaj Tak
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39994&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) 9X Jalwa
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39997&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Colors UK
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39998&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) 9XM
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39995&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) PTC Punjabi
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40000&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Geo TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40040&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) MAA Gold
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39979&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Times Now
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39956&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Willow Cricket HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39955&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Kadak
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=40038&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Star Wars
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=144867&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLigaTVBAR 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=121009&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=121005&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 3 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=120897&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 2 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=120896&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kroatie.png" group-title="HR : HRVATSKA",(HR) Al Jazeera Balkans
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39597&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/norway.png" group-title="SC : DENMARK:NORWAY",(NO) C More Stars 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=44896&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/denmark.png" group-title="SC : DENMARK:NORWAY",(DK) C More Stars HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=41857&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Action
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39679&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Premiere 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39678&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Premiere 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=39677&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/omroepzeeland.png" group-title="NL - REGIONAAL",(NL) Omroep Zeeland
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=78292&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR : ARABIC NA +6H",(AR) ZEE ALWAN +6H
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=152809&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR : ARABIC NA +6H",(AR) ZEE AFLAM +6H
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=152808&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR : EGYPT",(AR) STAR CINEMA 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=167608&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : EGYPT",(AR) Star Cinema 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=154231&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : EGYPT",(AR) Star Cinema 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:00:A4:DE&stream=154230&extension=ts
