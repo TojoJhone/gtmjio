@@ -1,6 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1696950.png" group-title="AT| CANAL+ ONLINE UNTERHALTUNG ᴿᴬᵂ",PLAY+| AL JAZEERA ENGLISH ᴿᴬᵂ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1696950&extension=ts&play_token=RxtmzJaDNa
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1696950&extension=ts&play_token=Au7rTMamGI
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/188213.png" group-title="SWITZERLAND",SW| STAR TV FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=188213&extension=ts&play_token=bwjj0UPX4t
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="DE| SAMSUNG GERMANY",DE| STARKE FRAUEN
+https://amg01866-mmagfast-amg01866c2-samsung-de-2312.playouts.now.amagi.tv/playlist/amg01866-mainstreammediaagfast-starkefrauen-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="DE| SAMSUNG GERMANY",DE| ZEE ONE
+https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8?ads.wurl_channel=1547&ads.wurl_name=ZeeOne&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="DE| SAMSUNG GERMANY",DE| GOLDSTAR TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STARKE-FRAUEN.png" group-title="DE| UNTERHALTUNG ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",DE| STARKE FRAUEN ᴿᴬᵂ ᵃᵐᶻ
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567646&extension=ts&play_token=Qxo1CT2miJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1567645.png" group-title="DE| UNTERHALTUNG ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",DE| STARS IN GEFAHR ᴿᴬᵂ ᵃᵐᶻ
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567645&extension=ts&play_token=2UqxoN9WKt
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1567600.png" group-title="DE| UNTERHALTUNG ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",DE| GOLDSTAR TV ᴿᴬᵂ ᵃᵐᶻ
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567600&extension=ts&play_token=P6AsNFPVty
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/Pluto.png" group-title="DE| PLUTO",DE|  GOLDSTAR TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192396135f3910007fc5fc7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/Pluto.png" group-title="DE| PLUTO",DE|  PLUTO TV STAR TREK
@@ -9,25 +23,11 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6152ee71bf99590007893
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6500464a3a0d700008b3ce19/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/Pluto.png" group-title="DE| PLUTO",DE|  STAR TREK: DEEP SPACE NINE
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a67d200c7ff50008cb131a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STARKE-FRAUEN.png" group-title="DE| UNTERHALTUNG ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",DE| STARKE FRAUEN ᴿᴬᵂ ᵃᵐᶻ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567646&extension=ts&play_token=oEwSOZMEOD
-#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1567645.png" group-title="DE| UNTERHALTUNG ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",DE| STARS IN GEFAHR ᴿᴬᵂ ᵃᵐᶻ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567645&extension=ts&play_token=2QxlaLdeIl
-#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1567600.png" group-title="DE| UNTERHALTUNG ᴿᴬᵂ ᵃᵐᶻ ᴳᴼᴸᴰ",DE| GOLDSTAR TV ᴿᴬᵂ ᵃᵐᶻ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567600&extension=ts&play_token=vUnZck7gYO
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STARKE-FRAUEN.png" group-title="DE| UNTERHALTUNG ᴴᴰ ᵃᵐᶻ ᴳᴼᴸᴰ",DE| STARKE FRAUEN ᴴᴰ ᵃᵐᶻ ◉
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567521&extension=ts&play_token=wHY9af0bgX
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567521&extension=ts&play_token=CtyUijI82H
 #EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1567520.png" group-title="DE| UNTERHALTUNG ᴴᴰ ᵃᵐᶻ ᴳᴼᴸᴰ",DE| STARS IN GEFAHR ᴴᴰ ᵃᵐᶻ ◉
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567520&extension=ts&play_token=lGv0PTcgf9
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567520&extension=ts&play_token=hGcpYUTZSk
 #EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1567475.png" group-title="DE| UNTERHALTUNG ᴴᴰ ᵃᵐᶻ ᴳᴼᴸᴰ",DE| GOLDSTAR TV ᴴᴰ ᵃᵐᶻ
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567475&extension=ts&play_token=zNZtmrrR9a
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1567475&extension=ts&play_token=ltL8gylrr5
 #EXTINF:-1 tvg-logo="http://103.176.90.92/picons/1387798.png" group-title="DE| PLEX TV",DE| PLEX CINESTAR
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1387798&extension=ts&play_token=BHe5r2wDGU
-#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/188213.png" group-title="SWITZERLAND",SW| STAR TV FHD
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=188213&extension=ts&play_token=xVPyOLbJ5n
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="DE| SAMSUNG GERMANY",DE| STARKE FRAUEN
-https://amg01866-mmagfast-amg01866c2-samsung-de-2312.playouts.now.amagi.tv/playlist/amg01866-mainstreammediaagfast-starkefrauen-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="DE| SAMSUNG GERMANY",DE| ZEE ONE
-https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8?ads.wurl_channel=1547&ads.wurl_name=ZeeOne&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="DE| SAMSUNG GERMANY",DE| GOLDSTAR TV
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8C:E0:62&stream=1387798&extension=ts&play_token=FePvYXg9As
