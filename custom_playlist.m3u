@@ -1,235 +1,1275 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Zee TV HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=55850&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Star Tv 4K
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=2855&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Star Tv HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=2854&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurostartr.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Euro Star
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=2987&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-states-of-america.png" group-title="USA : AMERICA",(US) Starz Comedy HD+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47287&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-states-of-america.png" group-title="USA : AMERICA",(US) Starz Edge HD+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47310&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Star Tv ᵘˡᵗʳᵃ
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=182947&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG - SPORT",(BG) Trace Sport Stars HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56278&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/colorshd.png" group-title="UK - ENGLISH",(UK) Colors
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=38205&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="UK - ENGLISH",(UK) Al Jazeera News 4K+ UK
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=38430&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Star Jalsha
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46568&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Zee Bangla Cinema
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46570&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Zee Bangla HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46571&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_stars_hd.png" group-title="SW : SWEDEN",(SW) TV4 Stars HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39068&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cstar.png" group-title="FR - FRANCE",(FR) Cstar HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=37815&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Star Wars
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=144867&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) STARS.TV
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=51395&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/norway.png" group-title="SC : DENMARK:NORWAY",(NO) C More Stars 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=44896&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/denmark.png" group-title="SC : DENMARK:NORWAY",(DK) C More Stars HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41857&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-bosna.png" group-title="BH : BOSNIA",(BH) Al Jazeera Balkans
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=100491&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kroatie.png" group-title="HR : HRVATSKA",(HR) Al Jazeera Balkans
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39597&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AR : ARABIC NA +6H",(AR) ZEE ALWAN +6H
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=152809&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AR : ARABIC NA +6H",(AR) ZEE AFLAM +6H
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=152808&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/osnmovieshd.png" group-title="AR : CINEMA",(AR) OSN Star Movies
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41839&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax.png" group-title="AR : CINEMA",(AR) Star Cinema 1
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41760&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax2hd.png" group-title="AR : CINEMA",(AR) Star Cinema 2
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41759&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) Star Lite 
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=183794&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) STAR ASIA NEWS 
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=183792&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) STAR SPORTS TAMIL VIP 
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=183764&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/omroepzeeland.png" group-title="NL - REGIONAAL",(NL) Omroep Zeeland
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=78292&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/romania.png" group-title="RO : ROMAINE",(RO) Antena Stars
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=31376&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/romania.png" group-title="RO : ROMAINE",(RO) Telestar 1
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=121934&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/finland.png" group-title="FI : FINLAND",(FI) C More Stars 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=89609&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : ARABIC",(AR) Zee Aflam
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=42119&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : ARABIC",(AR) Zee Alwan
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41700&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeeradocumentary.png" group-title="AR : ARABIC",(AR) Al Jazeera Documentary
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41711&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="AR : ARABIC",(AR) Al JAZEERA ENGLISH
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41721&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="AR : ARABIC",(AR) Al Jazeera Mubasher
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41712&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeerachannelqahd.png" group-title="AR : ARABIC",(AR) Al Jazeera
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41722&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="NL - NEDERLAND ʰᵉᵛᶜ",(NL) STAR CHANNEL HEVC
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=151274&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="NL - NEDERLAND ᵘˡᵗʳᵃ",(NL)⚡️STAR CHANNEL ᵘˡᵗʳᵃ
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=184211&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarComedia.es.png" group-title="ES : CINE",(ES) Movistar Comedia HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30240&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarEstrenos.es.png" group-title="ES : CINE",(ES) Movistar Estrenos HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30238&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarAccion.es.png" group-title="ES : CINE",(ES) Movistar Action HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30241&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarDCine.es.png" group-title="ES : CINE",(ES) Movistar Drama HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30239&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarSeries.es.png" group-title="ES : CINE",(ES) Movistar Series HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30237&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Action
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39679&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Premiere 1
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39678&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Premiere 2
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39677&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/starchannelgr.png" group-title="GR - GREECE",(GR) Star HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46558&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",✦✦✦✦ INDIA ✦✦✦✦
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47815&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee TV HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40024&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Action
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40023&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Cinema HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40025&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Punjabi
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40027&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee News HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39949&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Bangla Cinema
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39954&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Bollywood HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40026&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Talkies
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40028&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) SET ASIA
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=78299&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) NDTV 24x7
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39976&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Living Foodz
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39980&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 1 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39960&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 2 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39959&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 3 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39958&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Music
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40032&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Plus
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40033&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Movies
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40031&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) UTV Movies
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40022&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Jaya Movies
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39983&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Plus HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40009&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Jalsha
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40017&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Gold
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39966&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Vijay
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39961&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Sports 1 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39965&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Sports 2 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40019&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) PTV Sports
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39975&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony TV HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40008&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony TV UK
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39987&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony MIX HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40014&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Pal
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39969&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Sab HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40015&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Six HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39967&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Colors IN HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40034&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zing 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39939&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Rishtey Colors
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40005&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Geo News
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40042&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Jaya TV
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40002&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Aaj Tak
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39994&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) 9X Jalwa
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39997&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Colors UK
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39998&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) 9XM
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39995&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) PTC Punjabi
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40000&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Geo TV
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40040&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) MAA Gold
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39979&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Times Now
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39956&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Willow Cricket HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39955&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Kadak
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40038&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviesstarshd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Stars 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=3039&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLigaTVBAR 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=121009&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=121005&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 3 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=120897&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 2 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=120896&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG - FILM",(BG) MovieStar
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56243&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AR : EGYPT",(AR) STAR CINEMA 1
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=167608&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : EGYPT",(AR) Star Cinema 1
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=154231&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : EGYPT",(AR) Star Cinema 2
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=154230&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Daystar HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157326&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Al Jazeera HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157315&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Star Life HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157297&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Zee World HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157296&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/Albania/star_plus_al.png" group-title="AL/KS : SHQIPERIA/KOSOVA",(AL) Star Plus 4K++
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=105065&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Deportes 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56336&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Formula 1 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56337&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Liga de Campeones 4K+
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56334&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Golf HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56338&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-albania.png" group-title="AL : CİNEMA",(AL) Star Plus HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=50517&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="|NA| USA DAZN PPV",US-DAZN 2 HD (D): WRC| Secto Rally Finland: Ceremonial Start_ Jyvaskyla| Wed 31 Jul 12:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990313&extension=ts&play_token=hxKrziUQsr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/DAYSTAR.png" group-title="|NA| USA GENERAL",USA - DAYSTAR HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=469332&extension=ts&play_token=L8GPLCC82w
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/START-TV.png" group-title="|NA| USA GENERAL",USA - START TV HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=469430&extension=ts&play_token=plaRdXskMd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/flosports.png" group-title="|NA| USA FLO PPV",Flo (FLSP) 174: 2025 Texas Stars vs Chicago Wolves Home - 13/04 16:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990921&extension=ts&play_token=NRnU9De9Lq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/flosports.png" group-title="|NA| USA FLO PPV",Flo (FLSP) 175: 2025 Texas Stars vs Chicago Wolves Away - 13/04 16:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990922&extension=ts&play_token=3pAqHP39h1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 1 | KansasCity vs. Portland start:2025-04-13 19:10:00 stop:2025-04-13 21:52:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=864934&extension=ts&play_token=8fLAnVXH43
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 2 | MLSCountdown start:2025-04-13 22:55:00 stop:2025-04-14 01:37:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=864935&extension=ts&play_token=nZ78fCRhoq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 3 | MLSWrap-Up start:2025-04-14 02:25:00 stop:2025-04-14 05:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=864937&extension=ts&play_token=JVsDyVfR88
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 4 | Chicago vs. Miami start:2025-04-13 21:25:00 stop:2025-04-14 00:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=864936&extension=ts&play_token=WXT4MZxk3V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 5 | St.Louis vs. Columbus start:2025-04-13 23:55:00 stop:2025-04-14 02:37:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=864938&extension=ts&play_token=Bx15U7pGYz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 6 | LAFC vs. SanJose start:2025-04-13 03:25:00 stop:2025-04-13 06:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=864939&extension=ts&play_token=hhIbbizlXJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 7 | Orlando vs. NewYork start:2025-04-12 21:25:00 stop:2025-04-13 00:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=864940&extension=ts&play_token=8obbknHKYA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 8| NewYorkCity vs. Philadelphia start:2025-04-13 00:25:00 stop:2025-04-13 03:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=864941&extension=ts&play_token=NsMZE05cMk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 9 | LA vs. Houston start:2025-04-13 03:25:00 stop:2025-04-13 06:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=864942&extension=ts&play_token=pYfTILTv2V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 10 | D.C. vs. Cincinnati start:2025-04-13 00:25:00 stop:2025-04-13 03:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1207582&extension=ts&play_token=VMfhbiG0SU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 11 | Montréal vs. Charlotte start:2025-04-13 00:25:00 stop:2025-04-13 03:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=864943&extension=ts&play_token=Fx0shtkjXz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 12 | MLS360 start:2025-04-13 00:25:15 stop:2025-04-13 03:07:15
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1207583&extension=ts&play_token=wejNgM7Rrk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 13 | Dallas vs. Seattle start:2025-04-13 01:25:00 stop:2025-04-13 04:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1207584&extension=ts&play_token=qvj3ySTI3Q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 14 | Nashville vs. Portland start:2025-03-09 01:25:00 stop:2025-03-09 04:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1212333&extension=ts&play_token=tL63YA8sUY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="|NA| USA MLS",MLS Live 15 | Chicago vs. Montréal start:2025-03-30 00:25:00 stop:2025-03-30 04:07:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1212332&extension=ts&play_token=PIGHnZhbH9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/USA-FLAG.png" group-title="|NA| USA STARZ NETWORK",##### STARZ ORIGINAL SERIES #####
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971107&extension=ts&play_token=OOGzisbx4K
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL INFO ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971106&extension=ts&play_token=E07CEvQUqO
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL 1 ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971105&extension=ts&play_token=xQiXzpiuVS
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL 2 ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971104&extension=ts&play_token=eZdHDDjHPl
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL 3 ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971103&extension=ts&play_token=GMGSJflc1B
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL 4 ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971102&extension=ts&play_token=Uh8bZO0eOk
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL 5 ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971101&extension=ts&play_token=eFBSriRUy6
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL 6 ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971100&extension=ts&play_token=dy5Ls29yj3
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL 7 ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971099&extension=ts&play_token=oM7hgzDJ6A
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL 8 ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971098&extension=ts&play_token=MxT7y6gczX
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL 9 ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971097&extension=ts&play_token=TKAbLs46cg
+#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="|NA| USA STARZ NETWORK",USA - STARZ ORIGINAL 10 ᴴᴰ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=971096&extension=ts&play_token=dM9tCr2ky7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/espn.png" group-title="|NA| USA ESPN+",ESPN+ 74 (D): Southern Indiana vs. Eastern Illinois  13:00et-18:00uk
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723794&extension=ts&play_token=ro2tYjX78l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/espn.png" group-title="|NA| USA ESPN+",ESPN+ 108 (D): Southern Illinois vs. Indiana State  13:00et-18:00uk
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723760&extension=ts&play_token=b0nralNeO2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/espn.png" group-title="|NA| USA ESPN+",ESPN+ 146 (D): Southern Indiana vs. Tennessee Tech  14:00et-19:00uk
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723722&extension=ts&play_token=96D9RbpsKM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CBS-4-INDIANAPOLIS.jpg" group-title="|NA| USA CBS",USA - CBS 4 INDIANAPOLIS IN (WTTV)
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=549592&extension=ts&play_token=HIea5sdL5c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/b1g-logo.png" group-title="|NA| USA B1G+ PPV",BTN+ 9 HD (D): B1G+ | Softball | Indiana at Wisconsin | Sun 13 Apr 13:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990706&extension=ts&play_token=o9LV85OkB0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/b1g-logo.png" group-title="|NA| USA B1G+ PPV",BTN+ 17 HD (D): B1G+ | Baseball | Indiana at Illinois | Sun 13 Apr 14:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990714&extension=ts&play_token=EGVrPPEU0l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/b1g-logo.png" group-title="|NA| USA B1G+ PPV",BTN+ 24 HD (D): B1G+ | Softball | IU Indianapolis at Purdue | Tue 15 Apr 17:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990721&extension=ts&play_token=SE6QAsOrKR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/b1g-logo.png" group-title="|NA| USA B1G+ PPV",BTN+ 27 HD (D): B1G+ | Baseball | Indiana St. at Indiana | Tue 15 Apr 18:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990724&extension=ts&play_token=EzOd5zML8N
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/startvhd.png" group-title="|AS| TURKEY | ULUSAL",TR - STAR TV UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=259878&extension=ts&play_token=KpXkdGI2YK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/eurostar.png" group-title="|AS| TURKEY | ULUSAL",TR - EURO STAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=259887&extension=ts&play_token=NjL9UcMEFi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/ABC-6-INDIANAPOLIS.png" group-title="|NA| USA ABC",USA - ABC 6 INDIANAPOLIS IN (WRTV)
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=548942&extension=ts&play_token=761PKk09wy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/FOX-59-INDIANAPOLIS.png" group-title="|NA| USA FOX",USA - FOX 59 INDIANAPOLIS IN (WXIN)
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=549833&extension=ts&play_token=domJr7RnyK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/NHL-DALLAS-STARS.png" group-title="|NA| USA NHL",NHL DALLAS STARS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660730&extension=ts&play_token=gsy7ZzWfWJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CBS-COLTS-INDIANAPOLIS-IN.png" group-title="|NA| USA NFL",NFL CBS COLTS INDIANAPOLIS IN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660782&extension=ts&play_token=FzK5HPxmim
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/starztv.png" group-title="|NA| USA MOVIES",USA - STARZ (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552088&extension=ts&play_token=nK3rOfeuAV
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/starztv.png" group-title="|NA| USA MOVIES",USA - STARZ (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552087&extension=ts&play_token=77QAOkL90Z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-CINEMA.png" group-title="|NA| USA MOVIES",USA - STARZ CINEMA (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552086&extension=ts&play_token=fdu38v0rVP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-CINEMA.png" group-title="|NA| USA MOVIES",USA - STARZ CINEMA (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552085&extension=ts&play_token=0cwrAncHFu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-COMEDY.png" group-title="|NA| USA MOVIES",USA - STARZ COMEDY (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552084&extension=ts&play_token=XRoRTyQ2EY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-COMEDY.png" group-title="|NA| USA MOVIES",USA - STARZ COMEDY (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552083&extension=ts&play_token=6sawjo3vzt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-EDGE.png" group-title="|NA| USA MOVIES",USA - STARZ EDGE (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552082&extension=ts&play_token=SJgb1hP0ss
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-EDGE.png" group-title="|NA| USA MOVIES",USA - STARZ EDGE (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552081&extension=ts&play_token=1QbJikO0Bo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-EAST.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552080&extension=ts&play_token=GlDnFhuphk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-WEST.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552079&extension=ts&play_token=JT6Kn0hxKl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-ACTION.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE ACTION (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552078&extension=ts&play_token=7wjcU6LOtO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-ACTION.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE ACTION (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552077&extension=ts&play_token=pVaBzVkfRc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-BLACK.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE BLACK (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552076&extension=ts&play_token=uXiAgifXkO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-BLACK.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE BLACK (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552075&extension=ts&play_token=EymvDkurbm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ-ENCORE-CLASSIC-HD.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE CLASSIC (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552074&extension=ts&play_token=gM449QQULv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ-ENCORE-CLASSIC-HD.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE CLASSIC (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552073&extension=ts&play_token=WHTBjF9OPb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-FAMILY.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE FAMILY (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552072&extension=ts&play_token=ScCjhmRklX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-FAMILY.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE FAMILY (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552071&extension=ts&play_token=BhfLKI9GDk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-SUSPENSE.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE SUSPENSE (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552070&extension=ts&play_token=Tlpv8eRjN5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-SUSPENSE.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE SUSPENSE (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552069&extension=ts&play_token=PwUCy3shk6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-WESTERNS.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE WESTERNS (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552068&extension=ts&play_token=uVMvqtHXtY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-WESTERNS.png" group-title="|NA| USA MOVIES",USA - STARZ ENCORE WESTERNS (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552067&extension=ts&play_token=XzwqcOUbVw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-IN-BLACK.png" group-title="|NA| USA MOVIES",USA - STARZ IN BLACK (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552066&extension=ts&play_token=UnkCamvxKG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-IN-BLACK.png" group-title="|NA| USA MOVIES",USA - STARZ IN BLACK (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552065&extension=ts&play_token=9JWa7Tsgiw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-KIDS-FAMILY.png" group-title="|NA| USA MOVIES",USA - STARZ KIDS & FAMILY (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552064&extension=ts&play_token=ykhivFQwnC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-KIDS-FAMILY.png" group-title="|NA| USA MOVIES",USA - STARZ KIDS & FAMILY (WEST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552063&extension=ts&play_token=4C3O02EJXw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/5STARMAX.png" group-title="|NA| USA MOVIES",USA - 5STARMAX (EAST) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552052&extension=ts&play_token=eg13KBmyE2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/WEBSTAR.png" group-title="|ALB| MUSIC",ALB - EB FESTIVE 5
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=997354&extension=ts&play_token=p9ZGXLag44
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-SPORTS-1.png" group-title="|NA| USA SPORTS",SP - STAR SPORTS 1 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=487793&extension=ts&play_token=qhla04MO76
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-SPORTS-2.png" group-title="|NA| USA SPORTS",SP - STAR SPORTS 2 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=487792&extension=ts&play_token=tnMSFXjMhr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/BALLY-SPORTS-INDIANA.png" group-title="|NA| USA SPORTS",SP - FANDUEL INDIANA PLUS HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=816129&extension=ts&play_token=rtApUdEIa0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/BALLY-SPORTS-INDIANA.png" group-title="|NA| USA SPORTS",SP - FANDUEL INDIANA HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=816128&extension=ts&play_token=FfdoI74mWt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CSTARHITSFRENANCE-1.png" group-title="|EU| FRANCE MUSIQUE",FR - CSTAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=543171&extension=ts&play_token=hNnyB0m6ql
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CSTARHITSFRENANCE-1.png" group-title="|EU| FRANCE MUSIQUE",FR - CSTAR HITS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=543264&extension=ts&play_token=Bkxmu9p0Bm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CSTARHITSFRENANCE-1.png" group-title="|EU| FRANCE MUSIQUE",FR - CSTAR HITS FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=629698&extension=ts&play_token=UVxVIDyHfi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CSTARHITSFRENANCE-1.png" group-title="|EU| FRANCE MUSIQUE",FR - CSTAR FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=553992&extension=ts&play_token=Ld7cBcF17o
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CSTARHITSFRENANCE-1.png" group-title="|EU| FRANCE MUSIQUE",FR - CSTAR UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=543170&extension=ts&play_token=IcbRDjtyMR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CSTARHITSFRENANCE-1.png" group-title="|EU| FRANCE MUSIQUE",FR - CSTAR HITS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=543263&extension=ts&play_token=InWXmZstrF
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/aljazeeraamerica.png" group-title="|NA| USA NEWS",USA - AL JAZEERA AMERICA HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=469294&extension=ts&play_token=rSitIVp2fw
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/aljazeeraamerica.png" group-title="|NA| USA NEWS",USA - AL JAZEERA ENGLISH
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=469293&extension=ts&play_token=Ig2B6mOruq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 1 | Blue Jays x Orioles start:2025-04-13 18:35:00 stop:2025-04-14 01:48:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801199&extension=ts&play_token=TXjSz392FI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 2 | Giants x Yankees start:2025-04-13 18:35:00 stop:2025-04-14 01:48:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801200&extension=ts&play_token=q5iUCVLqrg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 8 | Tigers x Twins start:2025-04-13 19:10:00 stop:2025-04-14 02:23:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801206&extension=ts&play_token=irvaxM4Y3g
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 9 | Red Sox x White Sox start:2025-04-13 19:10:00 stop:2025-04-14 02:23:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801207&extension=ts&play_token=TkNuOV5xqZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 10 | Phillies x Cardinals start:2025-04-13 19:15:00 stop:2025-04-14 02:28:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801192&extension=ts&play_token=zKVkWlVll3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 11 | Mets x Athletics start:2025-04-13 21:05:00 stop:2025-04-14 04:18:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801193&extension=ts&play_token=NBBJYf2RuO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 12 | Rockies x Padres start:2025-04-13 21:10:00 stop:2025-04-14 04:23:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801194&extension=ts&play_token=7zmltORHBo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 13 | Rangers x Mariners start:2025-04-13 21:10:00 stop:2025-04-14 04:23:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801195&extension=ts&play_token=fFvPesPoWE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 14 | Brewers x D-backs start:2025-04-13 21:10:00 stop:2025-04-14 04:23:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801196&extension=ts&play_token=FjbFkCK8FM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 15 | Cubs x Dodgers start:2025-04-14 00:10:00 stop:2025-04-14 07:23:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801197&extension=ts&play_token=jbEkwlAhxW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 16 | Guardians x Angels start:2025-04-06 21:07:00 stop:2025-04-07 04:20:20
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=801198&extension=ts&play_token=mzO8xwxQDf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/mlb.png" group-title="|NA| USA MLB",MLB CLEVELAND INDIANS HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552231&extension=ts&play_token=6Dzim7nwZ6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 01: Bucks (MIL) x Pistons (DET) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660707&extension=ts&play_token=DIypFmeskM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 02: 76ers (PHI) x Bulls (CHI) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660706&extension=ts&play_token=fLfZblyh7r
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 03: Heat (MIA) x Wizards (WAS) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660705&extension=ts&play_token=8mmzwumW0f
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 04: Cavaliers (CLE) x Pacers (IND) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660704&extension=ts&play_token=lmb1s6IXaj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 05: Nets (BKN) x Knicks (NYK) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660703&extension=ts&play_token=MLz0kAIVnF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 06: Celtics (BOS) x Hornets (CHA) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660702&extension=ts&play_token=FHMZSjtpZo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 07: Hawks (ATL) x Magic (ORL) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660701&extension=ts&play_token=8zRr189YHJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 08: Kings (SAC) x Suns (PHX) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660700&extension=ts&play_token=4PMbzDOXnT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 09 : Trail Blazers (POR) x Lakers (LAL) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660699&extension=ts&play_token=UBWrSq5VYz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 10 : Warriors (GSW) x Clippers (LAC) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660698&extension=ts&play_token=ANg09GuURj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 11 : Spurs (SAS) x Raptors (TOR) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660697&extension=ts&play_token=xyRzOOUfwo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 12 : Pelicans (NOP) x Thunder (OKC) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660696&extension=ts&play_token=VkR4ZGoM6U
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 13 : Timberwolves (MIN) x Jazz (UTA) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660695&extension=ts&play_token=OLLxVULdF2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 14 : Grizzlies (MEM) x Mavericks (DAL) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660694&extension=ts&play_token=lnPswT7nuJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 15 : Rockets (HOU) x Nuggets (DEN) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660693&extension=ts&play_token=t9e72T0RFG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/NBA-INDIANA-PACERS.png" group-title="|NA| USA NBA",NBA INDIANA PACERS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=660680&extension=ts&play_token=aV8KB1DDN8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NBC-13-INDIANAPOLIS-WTHR.jpeg" group-title="|NA| USA NBC",USA - NBC 13 INDIANAPOLIS IN (WTHR)
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=550332&extension=ts&play_token=IEydrWewp9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/BEIN-STAR-WORLD.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN STAR WORLD HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=862838&extension=ts&play_token=0TOu1ybwlc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/trace-sport-stars-1.png" group-title="|EU| FRANCE SPORTS",FR - TRACE SPORT STARS FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=756585&extension=ts&play_token=YEb13wCFZ1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/trace-sport-stars-1.png" group-title="|EU| FRANCE SPORTS",FR - TRACE SPORTS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=543412&extension=ts&play_token=cYv3DYhmpO
+#EXTINF:-1 tvg-logo="" group-title="|AS| SPORTS",##### INDIA SPORTS #####
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281624&extension=ts&play_token=juWQfRYKdP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS 1 ENGLISH UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281630&extension=ts&play_token=A5qEzPmmR7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS HINDI 1 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843539&extension=ts&play_token=oP35SfPCQT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS 1 HINDI UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281631&extension=ts&play_token=eg7MZJtyPn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-TAMIL.jpg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS TAMIL
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281637&extension=ts&play_token=iO07d3PY6m
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HD.png" group-title="|AS| SPORTS",SPORTS - STAR SPORTS 1 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843537&extension=ts&play_token=npal198F0A
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-2-HD.jpeg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS 2 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843538&extension=ts&play_token=K4Gho90CQ3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-2-HD.jpeg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS 2 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281632&extension=ts&play_token=xdPIBcG5yl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-3.jpeg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS 3
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281633&extension=ts&play_token=7EuiUNhjlp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STAR-SPORTSSELECT-1.png" group-title="|AS| SPORTS",SPORTS - STAR SPORTS SELECT 1 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843540&extension=ts&play_token=CfX9aCWNg7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS SELECT 1 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281635&extension=ts&play_token=mRO8ZgKBh8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STAR-SPORTSSELECT-2.png" group-title="|AS| SPORTS",SPORTS - STAR SPORTS SELECT 2 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843541&extension=ts&play_token=25dK3TINYM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS SELECT 2 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281636&extension=ts&play_token=ODVQ4xICog
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-FIRST.png" group-title="|AS| SPORTS",SPORTS - STAR SPORTS FIRST
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281634&extension=ts&play_token=bwnDaAjPtz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Sony_Ten_1_HD.png" group-title="|AS| SPORTS",SPORTS - TEN 1 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843533&extension=ts&play_token=gM0ectJU4E
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ten2.png" group-title="|AS| SPORTS",SPORTS - TEN 2 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843534&extension=ts&play_token=umhQmj6nXN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Sony_Ten_3.png" group-title="|AS| SPORTS",SPORTS - TEN 3 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843535&extension=ts&play_token=wJF8M3REJX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",###### STARZPLAY SPORT ######
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=761731&extension=ts&play_token=hi78pR5eZZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/UFC-.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 1 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=977634&extension=ts&play_token=zefNwxjlWE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/UFC-.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 2 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=977635&extension=ts&play_token=Wx22c8x8o2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/UFC-.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 3 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=994802&extension=ts&play_token=LkXuWZRqao
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 1 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765041&extension=ts&play_token=mOu3UYz6g1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 1 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=761732&extension=ts&play_token=OlGUHTYQ4V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 2 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765042&extension=ts&play_token=7ZO35bOgOl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 2 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=761733&extension=ts&play_token=50iOwccOdS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 3 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765043&extension=ts&play_token=n870LwbPpW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 3 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=761734&extension=ts&play_token=0abXKvR86t
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 1 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=761735&extension=ts&play_token=5gTdsbcbLZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 5 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=761736&extension=ts&play_token=UKkV36LDK0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 1 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=767232&extension=ts&play_token=7JQjeKCAj0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/starzplay-logo.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 1 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=766017&extension=ts&play_token=iok2WL62d3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 2 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=767231&extension=ts&play_token=umsZ9egntU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/starzplay-logo.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 2 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=766018&extension=ts&play_token=wwzOAz8LCA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 1 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765044&extension=ts&play_token=aD16ehG0Ow
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 1 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765045&extension=ts&play_token=01D8dOyBmP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/AD_SPORT_2.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 2 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765046&extension=ts&play_token=FGbN7LsaAO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/AD_SPORT_2.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 2 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765047&extension=ts&play_token=798ma05HC1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT1
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765050&extension=ts&play_token=amyehKFkKM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT1 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765049&extension=ts&play_token=14ts3DVybN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT1 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765048&extension=ts&play_token=Pt8HIksb0C
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/AD_SPORT_2.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT2 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765052&extension=ts&play_token=YnAnsjYwtW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/AD_SPORT_2.png" group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT2 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765051&extension=ts&play_token=9MTIECpbvr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-CHANNEL.png" group-title="|EU| BULGARIA",BG - STAR CHANNEL
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=263431&extension=ts&play_token=asJLvELoZu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-CRIME.png" group-title="|EU| BULGARIA",BG - STAR CRIME
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=263432&extension=ts&play_token=9xLsu7jJe0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-CRIME.png" group-title="|EU| BULGARIA",BG - STAR CRIME UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=263433&extension=ts&play_token=UtgE45Uu9y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-LIFE.png" group-title="|EU| BULGARIA",BG - STAR LIFE 
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=263434&extension=ts&play_token=6GmwG7YSSH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-LIFE.png" group-title="|EU| BULGARIA",BG - STAR LIFE UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=263435&extension=ts&play_token=SYxX2dSd2v
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MOVIE-STAR-HD.png" group-title="|EU| BULGARIA",BG - MOVIE STAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=263457&extension=ts&play_token=tBlcYnisIG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MOVIE-STAR-HD.png" group-title="|EU| BULGARIA",BG - MOVIE STAR FULL UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=263458&extension=ts&play_token=GQTWJ01QQJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/tracesportstars.png" group-title="|EU| BULGARIA",BG - TRACE SPORT STARS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=263494&extension=ts&play_token=DhKUPHjbQU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/tracesportstarshd.png" group-title="|EU| BULGARIA",BG - TRACE SPORT STARS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=263495&extension=ts&play_token=2Z6P6zJHRi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="|UK| DISCOVERY+ PPV",D+ (UK) Events 38: Cricket | Sri Lanka _ India | 3rd T20 | Wed 31 Jul 16:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990501&extension=ts&play_token=ZHCIr19Qaj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="|UK| DISCOVERY+ PPV",D+ (UK) Events 67: MLB Classic | All_Star Highlights: Kansas City (1973) | Thu 01 Aug 03:30
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990530&extension=ts&play_token=KLWuF3UWYy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="|UK| DISCOVERY+ PPV",D+ (UK) Events 96: Cricket | Sri Lanka _ India | Twenty20 | Thu 01 Aug 09:00
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990559&extension=ts&play_token=rgOAf296mH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aljazeeraenghd.png" group-title="|NZ| NEW ZEALAND",NZ - AL JAZEERA HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=630584&extension=ts&play_token=bA0VRFHDsf
+#EXTINF:-1 tvg-logo="" group-title="|AS| INDIA",###### INDIA #####
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281276&extension=ts&play_token=Jajkh14tmL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetvhd.png" group-title="|AS| INDIA",IN - ZEE TV UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281277&extension=ts&play_token=ieU27Ymv4b
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/zeetv.png" group-title="|AS| INDIA",IN - ZEE TV USA HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1179866&extension=ts&play_token=Agqf0GDQTJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecinemahd.png" group-title="|AS| INDIA",IN - ZEE CINEMA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281278&extension=ts&play_token=RBDatZBjZw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.zing.png" group-title="|AS| INDIA",IN - ZING
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281279&extension=ts&play_token=yOw9qeKOOC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorshd.png" group-title="|AS| INDIA",IN - COLORS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281280&extension=ts&play_token=bRYse8CYnP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/stargoldhd.png" group-title="|AS| INDIA",IN - STAR GOLD UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281281&extension=ts&play_token=Ncmxj079Ft
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/star-gold-select-.png" group-title="|AS| INDIA",IN - STAR GOLD SELECT HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=844263&extension=ts&play_token=Z271okdGVM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/stargoldselect.png" group-title="|AS| INDIA",IN - STAR GOLD SELECT UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281282&extension=ts&play_token=5MsWYAq5BI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starplushd.png" group-title="|AS| INDIA",IN - STAR PLUS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281283&extension=ts&play_token=vCmAxDD8uG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starbharathd.jpg" group-title="|AS| INDIA",IN - STAR BHARAT UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281284&extension=ts&play_token=HM2djllQjj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starutsav.png" group-title="|AS| INDIA",IN - STAR UTSAV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281285&extension=ts&play_token=RuQnb2OUso
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starutsav.png" group-title="|AS| INDIA",IN - STAR UTSAV MOVIES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281286&extension=ts&play_token=TJ8wPyd2px
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.sony.png" group-title="|AS| INDIA",IN - SONY UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281287&extension=ts&play_token=w7f3OKdKXi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.sony.png" group-title="|AS| INDIA",IN - SONY UHD (Back-Up)
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281288&extension=ts&play_token=EQFLOwLjRI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.sony.png" group-title="|AS| INDIA",IN - SONY UHD USA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281289&extension=ts&play_token=fHfImPkY1T
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonymaxhd.png" group-title="|AS| INDIA",IN - SONY MAX UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281290&extension=ts&play_token=QBaFh6S6y2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonymaxhd.png" group-title="|AS| INDIA",IN - SONY MAX UHD (Back-Up)
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281291&extension=ts&play_token=wG91FY9iPo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonymax2.png" group-title="|AS| INDIA",IN - SONY MAX 2
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281292&extension=ts&play_token=YxSYblhnaE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonysabhd.jpg" group-title="|AS| INDIA",IN - SONY SAB UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281293&extension=ts&play_token=pDNlZB0hcN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonysabhd.jpg" group-title="|AS| INDIA",IN - SONY SAB UHD (Back-Up)
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281294&extension=ts&play_token=l9LPDnI0YM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/andtvhd.png" group-title="|AS| INDIA",IN - AND EXPLORER UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281295&extension=ts&play_token=wIZgTIiEF0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sony_pix_hd.png" group-title="|AS| INDIA",IN - SONY PIX UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281296&extension=ts&play_token=bIEFjV6gYj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeeaction.jpg" group-title="|AS| INDIA",IN - ZEE ACTION
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281297&extension=ts&play_token=1Nnjjr7GnU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonypal.jpg" group-title="|AS| INDIA",IN - SONY PAL
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281299&extension=ts&play_token=zFcDD0GUXP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonywah.jpg" group-title="|AS| INDIA",IN - SONY WAH
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281300&extension=ts&play_token=wg1p0L2BMl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SONY-YAY.jpg" group-title="|AS| INDIA",IN - SONY YAY
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281301&extension=ts&play_token=Z5TmeUpgSn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.b4umovies.png" group-title="|AS| INDIA",IN - B4U MOVIES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281302&extension=ts&play_token=aAFmmUPZS5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/b4umusic.png" group-title="|AS| INDIA",IN - B4U MUSIC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281303&extension=ts&play_token=w5rhCppIUM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/9xjalwa.jpg" group-title="|AS| INDIA",IN - 9X JALWA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281304&extension=ts&play_token=W3eRPk9g8q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aajtakhd.png" group-title="|AS| INDIA",IN - AAJ TAK UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281305&extension=ts&play_token=DYRC3JeEin
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.aajtak.png" group-title="|AS| INDIA",IN - AAJ TAK TEZ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281306&extension=ts&play_token=CxWxTaV1iB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zoomtv.png" group-title="|AS| INDIA",IN - ZOOM TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281307&extension=ts&play_token=x2as0t2W9A
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.aastha.png" group-title="|AS| INDIA",IN - AASTHA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281308&extension=ts&play_token=B1Uh8hN8xw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.aastha.png" group-title="|AS| INDIA",IN - AASTHA BHAJAN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281309&extension=ts&play_token=pDwAb7s7SH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.abpnews.png" group-title="|AS| INDIA",IN - ABP NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281310&extension=ts&play_token=q1PTxNcr5V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/AND_FLIX_HD.png" group-title="|AS| INDIA",IN - AND FLIX UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281311&extension=ts&play_token=CXpb8pZ2uu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/andpicture.jpg" group-title="|AS| INDIA",IN - AND PICTURES UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281312&extension=ts&play_token=womdqRo0V7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/andtvhd.png" group-title="|AS| INDIA",IN - AND TV UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281313&extension=ts&play_token=DYX954ZFkK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/andtvhd.png" group-title="|AS| INDIA",IN - AND TV UHD USA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281314&extension=ts&play_token=kUjA496fUG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/animalplanethd.png" group-title="|AS| INDIA",IN - ANIMAL PLANET UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281315&extension=ts&play_token=9tSnaqK8si
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/bbcearthhd.png" group-title="|AS| INDIA",IN - BBC EARTH UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281316&extension=ts&play_token=SsaPzjj0oM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cineplexhd.jpg" group-title="|AS| INDIA",IN - CINEPLEX UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281318&extension=ts&play_token=l2u866Lq8j
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DD-BHARTI.png" group-title="|AS| INDIA",IN - DD BHARTI
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281319&extension=ts&play_token=IXpJmGZ4Iq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DD-BIHAR.jpg" group-title="|AS| INDIA",IN - DD BIHAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281320&extension=ts&play_token=FAkr0A0Q5H
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ddindia.png" group-title="|AS| INDIA",IN - DD INDIA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281321&extension=ts&play_token=OFH2ZjiWsc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DD-MP.jpeg" group-title="|AS| INDIA",IN - DD MP
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281322&extension=ts&play_token=Ieup7pxPlQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ddnationalhd.jpg" group-title="|AS| INDIA",IN - DD NATIONAL UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281323&extension=ts&play_token=K3jPdY5WF3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ddnews.jpg" group-title="|AS| INDIA",IN - DD NEWS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281324&extension=ts&play_token=OpiWukOgRU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ddrajashtan.jpg" group-title="|AS| INDIA",IN - DD RAJASTHAN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281325&extension=ts&play_token=Cm3xy1M7bG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DD-UP.png" group-title="|AS| INDIA",IN - DD UP
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281326&extension=ts&play_token=B4nprXd0yI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/FOOD-FOOD.jpeg" group-title="|AS| INDIA",IN - FOOD FOOD UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281327&extension=ts&play_token=d2MCdw8S7c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DILLI-AAJ-TAKK.png" group-title="|AS| INDIA",IN - DILLI AAJ TAKK
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281328&extension=ts&play_token=4agyTIFcMe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.Discovery_world_hd.png" group-title="|AS| INDIA",IN - DISCOVERY WORLD UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281329&extension=ts&play_token=Yt5yIttAfM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Discovery_Jeet_hd.png" group-title="|AS| INDIA",IN - DISCOVERY JEET UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281330&extension=ts&play_token=q2lCkLgee2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/hungama.jpg" group-title="|AS| INDIA",IN - HUNGAMA BOL HADIPA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281332&extension=ts&play_token=aXXSXG49Hp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/hungama.jpg" group-title="|AS| INDIA",IN - HUNGAMA DIL DE UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281333&extension=ts&play_token=buMzUGhtMQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/HUNGAMA-KADAK-HITS.jpg" group-title="|AS| INDIA",IN - HUNGAMA KADAK HITS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281334&extension=ts&play_token=4ftHYWaUqQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/hungama.jpg" group-title="|AS| INDIA",IN - HUNGAMA NAZRANA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281335&extension=ts&play_token=oazjPNpDAs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/hungama.jpg" group-title="|AS| INDIA",IN - HUNGAMA POP PATAKA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281336&extension=ts&play_token=DtKHghmhKT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/KRISHNA-VANI.png" group-title="|AS| INDIA",IN - KRISHNA VANI UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281337&extension=ts&play_token=bP7uTbc9gh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/livingfoodzhd.png" group-title="|AS| INDIA",IN - LIVING FOODZ UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281338&extension=ts&play_token=aC84ANSopq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/natgeohd.png" group-title="|AS| INDIA",IN - NAT GEO UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281339&extension=ts&play_token=A89k8m1AUN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/natgeowildhd.png" group-title="|AS| INDIA",IN - NAT GEO WILD UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281340&extension=ts&play_token=EQwNrxgNTg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/UTV-ACTION.jpeg" group-title="|AS| INDIA",IN - UTV ACTION
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281341&extension=ts&play_token=67CeHjglPN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/utv.png" group-title="|AS| INDIA",IN - UTV HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=844264&extension=ts&play_token=3RpXvQUmxU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/utvhd.png" group-title="|AS| INDIA",IN - UTV UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281342&extension=ts&play_token=YAoK0bvHXe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/UTV-MOVIES.png" group-title="|AS| INDIA",IN - UTV MOVIES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281343&extension=ts&play_token=dmxWyAnkVp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/9xmusic.png" group-title="|AS| INDIA",IN - 9X MUSIC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281344&extension=ts&play_token=ZQLwlmV5Nv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/9X-TASHAN.jpeg" group-title="|AS| INDIA",IN - 9X TASHAN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281345&extension=ts&play_token=0KSx02xgge
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/AMAR-UJALA-NEWS.png" group-title="|AS| INDIA",IN - AMAR UJALA NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281346&extension=ts&play_token=40N9wY7R5E
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/apnnews.jpg" group-title="|AS| INDIA",IN - APN NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281347&extension=ts&play_token=XCC24RxSqH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/arihant.jpg" group-title="|AS| INDIA",IN - ARIHANT
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281348&extension=ts&play_token=yQJcDTwZEE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/bigmagic.jpg" group-title="|AS| INDIA",IN - BIG MAGIC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281349&extension=ts&play_token=NjS9BQG3zX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinematv.jpg" group-title="|AS| INDIA",IN - CINEMA TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281351&extension=ts&play_token=LFDDBWqBlk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/comedyactive.png" group-title="|AS| INDIA",IN - COMEDY ACTIVE
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281352&extension=ts&play_token=bRCad5iFKf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/dabangg.png" group-title="|AS| INDIA",IN - DABANGG
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281353&extension=ts&play_token=taQOeUvBuh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/dangal.jpg" group-title="|AS| INDIA",IN - DANGAL
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281354&extension=ts&play_token=v3UNRTyh81
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DISH-CINE-ACTIVE.png" group-title="|AS| INDIA",IN - DISH CINE ACTIVE
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281355&extension=ts&play_token=Vs0nhMHext
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cartoonnetwork.png" group-title="|AS| INDIA",IN - CARTOON NETWORK
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=643219&extension=ts&play_token=6F4z2OFkq4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/disney.png" group-title="|AS| INDIA",IN - DISNEY SD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281356&extension=ts&play_token=mXvVt3gmQJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-JUNIOR-HD.png" group-title="|AS| INDIA",IN - DISNEY JUNIOR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=645026&extension=ts&play_token=uhYCrLJfdo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/divya.jpg" group-title="|AS| INDIA",IN - DIVYA TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281357&extension=ts&play_token=C8ssztuMXA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INEWS-.png" group-title="|AS| INDIA",IN - E NEWS 24
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281358&extension=ts&play_token=9yJfuCB8ss
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ENTER-10-MOVIES.png" group-title="|AS| INDIA",IN - ENTER 10 MOVIES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281359&extension=ts&play_token=pOK3FfraYh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/epic.png" group-title="|AS| INDIA",IN - EPIC UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281360&extension=ts&play_token=Gq4LgscYdE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ET-NOW.png" group-title="|AS| INDIA",IN - ET NOW
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281361&extension=ts&play_token=RVXhPKWXPa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/EVERGREEN-CLASSIC.jpg" group-title="|AS| INDIA",IN - EVERGREEN CLASSIC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281362&extension=ts&play_token=Rys7SHwg5s
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/foxlifehd.png" group-title="|AS| INDIA",IN - FOX LIFE UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281363&extension=ts&play_token=StKRdAU9y9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ganga.jpg" group-title="|AS| INDIA",IN - GANGA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281364&extension=ts&play_token=kvepEbwKrB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/harekrishna.jpg" group-title="|AS| INDIA",IN - HARE KRISHNA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281365&extension=ts&play_token=hjcdN1Mj97
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/HINDI-KHABAR.jpeg" group-title="|AS| INDIA",IN - HINDI KHABAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281366&extension=ts&play_token=fpTvq9DeTG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/housefullaction.jpg" group-title="|AS| INDIA",IN - HOUSEFULL ACTION
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281368&extension=ts&play_token=oZiFWexg8l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/housefullmovies.jpg" group-title="|AS| INDIA",IN - HOUSEFULL MOVIES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281369&extension=ts&play_token=ht5kCvdvjU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/IBC-24.jpg" group-title="|AS| INDIA",IN - IBC 24
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281370&extension=ts&play_token=fLVOdsHpgy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/IBN-LOKMAT.png" group-title="|AS| INDIA",IN - IBN LOKMAT
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281371&extension=ts&play_token=TkJO5e1IyK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA--NEWS.jpg" group-title="|AS| INDIA",IN - INDIA NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281372&extension=ts&play_token=DEeZw4oLrB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA--NEWS.jpg" group-title="|AS| INDIA",IN - INDIA NEWS HARYANA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281373&extension=ts&play_token=7uqCwplGKd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-NEWS-MP.jpg" group-title="|AS| INDIA",IN - INDIA NEWS MP
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281374&extension=ts&play_token=8Q9mSXeWIX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-NEWS-RAJASTHAN.jpeg" group-title="|AS| INDIA",IN - INDIA NEWS RAJASTHAN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281375&extension=ts&play_token=i00xCccAS6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA--NEWS.jpg" group-title="|AS| INDIA",IN - INDIA NEWS UP
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281376&extension=ts&play_token=igko8IGsQE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-TV.png" group-title="|AS| INDIA",IN - INDIA TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281377&extension=ts&play_token=SZCOsokojL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-VOICE.jpg" group-title="|AS| INDIA",IN - INDIA VOICE
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281378&extension=ts&play_token=PkXi8CC8wC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/ITV-GOLD.png" group-title="|AS| INDIA",IN - ITV GOLD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=860988&extension=ts&play_token=htw5rHGhkk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ISHWAR-TV.jpeg" group-title="|AS| INDIA",IN - ISHWAR TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281379&extension=ts&play_token=Lh1dRJyi6z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/jantatv.jpg" group-title="|AS| INDIA",IN - JANTA TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281380&extension=ts&play_token=8BGuUhJBFY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MAHA-MOVIES.jpeg" group-title="|AS| INDIA",IN - MAHA MOVIE
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281381&extension=ts&play_token=ejIBR1JokS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MAHA-MOVIES.jpeg" group-title="|AS| INDIA",IN - MAHA MOVIES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281382&extension=ts&play_token=gkaEd6qFoj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MASTII-.png" group-title="|AS| INDIA",IN - MASTII
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281383&extension=ts&play_token=hGsGAHWD7B
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MH1-NEWS.jpeg" group-title="|AS| INDIA",IN - MH1 NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281384&extension=ts&play_token=JicyiikeCd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/miniplex.png" group-title="|AS| INDIA",IN - MINIPLEX UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281385&extension=ts&play_token=etR1VwJoF8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Mirror_Now.png" group-title="|AS| INDIA",IN - MIRROR NOW
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281386&extension=ts&play_token=RpjkS5ln0y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/mn_plus.png" group-title="|AS| INDIA",IN - MN PLUS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281387&extension=ts&play_token=MfA0sUVt9v
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/mnx_hd.png" group-title="|AS| INDIA",IN - MNX UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281388&extension=ts&play_token=vMDrRWHxKr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MOVIE-HOUSE.jpg" group-title="|AS| INDIA",IN - MOVIE HOUSE
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281389&extension=ts&play_token=JOzfODpzhK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/moviesactive.jpg" group-title="|AS| INDIA",IN - MOVIES ACTIVE
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281390&extension=ts&play_token=Kvcyk1Y7jS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Movies_Now_HD.png" group-title="|AS| INDIA",IN - MOVIES NOW UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281391&extension=ts&play_token=HvMBgQPuBk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MTUNES-.png" group-title="|AS| INDIA",IN - MTUNES PLUS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281392&extension=ts&play_token=rUormlOflX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MULTIPLEX-.jpeg" group-title="|AS| INDIA",IN - MULTIPLEX MOVIES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281395&extension=ts&play_token=qEl0Qm430D
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/musicindia.png" group-title="|AS| INDIA",IN - MUSIC INDIA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281396&extension=ts&play_token=ZC2nMNiUNX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ndtv24x7.png" group-title="|AS| INDIA",IN - NDTV 24x7
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281397&extension=ts&play_token=iEjtyMcLWo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ndtvgoodtimes.png" group-title="|AS| INDIA",IN - NDTV GOOD TIMES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281398&extension=ts&play_token=Xxz3YvP86p
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ndtvindia.png" group-title="|AS| INDIA",IN - NDTV INDIA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281399&extension=ts&play_token=8v8f4NEgKs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NDTV-PROFIT.jpeg" group-title="|AS| INDIA",IN - NDTV PROFIT
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281400&extension=ts&play_token=xVjLNg8L4T
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/news18india.png" group-title="|AS| INDIA",IN - NEWS 18 INDIA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281401&extension=ts&play_token=Sc8YsrO16n
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NEWS-18-RAJASTHAN.jpeg" group-title="|AS| INDIA",IN - NEWS 18 RAJASTHAN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281402&extension=ts&play_token=15GysAkKuA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/news24.png" group-title="|AS| INDIA",IN - NEWS 24
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281403&extension=ts&play_token=3knPy3RpJ2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/newsnation.png" group-title="|AS| INDIA",IN - NEWS NATION
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281404&extension=ts&play_token=zNXBFrjpn1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/newsstate.JPG" group-title="|AS| INDIA",IN - NEWS STATE
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281405&extension=ts&play_token=dQEHYAF5hm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NEWS-X.jpg" group-title="|AS| INDIA",IN - NEWS X
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281406&extension=ts&play_token=LEJo685gwd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/parastv.jpg" group-title="|AS| INDIA",IN - PARAS TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281408&extension=ts&play_token=CGWn7uOiHM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/OM-SHANTI.jpg" group-title="|AS| INDIA",IN - OM SHANTI
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281407&extension=ts&play_token=Qp5qyBgJOp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/peaceofmind.jpg" group-title="|AS| INDIA",IN - PEACE OF MIND
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281409&extension=ts&play_token=ylVuAWo4wm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/POGO-KIDS.jpg" group-title="|AS| INDIA",IN - POGO KIDS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281410&extension=ts&play_token=14SfIQHBf1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRARTHANA-BHAWAN.jpeg" group-title="|AS| INDIA",IN - PRARTHANA BHAWAN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281411&extension=ts&play_token=4pcBn9SiOB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RAJASTHAN-PATRIKA.jpeg" group-title="|AS| INDIA",IN - RAJASTHAN PATRIKA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281412&extension=ts&play_token=qUvRIKPwuQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/REPUBLIC-BHARAT.jpg" group-title="|AS| INDIA",IN - REPUBLIC BHARAT
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281413&extension=ts&play_token=XZLneeXbqS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/REPUBLIC-NEWS.png" group-title="|AS| INDIA",IN - REPUBLIC NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281414&extension=ts&play_token=cPBBYEulR7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHARA-BIHAR.jpg" group-title="|AS| INDIA",IN - SAHARA BIHAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281415&extension=ts&play_token=pFCb5jmUzu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHARA-MP.png" group-title="|AS| INDIA",IN - SAHARA MP
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281417&extension=ts&play_token=cm8SeVzuDG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHARA-MUMBAI.gif" group-title="|AS| INDIA",IN - SAHARA MUMBAI
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281418&extension=ts&play_token=pXK0LLio3o
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHARA-NCR.jpg" group-title="|AS| INDIA",IN - SAHARA NCR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281419&extension=ts&play_token=ZhtJiT7LyG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/saharaone.jpg" group-title="|AS| INDIA",IN - SAHARA ONE
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281421&extension=ts&play_token=hqeXBlg4C2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHARA-SAMAY-ALAMI.jpg" group-title="|AS| INDIA",IN - SAHARA SAMAY ALAMI
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281422&extension=ts&play_token=EZDX9GLIhu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sanskartv.png" group-title="|AS| INDIA",IN - SANSKAR TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281424&extension=ts&play_token=5q9Lgb3oQM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SATSANG-TV.png" group-title="|AS| INDIA",IN - SATSANG TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281425&extension=ts&play_token=QcBqIfwpRl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SHOWBOX.png" group-title="|AS| INDIA",IN - SHOWBOX
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281426&extension=ts&play_token=oljQDfXWU4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SHUBH-TV.jpg" group-title="|AS| INDIA",IN - SHUBH TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281427&extension=ts&play_token=qtYplgz48l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sohamtv.jpg" group-title="|AS| INDIA",IN - SOHAM TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281428&extension=ts&play_token=qKilIbzs28
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/HISTORYTV18HD.png" group-title="|AS| INDIA",IN - HISTORY TV 18 HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=844257&extension=ts&play_token=FCILdqHNOn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/historytv18.jpg" group-title="|AS| INDIA",IN - HISTORY TV 18 UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281367&extension=ts&play_token=qqiJ7JAq5s
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/SONYBBCEARTHHD.png" group-title="|AS| INDIA",IN - BBC EARTH HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=844256&extension=ts&play_token=hISqom4CDl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TATA-SKY.png" group-title="|AS| INDIA",IN - TATA SKY BOLLYWOOD UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281430&extension=ts&play_token=6EYM3QWXpH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SUDARSHAN-NEWS.jpeg" group-title="|AS| INDIA",IN - SUDARSHAN NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281429&extension=ts&play_token=uWqY4KK78w
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TEJ-NEWS.jpg" group-title="|AS| INDIA",IN - TEJ NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281431&extension=ts&play_token=PNYBUJeWnw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/theqyou.png" group-title="|AS| INDIA",IN - THE Q YOU UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281432&extension=ts&play_token=de94bnL0wr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/WARNER-BROS.png" group-title="|AS| INDIA",IN - WARNER BROS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281434&extension=ts&play_token=pKZjPPwJVw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOTAL-HARYANA.png" group-title="|AS| INDIA",IN - TOTAL HARYANA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842014&extension=ts&play_token=f7jmJXKvGb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SHUBH-TV.jpg" group-title="|AS| INDIA",IN - SHUBH CINEMA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842011&extension=ts&play_token=1iQWxtsUwn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MOVIE-PLUS.png" group-title="|AS| INDIA",IN - MOVIE PLUS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842009&extension=ts&play_token=zcsyQ4nGba
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/IND-24.jpg" group-title="|AS| INDIA",IN - IND 24
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842006&extension=ts&play_token=MUm1jxBhQX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dillagi.jpg" group-title="|AS| INDIA",IN - DILLAGII
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842004&extension=ts&play_token=ZTadjULlvd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/in.Star_Bharat.png" group-title="|AS| INDIA",IN - DD BHARATI
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842003&extension=ts&play_token=vrsMJF1VyE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ANB-.jpg" group-title="|AS| INDIA",IN - ANB NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842002&extension=ts&play_token=cPY9LyY2kK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/9xjalwa.jpg" group-title="|AS| INDIA",IN - 9X JALWA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=841998&extension=ts&play_token=YCLYH0oSBA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-BIHAR-JHARKHAND.jpeg" group-title="|AS| INDIA",IN - ZEE BIHAR JHARKHAND
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=841997&extension=ts&play_token=U0RoXJTwBA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STARGOLDHD.png" group-title="|AS| INDIA",IN - STAR GOLD 2
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=841993&extension=ts&play_token=cr1tyRE29g
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STAR-UTSAV-MOVIES.png" group-title="|AS| INDIA",IN - STAR UTSAV MOVIES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=841992&extension=ts&play_token=n4He2TSAwB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/id.png" group-title="|AS| INDIA",IN - ID
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=841988&extension=ts&play_token=fry0Yk0Yxz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/THE-Q-KAHANIYAN.png" group-title="|AS| INDIA",IN - ADHBUT KAHANIYAN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=841985&extension=ts&play_token=j8Oo0WHhTM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Mtv.png" group-title="|AS| INDIA",IN - MTV HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=844258&extension=ts&play_token=4N2PtjhRhv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/mtvplus.jpg" group-title="|AS| INDIA",IN - MTV PLUS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281394&extension=ts&play_token=TDIrvOPjI7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/THEATER.png" group-title="|AS| INDIA",IN - THEATER
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=841989&extension=ts&play_token=aJEVDmZSc7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Mtv.png" group-title="|AS| INDIA",IN - MTV BEATS HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=844262&extension=ts&play_token=bXiCN2XWPp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/mtvbeats.png" group-title="|AS| INDIA",IN - MTV BEATS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281393&extension=ts&play_token=ytRnGyzhml
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/VEDIC-TV.jpeg" group-title="|AS| INDIA",IN - VEDIC TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281433&extension=ts&play_token=sjEZyyqFym
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-ANMOL.jpg" group-title="|AS| INDIA",IN - ZEE ANMOL
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281435&extension=ts&play_token=ymEPTcdW8c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-ANMOL-CINEMA.jpg" group-title="|AS| INDIA",IN - ZEE ANMOL CINEMA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281436&extension=ts&play_token=6mFbZXePOk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeebusiness.jpg" group-title="|AS| INDIA",IN - ZEE BUSINESS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281437&extension=ts&play_token=xuFNKK4Hd8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-ETC-BOLLYWOOD.png" group-title="|AS| INDIA",IN - ZEE ETC BOLLYWOOD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281438&extension=ts&play_token=zv22x81G1Q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-HINDUSTAN.jpg" group-title="|AS| INDIA",IN - ZEE HINDUSTAN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281439&extension=ts&play_token=Dm8lEkOIbO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeenews.png" group-title="|AS| INDIA",IN - ZEE NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281440&extension=ts&play_token=LR6IEjNEBR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-NEWS-BIHAR.jpg" group-title="|AS| INDIA",IN - ZEE NEWS BIHAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281441&extension=ts&play_token=HTZheAlncW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-NEWS-MP&CH.jpg" group-title="|AS| INDIA",IN - ZEE NEWS MP
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281442&extension=ts&play_token=3rwZjxoWOo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-NEWS-MP&CH.jpg" group-title="|AS| INDIA",IN - ZEE NEWS MP & CH
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281443&extension=ts&play_token=5tWvRJWk8r
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeenews.png" group-title="|AS| INDIA",IN - ZEE NEWS UP
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281444&extension=ts&play_token=vox25IUyMQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-RAJASTHAN.jpg" group-title="|AS| INDIA",IN - ZEE RAJASTHAN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281445&extension=ts&play_token=UaNFyt9OTY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-YUVA.jpg" group-title="|AS| INDIA",IN - ZEE YUVA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281446&extension=ts&play_token=W0w3U7Ubns
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cmorestars.png" group-title="|EU| DENMARK HD",DK - C MORE STARS HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=494011&extension=ts&play_token=fdTqj84Shd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starmaa.jpg" group-title="|AS| TELUGU",TLG - STAR MAA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281777&extension=ts&play_token=tFWAXB2ZWh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starmaa.jpg" group-title="|AS| TELUGU",TLG - STAR MAA MOVIES UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281778&extension=ts&play_token=waSkInwcE8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starmaa.jpg" group-title="|AS| TELUGU",TLG - STAR MAA GOLD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281779&extension=ts&play_token=CMNjGGTeVK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecinemalu.jpg" group-title="|AS| TELUGU",TLG - ZEE CINEMALU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281803&extension=ts&play_token=Bwax1FSPLy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetelugu.jpg" group-title="|AS| TELUGU",TLG - ZEE TELUGU UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281780&extension=ts&play_token=YLDKtMdQCy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/M-NET-PLUS-1.png" group-title="|AF| DSTV AFRIQUE",VIP - M-NET MOVIES ALL STARS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=311695&extension=ts&play_token=SZS91IGAne
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/daystartv.png" group-title="|AF| DSTV AFRIQUE",VIP - DAYSTAR UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=311636&extension=ts&play_token=Q0uZBadUd4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-LIFE.png" group-title="|AF| DSTV AFRIQUE",VIP - STAR LIFE UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=311659&extension=ts&play_token=Jsp2Cg1U1g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/Daystar.png" group-title="|AF| DSTV AFRIQUE",VIP - DAYSTAR UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=311709&extension=ts&play_token=mCdFkPz6pB
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/aljazeera.png" group-title="|AF| DSTV AFRIQUE",VIP - AL JAZEERA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=311716&extension=ts&play_token=8SDypVqKmV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-LIFE.png" group-title="|AF| DSTV AFRIQUE",VIP - STAR LIFE UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=311733&extension=ts&play_token=Z5NFiFkMHk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/zeeworld.png" group-title="|AF| DSTV AFRIQUE",VIP - ZEE WORLD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=730122&extension=ts&play_token=1oS04Apn5s
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorsmarathi.png" group-title="|AS| MARATHI",MRT - COLORS MARATHI UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281760&extension=ts&play_token=9i8EgFdj48
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetalkies.png" group-title="|AS| MARATHI",MRT - ZEE TALKIES UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281761&extension=ts&play_token=YBf35XgaEV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-MARTHI-HD.jpg" group-title="|AS| MARATHI",MRT - ZEE MARTHI UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281762&extension=ts&play_token=3etubuJH2L
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-PARVAH.png" group-title="|AS| MARATHI",MRT - STAR PARVAH UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281763&extension=ts&play_token=MrkmOl8RsK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-24-TAAS.jpg" group-title="|AS| MARATHI",MRT - ZEE 24 TAAS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281771&extension=ts&play_token=yZjXu0BjNE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-GUJARATI-CINEMA.png" group-title="|AS| GUJARATI",GJR - COLORS GUJARATI
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281722&extension=ts&play_token=eVX9QIIFx4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-GUJARATI-CINEMA.png" group-title="|AS| GUJARATI",GJR - COLORS GUJARATI CINEMA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281723&extension=ts&play_token=2bQmFZJ4OT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/filmboxstars.png" group-title="|EU| CZECH",CZ - FILMBOX STARS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=854760&extension=ts&play_token=gpmAQk9WHd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ockostar.png" group-title="|EU| CZECH",CZ - OCKO STAR TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=854752&extension=ts&play_token=vL7mW0S2TY
+#EXTINF:-1 tvg-logo="" group-title="|AS| INDIA - EU",##### INDIA EU-TIME #####
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281249&extension=ts&play_token=ZbnH74nJ0A
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starplus.png" group-title="|AS| INDIA - EU",IN - UTSAV PLUS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281250&extension=ts&play_token=tomd1fUyZf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UTSAV-GOLD.jpg" group-title="|AS| INDIA - EU",IN - UTSAV GOLD EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=737089&extension=ts&play_token=e5luSuACnc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetv.png" group-title="|AS| INDIA - EU",IN - ZEE TV EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281251&extension=ts&play_token=Earpi0Hh8n
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecinema.png" group-title="|AS| INDIA - EU",IN - ZEE CINEMA EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281252&extension=ts&play_token=UcaFdMg817
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zeeclassic.jpg" group-title="|AS| INDIA - EU",IN - ZEE CLASSIC EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=737058&extension=ts&play_token=RNOuTs0ppE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.stargold.png" group-title="|AS| INDIA - EU",IN - UTSAV GOLD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281254&extension=ts&play_token=IKycspUXNG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonytv.png" group-title="|AS| INDIA - EU",IN - SONY TV EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281253&extension=ts&play_token=2q1vBI4Fn6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.zing.png" group-title="|AS| INDIA - EU",IN - ZING EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281255&extension=ts&play_token=lTpMy9I7rV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.colors.png" group-title="|AS| INDIA - EU",IN - COLORS EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281256&extension=ts&play_token=OyjWBk02oY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/in.aastha.png" group-title="|AS| INDIA - EU",IN - AASTHA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1147703&extension=ts&play_token=oYrDbtoTmk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/b4umusic.png" group-title="|AS| INDIA - EU",IN - B4U MOVIES EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281257&extension=ts&play_token=FBRSGJ2DKX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/b4umusic.png" group-title="|AS| INDIA - EU",IN - B4U MUSIC EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281258&extension=ts&play_token=0HeSljCQ2v
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/b4uplus.png" group-title="|AS| INDIA - EU",IN - B4U PLUS EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281259&extension=ts&play_token=4H5HUJKnyq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starbharat.png" group-title="|AS| INDIA - EU",IN - STAR BHARAT EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281260&extension=ts&play_token=uWnQUujVJJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/REPUBLIC-BHARAT.jpg" group-title="|AS| INDIA - EU",IN - REPUBLIC BHARAT EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281261&extension=ts&play_token=1u3rajGrRC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.britasiatv.png" group-title="|AS| INDIA - EU",IN - BRIT ASIA TV EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281262&extension=ts&play_token=v7bYB4wH35
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonymax.png" group-title="|AS| INDIA - EU",IN - SONY MAX EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281263&extension=ts&play_token=t2bJ1tX97i
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonymax2.png" group-title="|AS| INDIA - EU",IN - SONY MAX 2 EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281264&extension=ts&play_token=6o9aodauwX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonysab.png" group-title="|AS| INDIA - EU",IN - SONY SAB EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281265&extension=ts&play_token=LdLWSsJBQk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ktv.png" group-title="|AS| INDIA - EU",IN - KTV EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281266&extension=ts&play_token=Bk7Pl8oKTk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorsrishtey.png" group-title="|AS| INDIA - EU",IN - COLORS RISHTEY EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281268&extension=ts&play_token=XT73pmAZM6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorscineplex.png" group-title="|AS| INDIA - EU",IN - COLORS CINEPLEX EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281269&extension=ts&play_token=swsicqP6up
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/foodxp.png" group-title="|AS| INDIA - EU",IN - FOODXP EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281271&extension=ts&play_token=pTDmVy9wZo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/matvnational.png" group-title="|AS| INDIA - EU",IN - MATV NATIONAL EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281272&extension=ts&play_token=WqwleGDTFV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/news18india.png" group-title="|AS| INDIA - EU",IN - NEWS18 EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281273&extension=ts&play_token=3E0y3uYxhe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sanskar.png" group-title="|AS| INDIA - EU",IN - SANSKAR EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281274&extension=ts&play_token=UGF0Pn33vq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/travelxphdbnl.png" group-title="|AS| INDIA - EU",IN - TRAVELXP EU
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281275&extension=ts&play_token=CBmxDNfXZN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zeetv.png" group-title="|AS| INDIA - EU",IN - ZEE TV UK
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765266&extension=ts&play_token=Bmv5RM8PKV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/in.starplus.png" group-title="|AS| INDIA - EU",IN - STAR PLUS UK
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765267&extension=ts&play_token=co0LxHpmUK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AAPKA-COLORS.png" group-title="|AS| INDIA - EU",IN - AAPKA COLORS HD USA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=765268&extension=ts&play_token=5c5fUCdcM8
+#EXTINF:-1 tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="|AS| INDIA - EU",IN - WION TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=744341&extension=ts&play_token=83SnpxYWwk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TV4-STARS.png" group-title="|EU| SWEDEN HD",SE - TV4 STARS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=493849&extension=ts&play_token=5oij1BVKwH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/OSN.png" group-title="|AR| OSN",OSN - STAR MOVIES UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=724245&extension=ts&play_token=5ITi9YZvkX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/OSN.png" group-title="|AR| OSN",OSN - STAR WORLD UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=724244&extension=ts&play_token=X3QSFqfvId
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/superstartv.png" group-title="|BLN| SERBIA",RS - SUPER STAR TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=714170&extension=ts&play_token=3ALM7EnPPB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/novas.png" group-title="|BLN| SERBIA",RS - SUPER STAR 2
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262865&extension=ts&play_token=WrxpHVEz60
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestaractionandthriller.png" group-title="|BLN| SERBIA",RS - CINESTAR ACTION HR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262919&extension=ts&play_token=5Rne6w4hlx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestaractionandthriller.png" group-title="|BLN| SERBIA",RS - CINESTAR ACTION
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262921&extension=ts&play_token=lwmJCi4Bua
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestartvcomedy.png" group-title="|BLN| SERBIA",RS - CINESTAR COMEDY
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262923&extension=ts&play_token=51E1yF1DET
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestarfantasy.png" group-title="|BLN| SERBIA",RS - CINESTAR FANTASY
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262925&extension=ts&play_token=sRtwmbhu03
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestartv.png" group-title="|BLN| SERBIA",RS - CINESTAR TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262927&extension=ts&play_token=MwUJOf6Utf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestartv.png" group-title="|BLN| SERBIA",RS - CINESTAR TV HR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262929&extension=ts&play_token=MZSN7kfwTK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestarpremiere1.png" group-title="|BLN| SERBIA",RS - CINESTAR PREMIERE 1
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262931&extension=ts&play_token=CVlI9VxkTs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestarpremiere2.png" group-title="|BLN| SERBIA",RS - CINESTAR PREMIERE 2
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262932&extension=ts&play_token=Q26ccW7NVf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/superstartv.png" group-title="|BLN| SERBIA",RS - SUPERSTAR TV HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1169345&extension=ts&play_token=rAqHOtSuLX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SUPERSTAR-2.png" group-title="|BLN| SERBIA",RS - SUPERSTAR 2 TV HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1169346&extension=ts&play_token=bOKw1RPpOo
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/zeetv.png" group-title="|EU| FRANCE CARRIBEAN",FR - ZEE TV HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=721479&extension=ts&play_token=UWqCTpE1q1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ZEE-THIRAI.png" group-title="|EU| FRANCE CARRIBEAN",FR - ZEE THIRAI HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=721478&extension=ts&play_token=xa1hOlTOOi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ZEE-CINEMA.png" group-title="|EU| FRANCE CARRIBEAN",FR - ZEE CINEMA HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=721477&extension=ts&play_token=inuqminkrr
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/aljazeera.png" group-title="|AF| SOMALIA",SOM - AL JAZEERA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=679668&extension=ts&play_token=yogGdld68a
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DAYSTAR-TV-NP.jpeg" group-title="|AM| CANADA",CA - DAYSTAR TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=626964&extension=ts&play_token=77Mn9wdEib
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ZEE-TV-CANADA.png" group-title="|AM| CANADA",CA - ZEE TV CANADA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=886029&extension=ts&play_token=qdOImhhU7P
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ESPN-PLAY.png" group-title="|NL| ESPN PLAY PPV",(NL) ESPN PLAY 5 (D): Extra KKD | Telstar - Jong AZ | 08-30-2024 1:55pm
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=990668&extension=ts&play_token=yRlSw1w4eP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-CHANNEL.png" group-title="|EU| NEDERLAND 4K ULTRA",NL - STAR CHANNEL 4K
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=891548&extension=ts&play_token=PvvazoYYuy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ahl.png" group-title="|AM| AHL PPV",CA: TEXAS STARS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=991075&extension=ts&play_token=lryH4ZHbXk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-KERALAM.jpeg" group-title="|AS| MALAYALAM",MLY - ZEE KERALAM UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281758&extension=ts&play_token=UKMjKcn3ug
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NOVA-STAR.png" group-title="|GR| κινηματογράφος",GR - NOVA STARS HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=754281&extension=ts&play_token=qDTTE9tmUc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Movistar_DCine.png" group-title="|ES| CINEMA",ES - M.DCINE HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=813040&extension=ts&play_token=TjergldaBK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ahl.png" group-title="|NA| HOCKEY LEAGUE",NA - TEXAS STARS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=654428&extension=ts&play_token=QodyzvisMg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-MAGIC.png" group-title="|AF| C+ AFRIQUE",AF - ZEE MAGIC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=721526&extension=ts&play_token=sMP5tsfiEP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-MAGIC.png" group-title="|AF| C+ AFRIQUE",AF - ZEE MAGIC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=356093&extension=ts&play_token=PZXWA0xGUn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPORT-5-STARS.png" group-title="|EU| ISRAEL",IS - SPORT 5 STARS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=260756&extension=ts&play_token=SYnoFPEzJx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeepunjabi.png" group-title="|AS| PUNJABI",PJB - ZEE PUNJABI
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281688&extension=ts&play_token=l1Z1BCKa3o
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-NEWS-PUNJAB.jpg" group-title="|AS| PUNJABI",PJB - INDIA NEWS PUNJAB
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281702&extension=ts&play_token=af0PP3VrTF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/LIVING-INDIA-NEWS.jpeg" group-title="|AS| PUNJABI",PJB - LIVING INDIA NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281704&extension=ts&play_token=gvfW52hzEM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-PUNJAB-HARYANA.jpg" group-title="|AS| PUNJABI",PJB - ZEE PUNJAB HARYANA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281717&extension=ts&play_token=fDmG1nsf2A
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/daystartv.jpg" group-title="|SA| CARRIBEAN",CAR - DAYSTAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552986&extension=ts&play_token=fixSLetG5o
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecinema.png" group-title="|SA| CARRIBEAN",CAR - ZEE CINEMA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=552893&extension=ts&play_token=JfAO4dbgJz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ESPN-PLAY.png" group-title="|AU| AU ESPN PLAY PPV",(AU) ESPN PLAY 2 (D): WatchESPN NHL | Dallas Stars vs. Detroit Red Wings | 04-14-2025 6:30pm
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=991081&extension=ts&play_token=00scXPEUvN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ESPN-PLAY.png" group-title="|AU| AU ESPN PLAY PPV",(AU) ESPN PLAY 7 (D): WatchESPN NHL | Dallas Stars vs. Detroit Red Wings | 04-14-2025 6:30pm
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=991086&extension=ts&play_token=IGhaomuPci
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-PLUS-TV-SHKODER.png" group-title="|ALB| GENERAL",ALB - STAR PLUS SHKODËR UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=261989&extension=ts&play_token=W4VkcSc3G3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPAIN.png" group-title="|ES| M.PELICULAS",##### MOVISTAR PELICULAS #####
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=761390&extension=ts&play_token=xL4JGi0n4E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2022 1
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723891&extension=ts&play_token=V3BbIDkmFr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2022 2
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723892&extension=ts&play_token=5Nuf6fQkZK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2022 3
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723893&extension=ts&play_token=hHicOuBl7N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2021 1
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723881&extension=ts&play_token=5Ehu1psf1m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2021 2
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723882&extension=ts&play_token=i1BZIZSWXM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2021 3
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723883&extension=ts&play_token=hEz2qkSFeD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2021 4
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723884&extension=ts&play_token=36rtDZ0sW5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2021 5
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723885&extension=ts&play_token=7qid0poSJ0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2021 6
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723886&extension=ts&play_token=5Yi9jaXeem
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2021 7
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723887&extension=ts&play_token=aPimMihPia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2021 8
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723888&extension=ts&play_token=O7roJblOVp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2021 9
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723889&extension=ts&play_token=iSwGqOffzr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2021 10
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723890&extension=ts&play_token=1tPg1k9RXt
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2020 1
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723876&extension=ts&play_token=KAuNCT2T7F
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2020 2
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723877&extension=ts&play_token=MSDcQTvSGm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2020 3
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723878&extension=ts&play_token=RlkKZq2lwL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2020 4
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723879&extension=ts&play_token=KvYfFB5e0Y
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR 2020 5
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723880&extension=ts&play_token=drsNy3LrLx
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - M PELICULAS 1
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723870&extension=ts&play_token=47OF1PNpMr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - M PELICULAS 2
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723871&extension=ts&play_token=zlE1y1Q9EH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - M PELICULAS 3
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723872&extension=ts&play_token=n5af5MiCZr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - M PELICULAS 6
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723875&extension=ts&play_token=oAXeBmFib1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - M PELICULAS 4
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723873&extension=ts&play_token=3jfFNHNJcB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - M PELICULAS 5
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723874&extension=ts&play_token=9CAizD1GmF
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR NINOS 1
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723894&extension=ts&play_token=2PGKqfVIOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR NINOS 2
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723895&extension=ts&play_token=qdVAUMBwX1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR NINOS 3
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723896&extension=ts&play_token=b4gG51eug3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="|ES| M.PELICULAS",ES - MOVISTAR NINOS 4
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=723897&extension=ts&play_token=eTMVZP3v0r
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/aljazeeraenglish.png" group-title="|UK| NEWS",UK - AL JAZEERA EN UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=577213&extension=ts&play_token=7XqvFkiDqA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAIN/MOVISTAR-PLUS.png" group-title="|ES| DEPORTES",ES - MOVISTAR PLUS +2 FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1207500&extension=ts&play_token=KnqNxwtLjq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOVISTAR-PLUS.png" group-title="|ES| DEPORTES",ES - MOVISTAR PLUS+ HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=951390&extension=ts&play_token=6t78S2AoG3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",##### STARS PLAY 4K #####
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908095&extension=ts&play_token=AH2EKqayWR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - مربى العز
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908094&extension=ts&play_token=hzJ2vI55eV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - زقاق الجن
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908093&extension=ts&play_token=pDOg7cmJZU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - خريف عمر
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908092&extension=ts&play_token=o0UsF3LFL1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - النار بالنار
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908091&extension=ts&play_token=yYzssp0x5x
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - الزند
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908090&extension=ts&play_token=eK7yIz4c0w
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - الأجهر
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908089&extension=ts&play_token=3NA8wmK8jm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - منزل 12
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908088&extension=ts&play_token=X0SW1Keqse
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - مجاريح
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908087&extension=ts&play_token=AigujmvYYU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - قفص مخملي
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908086&extension=ts&play_token=hsroVxU3Q1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - قرة عينك
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908085&extension=ts&play_token=essZSzksDv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - فنطاس
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908084&extension=ts&play_token=T2pgaKjQTX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - عملة نادرة
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908083&extension=ts&play_token=NBNhdsmPo0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - سوق الكانتو
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908082&extension=ts&play_token=fwxQGqW4di
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - سره الباتع
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908081&extension=ts&play_token=F7t02VgDI0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - ستهم
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908080&extension=ts&play_token=4F9CvYBK1K
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - حضرة العمدة
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908079&extension=ts&play_token=d9g30O7yyD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - جت سليمة
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908078&extension=ts&play_token=KpdRkudrlf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - النكران
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908077&extension=ts&play_token=SPSSW59xij
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="|AR| STARZ PLAY",AR - إكس لانس
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=908076&extension=ts&play_token=xzSZJ3IAfW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/novasportsstart.png" group-title="|GR| Αθλητικά",GR - NOVA SPORT START
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=754376&extension=ts&play_token=ZhunqaNiPN
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/antenastars.png" group-title="|EU| ROMANIA",RO - ANTENA STARS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262302&extension=ts&play_token=AOApmg1nRh
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/antenastars.png" group-title="|EU| ROMANIA",RO - ANTENA STARS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262301&extension=ts&play_token=4RAMrC9RfL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="|EU| LE MEILLEUR DES FILMS",FR - 24/7 STAR WARS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=507559&extension=ts&play_token=y8rG9eVhnk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="|EU| LE MEILLEUR DES FILMS",FR - 24/7 STAR TREK
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=507558&extension=ts&play_token=uA12rYPJPv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="|EU| LE MEILLEUR DES FILMS",FR - 24/7 INDIANA JONES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=507545&extension=ts&play_token=MwyYWlscbv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HMONG-STAR-TV.jpg" group-title="|TH| THAILANDE",TH -  CVA HMONG FRESNO
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=669674&extension=ts&play_token=KGOBJBb63A
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HMONG-STAR-TV.jpeg" group-title="|TH| THAILANDE",TH - HMONG TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=720314&extension=ts&play_token=6LOgjPka7c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NETHERLAND/OMROEP-ZEELAND.png" group-title="|NL| REGIONAAL",NL - OMROEP ZEELAND HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=891431&extension=ts&play_token=dAPFG5d3kB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/INDIANA-JONES.png" group-title="|IT| CINEMA",IT - INDIANA JONES CHANNEL UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=602010&extension=ts&play_token=w47kT6EYf9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/STAR-WARS-CHANNEL.png" group-title="|IT| CINEMA",IT - STAR WARS CHANNEL UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=601999&extension=ts&play_token=3mpaALc3bt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-CHANNEL.png" group-title="|NL| ENTERTAINMENT",NL - STAR CHANNEL HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=891399&extension=ts&play_token=b06KLxY1dY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetv.png" group-title="|EU| RUSSIA",RUS - ZEE TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=293565&extension=ts&play_token=AlPuElMJSA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/START-TV--.png" group-title="|EU| RUSSIA",RUS - START TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=663330&extension=ts&play_token=Q2IgBZFPlR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/aljazeeraenglish.png" group-title="|AS| INDONESIA",ID - AL JAZEERA ENGLISH
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=704492&extension=ts&play_token=bVHg9wYVVX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-BISKOPE.jpg" group-title="|AS| INDONESIA",ID - ZEE BIOSKOP
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=704458&extension=ts&play_token=cll5x5HtED
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zeenews.png" group-title="|AS| INDONESIA",ID - ZEE NEWS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=704420&extension=ts&play_token=i5hGbYhSGR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/pr.movistar_deportes.png" group-title="|AM| PERU",PE - MOVISTAR DEPORTES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265254&extension=ts&play_token=SkwjbTIcbm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/Al-Jazeera.png" group-title="|AR| ARABIC FULL SD",AR - AL JAZEERA LQ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=924884&extension=ts&play_token=tu9gzzudHX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALJAZEERAMUBASHER.png" group-title="|AR| ARABIC FULL SD",AR - AL JAZEERA MUBASHER LQ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=924883&extension=ts&play_token=JBwXnjVc7f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALJAZEERADOCUMENTARY.png" group-title="|AR| ARABIC FULL SD",AR - AL JAZEERA DOCUMENTARY LQ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=924882&extension=ts&play_token=FPPB1DNkcC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALJAZEERAMUBASHER.png" group-title="|AR| ARABIC FULL SD",AR - AL JAZEERA MUBASHER 2 LQ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=924881&extension=ts&play_token=bUKzZbqQgB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALJAZEERAENGLISHHD.png" group-title="|AR| ARABIC FULL SD",AR - AL JAZEERA ENGLISH LQ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=924880&extension=ts&play_token=GsqlGbRtfP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ZEE-ALWAN.png" group-title="|AR| ARABIC FULL SD",AR - ZEE ALWAN LQ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=924858&extension=ts&play_token=jZ5ulVOWgq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ZEE-AFLAM.png" group-title="|AR| ARABIC FULL SD",AR - ZEE AFLAM LQ
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=924855&extension=ts&play_token=CvOKkU2tLT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="|NA| 24/7 ENGLISH",ENG - 24/7 INDIANA JONES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=617132&extension=ts&play_token=YCwgcZJA6j
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="|NA| 24/7 ENGLISH",ENG - 24/7 STAR TREK MOVIES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=617114&extension=ts&play_token=UfL46qC6Ri
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="|NA| 24/7 ENGLISH",ENG - 24/7 STAR WARS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=617113&extension=ts&play_token=2ljtiD3JBm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="WORLD CRICKET",PSL - STAR SPORTS 1 HINDI HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=689569&extension=ts&play_token=gFwYqrgAOI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="WORLD CRICKET",PSL - STAR SPORTS HINDI 1
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=689568&extension=ts&play_token=iJnUNM4ELU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ-COMEDY-HD.png" group-title="|SA| LATINO",LAT - STARZ COMEDY UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265028&extension=ts&play_token=BLIKNaHlt2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starz.png" group-title="|SA| LATINO",LAT - STARZ EAST UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265029&extension=ts&play_token=BhEl4IBiJK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_EDGE_HD.png" group-title="|SA| LATINO",LAT - STARZ EDGE UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265030&extension=ts&play_token=dAQq2LibJp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_ACTION_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE ACTION
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265031&extension=ts&play_token=PHP4EU373Q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_BLACK_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE BLACK UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265032&extension=ts&play_token=ycfIJSioog
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_CLASSIC_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE CLASSIC UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265033&extension=ts&play_token=1g4ODV9Z8U
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_FAMILY_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE FAMILY UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265034&extension=ts&play_token=8fXktsBvxF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265035&extension=ts&play_token=BzT6d34QE5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_SUSPENSE.png" group-title="|SA| LATINO",LAT - STARZ ENCORE SUSPENSE UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265036&extension=ts&play_token=1iIEizoIt9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_WESTERNS_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE WESTERN UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265037&extension=ts&play_token=r2wympwnwm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_FAMILY_HD.png" group-title="|SA| LATINO",LAT - STARZ FAMILY UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265038&extension=ts&play_token=vDo7krnP2N
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_HD.png" group-title="|SA| LATINO",LAT - STARZ UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265039&extension=ts&play_token=lE5CyJDWkQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_KIDS_&_FAMILY_HD.png" group-title="|SA| LATINO",LAT - STARZ KIDS & FAMILY UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265040&extension=ts&play_token=ZtCmEmI06B
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_CINEMA_EAST_HD.png" group-title="|SA| LATINO",LAT - STARZ WEST UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=265041&extension=ts&play_token=4K8BAaRxYE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/star.png" group-title="|GR| Γενικά",GR - STAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=753714&extension=ts&play_token=SX4antZInO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/star.png" group-title="|GR| Γενικά",GR - STAR HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=753715&extension=ts&play_token=sbihP8lNXa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/star.png" group-title="|GR| Γενικά",GR - STAR FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=753716&extension=ts&play_token=V4dhniUvEZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/START-TV--.png" group-title="|GR| Γενικά",GR - START (CORFU)
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=753749&extension=ts&play_token=DsHySGrSMI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TF1-STAR-ACADEMY.png" group-title="|EU| FRANCE HEVC",FR - TF1+ STAR ACADEMY HEVC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1161549&extension=ts&play_token=Elo9B4EEQ6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/trace-sport-stars-1.png" group-title="|EU| FRANCE HEVC",FR - TRACE SPORT STARS HEVC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=845377&extension=ts&play_token=NRyeMR7RTj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CSTARHITSFRENANCE-1.png" group-title="|EU| FRANCE HEVC",FR - CSTAR HEVC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=845304&extension=ts&play_token=Yk5VCVuazG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CSTARHITSFRENANCE-1.png" group-title="|EU| FRANCE HEVC",FR - CSTAR HITS HEVC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=845303&extension=ts&play_token=7LBZqpjrZd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aljazeerabalkanshd.png" group-title="|BLN| BOSNIA",BA - AL JEZZERA BALKANS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262699&extension=ts&play_token=CsubCHKoIl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aljazeerabalkans.png" group-title="|BLN| BOSNIA",BA - AL JEZZERA BALKANS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262700&extension=ts&play_token=yySpa6BvJh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/STAR-CINEMA.png" group-title="|AR| EGYPT",EG - STAR CINEMA 1
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=620193&extension=ts&play_token=02YcGfIc82
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/starchannel.png" group-title="|ES| ESPAÑA HEVC",ES - STAR CHANNEL (FOX) HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=612179&extension=ts&play_token=8qv3XmQI05
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/starchannel.png" group-title="|ES| ESPAÑA HEVC",ES - STAR CHANNEL (FOX) HEVC
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=612180&extension=ts&play_token=rgkgIL413V
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/star.png" group-title="|EU| SWISS HD",SW - STAR TV FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=259434&extension=ts&play_token=2GjGT032zQ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cmorestars.png" group-title="|EU| FINLAND HD",FIN - C MORE STARS FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=494268&extension=ts&play_token=C9H7YVvAbY
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cmorestars.png" group-title="|EU| NORWAY HD",NOR - C MORE STARS HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=494142&extension=ts&play_token=Y82330TK2n
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/hollywood.png" group-title="|PT| FILMES E SÉRIES",PT - STAR MOVIES UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=250622&extension=ts&play_token=QmcJxtJ72X
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-COMEDY.png" group-title="|PT| FILMES E SÉRIES",PT - STAR COMEDY
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=250633&extension=ts&play_token=GHp2Jsug00
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/foxlife.png" group-title="|PT| FILMES E SÉRIES",PT - STAR LIFE HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1094690&extension=ts&play_token=TWik9dEFtC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetamil.jpg" group-title="|AS| TAMIL",TAM - ZEE TAMIL UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281564&extension=ts&play_token=sBCje2Gf1G
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetamil.jpg" group-title="|AS| TAMIL",TAM - ZEE TAMIL SD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281565&extension=ts&play_token=YwqDcYwTRS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starvijay.png" group-title="|AS| TAMIL",TAM - STAR VIJAY UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281567&extension=ts&play_token=aiAJXUAjuV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorshd.png" group-title="|AS| TAMIL",TAM - COLORS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281572&extension=ts&play_token=DUGIrGcXvR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-THIRAI.png" group-title="|AS| TAMIL",TAM - ZEE THIRAI
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281623&extension=ts&play_token=zVmfw725at
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/STAR-21.png" group-title="|AF| AFRIQUE OTHERS",GUI - STAR 21
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=311438&extension=ts&play_token=O6knF6PrWm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-TVE.png" group-title="|AF| AFRIQUE OTHERS",TNZ - STAR TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=311532&extension=ts&play_token=bCXEyqBVWs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/UBC-STAR.png" group-title="|AF| AFRIQUE OTHERS",UGA - UBC STAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=311540&extension=ts&play_token=oeKQGvicVn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/filmboxstars.png" group-title="|EU| HUNGARIA",HU - FILMBOX STARS HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1199124&extension=ts&play_token=cJQDQqJrs1
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/starstv.png" group-title="|PL| MUZYKA | DZIECI",PL - STARS.TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=689808&extension=ts&play_token=WZuNfIOgX1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/starvijay.png" group-title="|AS| MALAYSIA",MY - STAR VIJAY HD APAC [ASTRO]
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=854459&extension=ts&play_token=NH9yv6GlPb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zeetamilhd.jpg" group-title="|AS| MALAYSIA",MY - ZEE TAMIL HD APAC [ASTRO]
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=854445&extension=ts&play_token=joKlo7Lv6l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesstars.png" group-title="|AS| TURKEY | SINEMA",TR - BEIN MOVIES STARS UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=259986&extension=ts&play_token=apOut75wwA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesstars.png" group-title="|AS| TURKEY | SINEMA",TR - BEIN MOVIES STARS HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=259987&extension=ts&play_token=JTiuwL0r5D
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/aljazeera.png" group-title="|AU| AUSTRALIA",AU - AL JAZEERA (NZ)
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=259834&extension=ts&play_token=Fukckltrzp
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/daystar.png" group-title="|UK| ENTERTAINMENT",UK - DAYSTAR UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=577526&extension=ts&play_token=dHJK8XWrFs
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/daystar.png" group-title="|UK| ENTERTAINMENT",UK - DAYSTAR FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=577525&extension=ts&play_token=YOC5CMXpzP
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/5star.png" group-title="|UK| ENTERTAINMENT",UK - 5 STAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=577500&extension=ts&play_token=1eJCbFuk1S
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/5starplus1.png" group-title="|UK| ENTERTAINMENT",UK - 5 STAR+1
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=577499&extension=ts&play_token=FrFkRoIZZM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TF1-STAR-ACADEMY.png" group-title="|EU| FRANCE GÉNÉRAL",FR - TF1+ STAR ACADEMY FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1161548&extension=ts&play_token=MqTrwPK2hy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/star-academy.png" group-title="|EU| FRANCE GÉNÉRAL",FR - STAR ACADEMY FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=991435&extension=ts&play_token=2RDgHoLl8m
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TF1-STAR-ACADEMY.png" group-title="|EU| FRANCE GÉNÉRAL",FR - TF1+ STAR ACADEMY
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1161550&extension=ts&play_token=yUfuN7j76G
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="|AR| ARABIC NEWS & FACTUAL",##### AR - NEWS #####
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=250152&extension=ts&play_token=4pdi9tpJcU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZERA SD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=680105&extension=ts&play_token=R8mdbp8Ehp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZERA HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=674438&extension=ts&play_token=xa7SWyOSsP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZERA FHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=250187&extension=ts&play_token=r9UOZzrVJX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZERA MUBASHER
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=250166&extension=ts&play_token=0g621L8Q4P
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZEERA ENGLISH
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=250176&extension=ts&play_token=EnkoRRvLpy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERADOCUMENTARY.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZEERA DOCUMENTARY
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=250186&extension=ts&play_token=MCm1UktO7y
+#EXTINF:-1 tvg-logo="" group-title="|AS| ENGLISH",##### INDIA ENGLISH #####
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281641&extension=ts&play_token=JBUwJjrG9l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starmovies.png" group-title="|AS| ENGLISH",ENG - STAR MOVIES UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281643&extension=ts&play_token=L1VpBdzCmC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="|AS| ENGLISH",ENG - STAR MOVIES SELECT UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281644&extension=ts&play_token=R0qqoGcbek
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-INFINITY-HD.png" group-title="|AS| ENGLISH",ENG - COLORS INFINITY UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281650&extension=ts&play_token=j71WNwbJVh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/TIMESNOWNEWSHD.png" group-title="|AS| ENGLISH",ENG - TIMES NOW UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843902&extension=ts&play_token=xWHiJAqgLA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/TLCHDWORLD.png" group-title="|AS| ENGLISH",ENG - TLC UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843900&extension=ts&play_token=CL51fk8APH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aljazeerahd.png" group-title="|AS| ENGLISH",ENG - ALJAZEERA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281652&extension=ts&play_token=cqHt8pR1dU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-TODAY.png" group-title="|AS| ENGLISH",ENG - INDIA TODAY
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281664&extension=ts&play_token=2QqCP8Z5tY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/NATIONALGEOGRAPHICHD.png" group-title="|AS| ENGLISH",ENG - NAT GEO UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843898&extension=ts&play_token=QwhDlI4aJ5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/and-flix.png" group-title="|AS| ENGLISH",ENG - AND FLIX UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843901&extension=ts&play_token=n1oe9st9r0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/sony-pix.png" group-title="|AS| ENGLISH",ENG - SONY PIX UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843899&extension=ts&play_token=NmdqLEAlvP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/cnbc-tv18.png" group-title="|AS| ENGLISH",ENG - CNBC PRIME UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=843895&extension=ts&play_token=O1UQ9Ypzi7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecafe.png" group-title="|AS| ENGLISH",ENG - ZEE CAFE UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281669&extension=ts&play_token=zoN3XO2blq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/BABYTVHDi.png" group-title="|AS| PAKISTAN",PAK - BABY TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842734&extension=ts&play_token=eANKZzq5iL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/WASEB-2.png" group-title="|AS| PAKISTAN",PAK - WASEB TV
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842732&extension=ts&play_token=umrcWuegLv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/LTNFAMILY.png" group-title="|AS| PAKISTAN",PAK - LTN FAMILY
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842730&extension=ts&play_token=vqUotafqxW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/A-PLUS.png" group-title="|AS| PAKISTAN",PAK - APLUS
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842727&extension=ts&play_token=vIzv73II25
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/PTV.png" group-title="|AS| PAKISTAN",PAK - PTV WORLD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=842718&extension=ts&play_token=Xu7bEVeAvc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-KANNADA-HD.jpg" group-title="|AS| KANNADA",KAN - COLORS KANNADA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281805&extension=ts&play_token=lmXJR8bS25
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-KANNADA-MOVIES.jpeg" group-title="|AS| KANNADA",KAN - COLORS KANNADA MOVIES
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281806&extension=ts&play_token=qSZVO4710w
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-SUPER.png" group-title="|AS| KANNADA",KAN - COLORS SUPER
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281815&extension=ts&play_token=ehlPEpH00E
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/COLORS.png" group-title="|AS| KANNADA",KAN - COLORS TV HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=844246&extension=ts&play_token=Ow4O7mQ7N9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-KANNADA.jpeg" group-title="|AS| KANNADA",KAN - ZEE KANNADA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281807&extension=ts&play_token=7HUYs0VSLY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ZEETALKIES.png" group-title="|AS| KANNADA",KAN - ZEE TALKIES HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=844247&extension=ts&play_token=7AfZNy6Yci
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SUVARNA-HD.png" group-title="|AS| KANNADA",KAN - STAR SUVARNA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281808&extension=ts&play_token=ANflphGLEa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ZEECINEMAHD.png" group-title="|AS| KANNADA",KAN - CINEMA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=844249&extension=ts&play_token=CxrpmZqZq4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/NATIONALGEOGRAPHICHD.png" group-title="|AS| KANNADA",KAN - NATGEO HD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=844248&extension=ts&play_token=89fKD7QCkk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/logos/premiumplus.png" group-title="|SA| SURINAME",SU - PREMIUM+ BORN TO BE A STAR
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=631079&extension=ts&play_token=qmtEk1PNcH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/logos/premiumplus.png" group-title="|SA| SURINAME",SU - PREMIUM+ INDIANS ABROAD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=631077&extension=ts&play_token=lxx3lzKhyS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/ZEEALWAN.png" group-title="|AR| ROTANA | ART",AR - ZEE ALWAN
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=457171&extension=ts&play_token=sE2ulO6FJ0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/ZEEAFLAM.png" group-title="|AR| ROTANA | ART",AR - ZEE AFLAM
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=457172&extension=ts&play_token=oiFcOKboGG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ZEE-BANGLA.png" group-title="|AS| BANGLA",BGL - ZEE BANGLA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=1173096&extension=ts&play_token=k4bqrexPai
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-HD.jpeg" group-title="|AS| BANGLA",BGL - ZEE BANGLA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281671&extension=ts&play_token=Khz4EKGTO4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-CINEMA.png" group-title="|AS| BANGLA",BGL - ZEE BANGLA CINEMA
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281673&extension=ts&play_token=kpuTHwTmVq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-JALSHA-MOVIES-HD.png" group-title="|AS| BANGLA",BGL - STAR JALSHA MOVIES UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281674&extension=ts&play_token=eXtkhFqXrR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starjalsha.png" group-title="|AS| BANGLA",BGL - STAR JALSHA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281675&extension=ts&play_token=08a2FnwxdW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-BANGLA-HD.jpeg" group-title="|AS| BANGLA",BGL - COLORS BANGLA UHD
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=281676&extension=ts&play_token=eZ2jLpE8i6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FILMT.png" group-title="|ALB| MOVIES",ALB - L STAR FILM SHQIP
+http://30198-puppy.ott-cdn.me:80/play/live.php?mac=00:1A:79:00:18:9E&stream=262024&extension=ts&play_token=yApWFCwCRB
