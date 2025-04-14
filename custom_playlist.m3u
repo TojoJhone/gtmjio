@@ -1,1275 +1,235 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/DAYSTAR.png" group-title="[US] USA GENERAL",[USA] DAYSTAR HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=469332&extension=ts&play_token=vfuQwOzwvA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/START-TV.png" group-title="[US] USA GENERAL",[USA] START TV HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=469430&extension=ts&play_token=hgVO6J1gfT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/startvhd.png" group-title="[TR] TURKEY | ULUSAL",[TR] STAR TV UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=259878&extension=ts&play_token=s19RMqmfws
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/eurostar.png" group-title="[TR] TURKEY | ULUSAL",[TR] EURO STAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=259887&extension=ts&play_token=xp149ycNeJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/espn.png" group-title="[US] USA ESPN+",ESPN+ 74 (D): Southern Indiana vs. Eastern Illinois  13:00et-18:00uk
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723794&extension=ts&play_token=OJR4vYc6CJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/espn.png" group-title="[US] USA ESPN+",ESPN+ 108 (D): Southern Illinois vs. Indiana State  13:00et-18:00uk
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723760&extension=ts&play_token=CDPUQ5YYRO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/espn.png" group-title="[US] USA ESPN+",ESPN+ 146 (D): Southern Indiana vs. Tennessee Tech  14:00et-19:00uk
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723722&extension=ts&play_token=Xuzjyz9mX7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/POPULLORE.png" group-title="[ALB] MUSIC",[ALB] WEBSTAR MUSIK HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=997355&extension=ts&play_token=n6IGptcno5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/FESTINA.png" group-title="[ALB] MUSIC",ALB]  WEBSTAR MUSIC
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=997351&extension=ts&play_token=EU9lQ5PffO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/WEBSTAR.png" group-title="[ALB] MUSIC",[ALB] WEBSTAR POPULLORE HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=997354&extension=ts&play_token=Zad5yuGI7Y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/NHL-DALLAS-STARS.png" group-title="[US] USA NHL",[NHL] DALLAS STARS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660730&extension=ts&play_token=Zs7sbfCQRw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/BALLY-SPORTS-INDIANA.png" group-title="[US] USA SPORTS",[SP] BALLY SPORTS INDIANA HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=816128&extension=ts&play_token=rtYv0eq6PZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/BALLY-SPORTS-INDIANA.png" group-title="[US] USA SPORTS",[SP] BALLY SPORTS INDIANA PLUS HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=816129&extension=ts&play_token=6qr7Hx551N
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-SPORTS-1.png" group-title="[US] USA SPORTS",[SP] STAR SPORTS 1 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=487793&extension=ts&play_token=8kEnRbh3Lv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-SPORTS-2.png" group-title="[US] USA SPORTS",[SP] STAR SPORTS 2 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=487792&extension=ts&play_token=VcBUp0dY0B
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="[US] 24/7 ENGLISH MOVIES",[ENG] 24/7 INDIANA JONES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=617132&extension=ts&play_token=kja1czQXGI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="[US] 24/7 ENGLISH MOVIES",[ENG] 24/7 STAR TREK MOVIES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=617114&extension=ts&play_token=WF5Iun7cuE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="[US] 24/7 ENGLISH MOVIES",[ENG] 24/7 STAR WARS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=617113&extension=ts&play_token=HGvg2rMx7N
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CSTAR-HITS-FR-TV.jpeg" group-title="FR MUSIQUE | TV",[FR] CSTAR HITS SD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=832234&extension=ts&play_token=EvHhU0f8Ix
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/flosports.png" group-title="[US] FLO PPV",Flo (FLSP) 174: 2025 Texas Stars vs Chicago Wolves Home - 13/04 16:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990921&extension=ts&play_token=2GfHIZLJL9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/flosports.png" group-title="[US] FLO PPV",Flo (FLSP) 175: 2025 Texas Stars vs Chicago Wolves Away - 13/04 16:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990922&extension=ts&play_token=E7ZZy4aJql
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/aljazeeraamerica.png" group-title="[US] USA NEWS",[USA] AL JAZEERA AMERICA HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=469294&extension=ts&play_token=rKv4tKNnMf
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/aljazeeraamerica.png" group-title="[US] USA NEWS",[USA] AL JAZEERA ENGLISH
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=469293&extension=ts&play_token=Ss4saZAXh3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 1 | Blue Jays x Orioles start:2025-04-13 18:35:00 stop:2025-04-14 01:48:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801199&extension=ts&play_token=Nk946FSdlX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 2 | Giants x Yankees start:2025-04-13 18:35:00 stop:2025-04-14 01:48:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801200&extension=ts&play_token=yfSyBVOfl1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 8 | Tigers x Twins start:2025-04-13 19:10:00 stop:2025-04-14 02:23:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801206&extension=ts&play_token=LpXl2YdE0b
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 9 | Red Sox x White Sox start:2025-04-13 19:10:00 stop:2025-04-14 02:23:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801207&extension=ts&play_token=k4ZK2IzZVf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 10 | Phillies x Cardinals start:2025-04-13 19:15:00 stop:2025-04-14 02:28:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801192&extension=ts&play_token=f86Mf7sO72
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 11 | Mets x Athletics start:2025-04-13 21:05:00 stop:2025-04-14 04:18:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801193&extension=ts&play_token=Wkk6Heobky
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 12 | Rockies x Padres start:2025-04-13 21:10:00 stop:2025-04-14 04:23:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801194&extension=ts&play_token=dPSH3tXQbp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 13 | Rangers x Mariners start:2025-04-13 21:10:00 stop:2025-04-14 04:23:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801195&extension=ts&play_token=8NJrGMaDuO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 14 | Brewers x D-backs start:2025-04-13 21:10:00 stop:2025-04-14 04:23:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801196&extension=ts&play_token=Xg44bhQh09
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 15 | Cubs x Dodgers start:2025-04-14 00:10:00 stop:2025-04-14 07:23:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801197&extension=ts&play_token=AwivdMRlgE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="[US] USA MLB",MLB 16 | Guardians x Angels start:2025-04-06 21:07:00 stop:2025-04-07 04:20:20
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=801198&extension=ts&play_token=iATxN394eT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/mlb.png" group-title="[US] USA MLB",MLB CLEVELAND INDIANS HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552231&extension=ts&play_token=2rG3EHQIL9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="[US] DAZN PPV",US-DAZN 2 HD (D): WRC| Secto Rally Finland: Ceremonial Start_ Jyvaskyla| Wed 31 Jul 12:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990313&extension=ts&play_token=d8WuQEHIKE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CBS-COLTS-INDIANAPOLIS-IN.png" group-title="[US] USA NFL",[NFL] CBS COLTS INDIANAPOLIS IN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660782&extension=ts&play_token=8aUBUQgzB0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/FOX-59-INDIANAPOLIS.png" group-title="[US] USA FOX",[USA] FOX 59 INDIANAPOLIS IN (WXIN)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=549833&extension=ts&play_token=3aSAHmMSsy
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/starztv.png" group-title="[US] USA MOVIES",[USA] STARZ (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552088&extension=ts&play_token=mfGW2Qm9DZ
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/starztv.png" group-title="[US] USA MOVIES",[USA] STARZ (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552087&extension=ts&play_token=Sr1020WZlc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-CINEMA.png" group-title="[US] USA MOVIES",[USA] STARZ CINEMA (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552086&extension=ts&play_token=luDkKtb74B
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-CINEMA.png" group-title="[US] USA MOVIES",[USA] STARZ CINEMA (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552085&extension=ts&play_token=4OWuUMLFpp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-COMEDY.png" group-title="[US] USA MOVIES",[USA] STARZ COMEDY (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552084&extension=ts&play_token=vG8zVx3pVz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-COMEDY.png" group-title="[US] USA MOVIES",[USA] STARZ COMEDY (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552083&extension=ts&play_token=zRXYGnvj4Q
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-EDGE.png" group-title="[US] USA MOVIES",[USA] STARZ EDGE (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552082&extension=ts&play_token=lCyu65hQQO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-EDGE.png" group-title="[US] USA MOVIES",[USA] STARZ EDGE (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552081&extension=ts&play_token=qepYSK0yqQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-EAST.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552080&extension=ts&play_token=xuuzvmn3Iy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-WEST.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552079&extension=ts&play_token=7W724pVoLB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-ACTION.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE ACTION (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552078&extension=ts&play_token=8IDRPAe0Wm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-ACTION.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE ACTION (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552077&extension=ts&play_token=Q9rxL52H0W
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-BLACK.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE BLACK (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552076&extension=ts&play_token=HFFKwRN5JE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-BLACK.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE BLACK (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552075&extension=ts&play_token=Qua5H60qIw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ-ENCORE-CLASSIC-HD.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE CLASSIC (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552074&extension=ts&play_token=V7FA58Mqm2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ-ENCORE-CLASSIC-HD.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE CLASSIC (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552073&extension=ts&play_token=1H6qNbNnxi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-FAMILY.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE FAMILY (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552072&extension=ts&play_token=8kpPzw2woq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-FAMILY.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE FAMILY (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552071&extension=ts&play_token=hwa2czVEsw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-SUSPENSE.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE SUSPENSE (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552070&extension=ts&play_token=5lqInw85WO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-SUSPENSE.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE SUSPENSE (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552069&extension=ts&play_token=vK0K62TfMY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-WESTERNS.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE WESTERNS (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552068&extension=ts&play_token=pKhozvLkMC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-ENCORE-WESTERNS.png" group-title="[US] USA MOVIES",[USA] STARZ ENCORE WESTERNS (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552067&extension=ts&play_token=KLjREOtdni
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-IN-BLACK.png" group-title="[US] USA MOVIES",[USA] STARZ IN BLACK (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552066&extension=ts&play_token=KmI5JF4ng0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-IN-BLACK.png" group-title="[US] USA MOVIES",[USA] STARZ IN BLACK (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552065&extension=ts&play_token=pVOoqbhbUs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-KIDS-FAMILY.png" group-title="[US] USA MOVIES",[USA] STARZ KIDS & FAMILY (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552064&extension=ts&play_token=HhPsK6Q17B
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/STARZ-KIDS-FAMILY.png" group-title="[US] USA MOVIES",[USA] STARZ KIDS & FAMILY (WEST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552063&extension=ts&play_token=3YRRnDW3t3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/5STARMAX.png" group-title="[US] USA MOVIES",[USA] 5STARMAX (EAST) HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552052&extension=ts&play_token=Ww3hHDrixW
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL INFO HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971106&extension=ts&play_token=BtpohXL6UO
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL 1 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971105&extension=ts&play_token=3yJYDHYTvT
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL 2 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971104&extension=ts&play_token=JzjT25VKJY
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL 3 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971103&extension=ts&play_token=V09BbK0YPI
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL 4 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971102&extension=ts&play_token=DWGPZNZ9fd
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL 5 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971101&extension=ts&play_token=akpp4oGQtr
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL 6 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971100&extension=ts&play_token=IbC3x0iWGw
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL 7 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971099&extension=ts&play_token=qeLWoSmHvs
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL 8 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971098&extension=ts&play_token=7m6Qq4VKl5
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL 9 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971097&extension=ts&play_token=o43eXu2XCL
-#EXTINF:-1 tvg-logo="https://iili.io/s3HRov.md.png" group-title="[US] STARZ",[US} STARZ ORIGINAL 10 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=971096&extension=ts&play_token=H0KwXj2INb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NBC-13-INDIANAPOLIS-WTHR.jpeg" group-title="[US] USA NBC",[USA] NBC 13 INDIANAPOLIS IN (WTHR)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=550332&extension=ts&play_token=iKcjI3Bfsm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/ABC-6-INDIANAPOLIS.png" group-title="[US] USA ABC",[USA] ABC 6 INDIANAPOLIS IN (WRTV)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=548942&extension=ts&play_token=HQrPR0aBlZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 1 | KansasCity vs. Portland start:2025-04-13 19:10:00 stop:2025-04-13 21:52:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=864934&extension=ts&play_token=fbbsqssgTR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 2 | MLSCountdown start:2025-04-13 22:55:00 stop:2025-04-14 01:37:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=864935&extension=ts&play_token=NbG7SNLKQb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 3 | MLSWrap-Up start:2025-04-14 02:25:00 stop:2025-04-14 05:07:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=864937&extension=ts&play_token=EQhRo7Kjja
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 4 | Chicago vs. Miami start:2025-04-13 21:25:00 stop:2025-04-14 00:07:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=864936&extension=ts&play_token=5AWF5x6FqG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 5 | St.Louis vs. Columbus start:2025-04-13 23:55:00 stop:2025-04-14 02:37:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=864938&extension=ts&play_token=teAtyWDXrt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 6 | LAFC vs. SanJose start:2025-04-13 03:25:00 stop:2025-04-13 06:07:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=864939&extension=ts&play_token=YkKOtcXWSx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 7 | Orlando vs. NewYork start:2025-04-12 21:25:00 stop:2025-04-13 00:07:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=864940&extension=ts&play_token=FicDuquAqE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 8| NewYorkCity vs. Philadelphia start:2025-04-13 00:25:00 stop:2025-04-13 03:07:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=864941&extension=ts&play_token=FIuvIruGvI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 9 | LA vs. Houston start:2025-04-13 03:25:00 stop:2025-04-13 06:07:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=864942&extension=ts&play_token=hrQnK1IHDi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 10 | D.C. vs. Cincinnati start:2025-04-13 00:25:00 stop:2025-04-13 03:07:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=1207582&extension=ts&play_token=DgM1YXF17A
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 11 | Montréal vs. Charlotte start:2025-04-13 00:25:00 stop:2025-04-13 03:07:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=864943&extension=ts&play_token=lNu1gXz4tk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 13 | Dallas vs. Seattle start:2025-04-13 01:25:00 stop:2025-04-13 04:07:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=1207584&extension=ts&play_token=PrFQtZ49jy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MLS-.png" group-title="[US] USA MLS",MLS Live 12 | MLS360 start:2025-04-13 00:25:15 stop:2025-04-13 03:07:15
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=1207583&extension=ts&play_token=8k7ATJ9Nx9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/b1g-logo.png" group-title="[US] B1G+ PPV",BTN+ 9 HD (D): B1G+ | Softball | Indiana at Wisconsin | Sun 13 Apr 13:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990706&extension=ts&play_token=5aTd7F2CuV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/b1g-logo.png" group-title="[US] B1G+ PPV",BTN+ 17 HD (D): B1G+ | Baseball | Indiana at Illinois | Sun 13 Apr 14:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990714&extension=ts&play_token=eXDeDPuTwx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/b1g-logo.png" group-title="[US] B1G+ PPV",BTN+ 24 HD (D): B1G+ | Softball | IU Indianapolis at Purdue | Tue 15 Apr 17:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990721&extension=ts&play_token=mAM9sNv7r8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/b1g-logo.png" group-title="[US] B1G+ PPV",BTN+ 27 HD (D): B1G+ | Baseball | Indiana St. at Indiana | Tue 15 Apr 18:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990724&extension=ts&play_token=ev6g68PNOX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 01: Bucks (MIL) x Pistons (DET) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660707&extension=ts&play_token=bLhiLe1o4b
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 02: 76ers (PHI) x Bulls (CHI) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660706&extension=ts&play_token=wklNyhIAVb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 03: Heat (MIA) x Wizards (WAS) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660705&extension=ts&play_token=axyuLCbsnc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 04: Cavaliers (CLE) x Pacers (IND) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660704&extension=ts&play_token=Ad0bmeCMux
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 05: Nets (BKN) x Knicks (NYK) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660703&extension=ts&play_token=AeGXbG9MNA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 06: Celtics (BOS) x Hornets (CHA) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660702&extension=ts&play_token=h0OnPswIHt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 07: Hawks (ATL) x Magic (ORL) start:2025-04-13 17:50:00 stop:2025-04-13 21:50:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660701&extension=ts&play_token=CCyLJ3xFXB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 08: Kings (SAC) x Suns (PHX) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660700&extension=ts&play_token=R12fLNyqcW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 09 : Trail Blazers (POR) x Lakers (LAL) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660699&extension=ts&play_token=1WkipYbKlv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 10 : Warriors (GSW) x Clippers (LAC) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660698&extension=ts&play_token=tb2ygMKKzQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 11 : Spurs (SAS) x Raptors (TOR) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660697&extension=ts&play_token=ZhI8Gwfzp5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 12 : Pelicans (NOP) x Thunder (OKC) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660696&extension=ts&play_token=WS6NEW4fg9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 13 : Timberwolves (MIN) x Jazz (UTA) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660695&extension=ts&play_token=yYOHGF0ve6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 14 : Grizzlies (MEM) x Mavericks (DAL) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660694&extension=ts&play_token=HxouLAqCkI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="[US] USA NBA",NBA 15 : Rockets (HOU) x Nuggets (DEN) start:2025-04-13 20:20:00 stop:2025-04-14 00:20:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660693&extension=ts&play_token=qXWBL5IPTV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/NBA-INDIANA-PACERS.png" group-title="[US] USA NBA",[NBA] INDIANA PACERS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=660680&extension=ts&play_token=b31SiLoTMU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CBS-4-INDIANAPOLIS.jpg" group-title="[US] USA CBS",[USA] CBS 4 INDIANAPOLIS IN (WTTV)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=549592&extension=ts&play_token=ff4ny3Rplj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/BEIN-STAR-WORLD.png" group-title="[AR] BEIN ENTERTAINMENT",BEIN STAR WORLD HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=862838&extension=ts&play_token=JXhcSoUvOx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",###### STARZPLAY SPORT ######
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=761731&extension=ts&play_token=Y9jXMshLno
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / AD SPORT 1 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=761732&extension=ts&play_token=V7SZV9yyO1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / AD SPORT 2 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=761733&extension=ts&play_token=c6JBFcH25A
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / AD SPORT 3 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=761734&extension=ts&play_token=PCoGnjMDx6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / AD SPORT 4 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=761735&extension=ts&play_token=R0XFM2UZHl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / AD SPORT 5 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=761736&extension=ts&play_token=2Hv3f5H5oJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / AD SPORTS 1 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765041&extension=ts&play_token=tix1PkzCjr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / AD SPORTS 2 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765042&extension=ts&play_token=cRJB3rTnc7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / AD SPORTS 3 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765043&extension=ts&play_token=Qkiucrb7hE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] AD SPORT ASIA 1 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765044&extension=ts&play_token=gSb1YWZmDM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] AD SPORT ASIA 1 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765045&extension=ts&play_token=scrsnXUfrV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/AD_SPORT_2.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] AD SPORT ASIA 2 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765046&extension=ts&play_token=WUzsag5c5B
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/AD_SPORT_2.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] AD SPORT ASIA 2 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765047&extension=ts&play_token=V1OfEYng6O
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] ABU DHABI SPORT1 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765048&extension=ts&play_token=VjRTw46kwM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] ABU DHABI SPORT1 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765049&extension=ts&play_token=Dg9eEtPSl2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] ABU DHABI SPORT1
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765050&extension=ts&play_token=yk1CzVumPs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/AD_SPORT_2.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] ABU DHABI SPORT2 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765051&extension=ts&play_token=mpe2lqnFHt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/AD_SPORT_2.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] ABU DHABI SPORT2 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765052&extension=ts&play_token=zpCQBnhyzs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/starzplay-logo.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / CRLIFE 1 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=766017&extension=ts&play_token=k2SQP1QBCJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/starzplay-logo.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / CRLIFE 2 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=766018&extension=ts&play_token=u6CucK0BbC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / CRLIFE 2 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=767231&extension=ts&play_token=45mBHfL19x
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZPLAY.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] STARZPLAY / CRLIFE 1 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=767232&extension=ts&play_token=q55ZfPaZxs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/UFC-.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] ARABIC UFC EVENT 1 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=977634&extension=ts&play_token=GrYjog25Qm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/UFC-.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR]  ARABIC UFC EVENT 2 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=977635&extension=ts&play_token=Xm1xEeAqE7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/UFC-.png" group-title="[AR] STARZPLAY & ADSPORTS",[AR] ARABIC UFC EVENT 3 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=994802&extension=ts&play_token=LtlNSJxcU9
-#EXTINF:-1 tvg-logo="" group-title="[IN] SPORTS",##### INDIA SPORTS #####
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281624&extension=ts&play_token=2HYdKD97oi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HD.png" group-title="[IN] SPORTS",[INSPT] STAR SPORTS 1 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843537&extension=ts&play_token=qNdQID3JGl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="[IN] SPORTS",[INSPT] STAR SPORTS 1 ENGLISH UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281630&extension=ts&play_token=zdY3hgd0Rz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="[IN] SPORTS",[INSPT] STAR SPORTS 1 HINDI UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281631&extension=ts&play_token=eEnFUAxQFd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="[IN] SPORTS",[INSPT] STAR SPORTS HINDI 1 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843539&extension=ts&play_token=0EzeY6D9yL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-2-HD.jpeg" group-title="[IN] SPORTS",[INSPT] STAR SPORTS 2 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843538&extension=ts&play_token=uX0BNXSMWN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-2-HD.jpeg" group-title="[IN] SPORTS",[INSPT] STAR SPORTS 2 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281632&extension=ts&play_token=2jNPjgzuCs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-3.jpeg" group-title="[IN] SPORTS",[INSPT] STAR SPORTS 3
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281633&extension=ts&play_token=KuO5XxeWSh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-FIRST.png" group-title="[IN] SPORTS",[INSPT] STAR SPORTS FIRST
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281634&extension=ts&play_token=K0uxfyLazI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="[IN] SPORTS",[INSPT] STAR SPORTS SELECT 1 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281635&extension=ts&play_token=uEtJnJ49Og
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STAR-SPORTSSELECT-1.png" group-title="[IN] SPORTS",[INSPT] STAR SPORTS SELECT 1 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843540&extension=ts&play_token=Oi2QMeNHPw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="[IN] SPORTS",[INSPT] STAR SPORTS SELECT 2 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281636&extension=ts&play_token=uzKVJHDxyg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STAR-SPORTSSELECT-2.png" group-title="[IN] SPORTS",[INSPT] STAR SPORTS SELECT 2 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843541&extension=ts&play_token=XXwxiRuclN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-TAMIL.jpg" group-title="[IN] SPORTS",[INSPT] STAR SPORTS TAMIL
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281637&extension=ts&play_token=wCiO07qUdn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Sony_Ten_1_HD.png" group-title="[IN] SPORTS",[INSPT] TEN 1 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843533&extension=ts&play_token=Bi0B2ni751
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ten2.png" group-title="[IN] SPORTS",[INSPT] TEN 2 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843534&extension=ts&play_token=gjDuyl35lo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Sony_Ten_3.png" group-title="[IN] SPORTS",[INSPT] TEN 3 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843535&extension=ts&play_token=Zf6eoPy0Zb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/novasportsstart.png" group-title="[GR] SPORT",[GR] NOVA SPORT START
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=754376&extension=ts&play_token=LoDzVMFqX7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-MAGIC.png" group-title="[AF] CANAL+ AFRIQUE",[AF] ZEE MAGIC BK
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=721526&extension=ts&play_token=BeTOu8W7BZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-MAGIC.png" group-title="[AF] CANAL+ AFRIQUE",[AF] ZEE MAGIC
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=356093&extension=ts&play_token=OLiGEPEfE6
-#EXTINF:-1 tvg-logo="" group-title="[IN] INDIA",###### INDIA #####
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281276&extension=ts&play_token=vg7CNZZIrE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetvhd.png" group-title="[IN] INDIA",[IN] ZEE TV UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281277&extension=ts&play_token=tuD3uAvruF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecinemahd.png" group-title="[IN] INDIA",[IN] ZEE CINEMA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281278&extension=ts&play_token=tLq8wn4bDN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.zing.png" group-title="[IN] INDIA",[IN] ZING
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281279&extension=ts&play_token=i6Nprpq4jz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorshd.png" group-title="[IN] INDIA",[IN] COLORS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281280&extension=ts&play_token=Cd1Ctj4Wwo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/stargoldhd.png" group-title="[IN] INDIA",[IN] STAR GOLD UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281281&extension=ts&play_token=a3MUJfGkT9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/stargoldselect.png" group-title="[IN] INDIA",[IN] STAR GOLD SELECT UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281282&extension=ts&play_token=jlx4PNFEqd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starplushd.png" group-title="[IN] INDIA",[IN] STAR PLUS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281283&extension=ts&play_token=NxIn61nwQT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starbharathd.jpg" group-title="[IN] INDIA",[IN] STAR BHARAT UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281284&extension=ts&play_token=qeu00kFB5E
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starutsav.png" group-title="[IN] INDIA",[IN] STAR UTSAV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281285&extension=ts&play_token=LAnoW3OHcG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starutsav.png" group-title="[IN] INDIA",[IN] STAR UTSAV MOVIES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281286&extension=ts&play_token=tfLAeeXfwH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.sony.png" group-title="[IN] INDIA",[IN] SONY UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281287&extension=ts&play_token=ibtWfaSwWc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.sony.png" group-title="[IN] INDIA",[IN] SONY UHD (Back-Up)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281288&extension=ts&play_token=1nozahLl7I
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.sony.png" group-title="[IN] INDIA",[IN] SONY UHD USA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281289&extension=ts&play_token=30uaf7C8NI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonymaxhd.png" group-title="[IN] INDIA",[IN] SONY MAX UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281290&extension=ts&play_token=rAra2exxQh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonymaxhd.png" group-title="[IN] INDIA",[IN] SONY MAX UHD (Back-Up)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281291&extension=ts&play_token=eAkUhapLLi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonymax2.png" group-title="[IN] INDIA",[IN] SONY MAX 2
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281292&extension=ts&play_token=17On4AWS9o
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonysabhd.jpg" group-title="[IN] INDIA",[IN] SONY SAB UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281293&extension=ts&play_token=jMiZl16Fjl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonysabhd.jpg" group-title="[IN] INDIA",[IN] SONY SAB UHD (Back-Up)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281294&extension=ts&play_token=dUR6rYbIYh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/andtvhd.png" group-title="[IN] INDIA",[IN] AND EXPLORER UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281295&extension=ts&play_token=Vf3oW0pWnE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sony_pix_hd.png" group-title="[IN] INDIA",[IN] SONY PIX UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281296&extension=ts&play_token=zhQS7QRYOl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeeaction.jpg" group-title="[IN] INDIA",[IN] ZEE ACTION
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281297&extension=ts&play_token=zoAE4PeqZt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonypal.jpg" group-title="[IN] INDIA",[IN] SONY PAL
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281299&extension=ts&play_token=5s4ocnUqSw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonywah.jpg" group-title="[IN] INDIA",[IN] SONY WAH
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281300&extension=ts&play_token=Gx29bDBA3Y
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SONY-YAY.jpg" group-title="[IN] INDIA",[IN] SONY YAY
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281301&extension=ts&play_token=IMaCX5em85
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.b4umovies.png" group-title="[IN] INDIA",[IN] B4U MOVIES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281302&extension=ts&play_token=TfwGor15Pn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/b4umusic.png" group-title="[IN] INDIA",[IN] B4U MUSIC
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281303&extension=ts&play_token=Ekkl838EMm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/9xjalwa.jpg" group-title="[IN] INDIA",[IN] 9X JALWA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281304&extension=ts&play_token=4I3z14uVcN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aajtakhd.png" group-title="[IN] INDIA",[IN] AAJ TAK UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281305&extension=ts&play_token=d5bWTSHjGi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.aajtak.png" group-title="[IN] INDIA",[IN] AAJ TAK TEZ
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281306&extension=ts&play_token=r7POxG2fIh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zoomtv.png" group-title="[IN] INDIA",[IN] ZOOM TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281307&extension=ts&play_token=dYtJa5t8FO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.aastha.png" group-title="[IN] INDIA",[IN] AASTHA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281308&extension=ts&play_token=6kuDFPEdD6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.aastha.png" group-title="[IN] INDIA",[IN] AASTHA BHAJAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281309&extension=ts&play_token=0hj1bA4Usj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.abpnews.png" group-title="[IN] INDIA",[IN] ABP NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281310&extension=ts&play_token=7HnierLdBm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/AND_FLIX_HD.png" group-title="[IN] INDIA",[IN] AND FLIX UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281311&extension=ts&play_token=V2RSP1z9S8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/andpicture.jpg" group-title="[IN] INDIA",[IN] AND PICTURES UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281312&extension=ts&play_token=n6bckFBRNu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/andtvhd.png" group-title="[IN] INDIA",[IN] AND TV UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281313&extension=ts&play_token=cfTtTx3bbR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/andtvhd.png" group-title="[IN] INDIA",[IN] AND TV UHD USA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281314&extension=ts&play_token=U6rDkWwTPv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/animalplanethd.png" group-title="[IN] INDIA",[IN] ANIMAL PLANET UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281315&extension=ts&play_token=2Hlce21FWO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/bbcearthhd.png" group-title="[IN] INDIA",[IN] BBC EARTH UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281316&extension=ts&play_token=peEPpBBRcW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cineplexhd.jpg" group-title="[IN] INDIA",[IN] CINEPLEX UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281318&extension=ts&play_token=Y6dvuwcSht
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DD-BHARTI.png" group-title="[IN] INDIA",[IN] DD BHARTI
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281319&extension=ts&play_token=iiWMS8tmVc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DD-BIHAR.jpg" group-title="[IN] INDIA",[IN] DD BIHAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281320&extension=ts&play_token=YbFGKfDUgo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ddindia.png" group-title="[IN] INDIA",[IN] DD INDIA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281321&extension=ts&play_token=gYInm2biiI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DD-MP.jpeg" group-title="[IN] INDIA",[IN] DD MP
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281322&extension=ts&play_token=odWXIIRQ5S
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ddnationalhd.jpg" group-title="[IN] INDIA",[IN] DD NATIONAL UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281323&extension=ts&play_token=AtVE2q6QdU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ddnews.jpg" group-title="[IN] INDIA",[IN] DD NEWS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281324&extension=ts&play_token=a5caJOFsZa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ddrajashtan.jpg" group-title="[IN] INDIA",[IN] DD RAJASTHAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281325&extension=ts&play_token=7BIXMdCsNN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DD-UP.png" group-title="[IN] INDIA",[IN] DD UP
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281326&extension=ts&play_token=1iCoawMNbA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/FOOD-FOOD.jpeg" group-title="[IN] INDIA",[IN] FOOD FOOD UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281327&extension=ts&play_token=kRk4EulQGq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DILLI-AAJ-TAKK.png" group-title="[IN] INDIA",[IN] DILLI AAJ TAKK
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281328&extension=ts&play_token=S8AB6SLHlv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.Discovery_world_hd.png" group-title="[IN] INDIA",[IN] DISCOVERY WORLD UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281329&extension=ts&play_token=ozvzCqFpio
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Discovery_Jeet_hd.png" group-title="[IN] INDIA",[IN] DISCOVERY JEET UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281330&extension=ts&play_token=snv154GNaq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/hungama.jpg" group-title="[IN] INDIA",[IN] HUNGAMA BOL HADIPA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281332&extension=ts&play_token=jKSGQDd31K
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/hungama.jpg" group-title="[IN] INDIA",[IN] HUNGAMA DIL DE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281333&extension=ts&play_token=7AJRdOjawY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/HUNGAMA-KADAK-HITS.jpg" group-title="[IN] INDIA",[IN] HUNGAMA KADAK HITS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281334&extension=ts&play_token=VMb9A9xnUA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/hungama.jpg" group-title="[IN] INDIA",[IN] HUNGAMA NAZRANA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281335&extension=ts&play_token=fcP6DcPMN4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/hungama.jpg" group-title="[IN] INDIA",[IN] HUNGAMA POP PATAKA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281336&extension=ts&play_token=04DwVupWVk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/KRISHNA-VANI.png" group-title="[IN] INDIA",[IN] KRISHNA VANI UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281337&extension=ts&play_token=nqG4TUoFCP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/livingfoodzhd.png" group-title="[IN] INDIA",[IN] LIVING FOODZ UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281338&extension=ts&play_token=gXiRiHtNMF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/natgeohd.png" group-title="[IN] INDIA",[IN] NAT GEO UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281339&extension=ts&play_token=Gj8Al7UBs1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/natgeowildhd.png" group-title="[IN] INDIA",[IN] NAT GEO WILD UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281340&extension=ts&play_token=AAYmuOAmkF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/UTV-ACTION.jpeg" group-title="[IN] INDIA",[IN] UTV ACTION
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281341&extension=ts&play_token=ulMGCFHMuz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/utvhd.png" group-title="[IN] INDIA",[IN] UTV UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281342&extension=ts&play_token=vrIAQycYkD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/UTV-MOVIES.png" group-title="[IN] INDIA",[IN] UTV MOVIES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281343&extension=ts&play_token=77aJZqMUt3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/9xmusic.png" group-title="[IN] INDIA",[IN] 9X MUSIC
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281344&extension=ts&play_token=hZIoutsfTg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/9X-TASHAN.jpeg" group-title="[IN] INDIA",[IN] 9X TASHAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281345&extension=ts&play_token=3ivtdhrZPa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/AMAR-UJALA-NEWS.png" group-title="[IN] INDIA",[IN] AMAR UJALA NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281346&extension=ts&play_token=2OqpLauton
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/apnnews.jpg" group-title="[IN] INDIA",[IN] APN NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281347&extension=ts&play_token=YrdPuf7ytM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/arihant.jpg" group-title="[IN] INDIA",[IN] ARIHANT
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281348&extension=ts&play_token=Zvd7dm7d9n
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/bigmagic.jpg" group-title="[IN] INDIA",[IN] BIG MAGIC
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281349&extension=ts&play_token=lyCBg2jmM8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinematv.jpg" group-title="[IN] INDIA",[IN] CINEMA TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281351&extension=ts&play_token=Zaf2XIhQmN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/comedyactive.png" group-title="[IN] INDIA",[IN] COMEDY ACTIVE
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281352&extension=ts&play_token=GJ3nhK6ZXx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/dabangg.png" group-title="[IN] INDIA",[IN] DABANGG
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281353&extension=ts&play_token=OHnFPs3iD3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/dangal.jpg" group-title="[IN] INDIA",[IN] DANGAL
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281354&extension=ts&play_token=qGugGsAaw7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DISH-CINE-ACTIVE.png" group-title="[IN] INDIA",[IN] DISH CINE ACTIVE
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281355&extension=ts&play_token=dEgRKvO5Bk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cartoonnetwork.png" group-title="[IN] INDIA",[IN] CARTOON NETWORK
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=643219&extension=ts&play_token=r8zv0XxQcL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/disney.png" group-title="[IN] INDIA",[IN] DISNEY SD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281356&extension=ts&play_token=V5CoaOL1AM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-JUNIOR-HD.png" group-title="[IN] INDIA",[IN] DISNEY JUNIOR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=645026&extension=ts&play_token=DhqkhY1Vrt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/divya.jpg" group-title="[IN] INDIA",[IN] DIVYA TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281357&extension=ts&play_token=npBznsknCC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INEWS-.png" group-title="[IN] INDIA",[IN] E NEWS 24
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281358&extension=ts&play_token=ZS2OBTO2Kb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ENTER-10-MOVIES.png" group-title="[IN] INDIA",[IN] ENTER 10 MOVIES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281359&extension=ts&play_token=FWRzKzJqDa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/epic.png" group-title="[IN] INDIA",[IN] EPIC UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281360&extension=ts&play_token=MXy52Y6l9D
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ET-NOW.png" group-title="[IN] INDIA",[IN] ET NOW
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281361&extension=ts&play_token=LwNZeF0aon
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/EVERGREEN-CLASSIC.jpg" group-title="[IN] INDIA",[IN] EVERGREEN CLASSIC
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281362&extension=ts&play_token=qeIvPQhTku
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/foxlifehd.png" group-title="[IN] INDIA",[IN] FOX LIFE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281363&extension=ts&play_token=hI64ZtWOqp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ganga.jpg" group-title="[IN] INDIA",[IN] GANGA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281364&extension=ts&play_token=rL5XqexewZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/harekrishna.jpg" group-title="[IN] INDIA",[IN] HARE KRISHNA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281365&extension=ts&play_token=PhMh6WPohn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/HINDI-KHABAR.jpeg" group-title="[IN] INDIA",[IN] HINDI KHABAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281366&extension=ts&play_token=LRA90tD5Q1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/historytv18.jpg" group-title="[IN] INDIA",[IN] HISTORY TV 18 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281367&extension=ts&play_token=f3oo7jpDLd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/housefullaction.jpg" group-title="[IN] INDIA",[IN] HOUSEFULL ACTION
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281368&extension=ts&play_token=xcIhI1QNdp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/housefullmovies.jpg" group-title="[IN] INDIA",[IN] HOUSEFULL MOVIES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281369&extension=ts&play_token=21vRwqvG8h
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/IBC-24.jpg" group-title="[IN] INDIA",[IN] IBC 24
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281370&extension=ts&play_token=ZBd11yL8uT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/IBN-LOKMAT.png" group-title="[IN] INDIA",[IN] IBN LOKMAT
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281371&extension=ts&play_token=xZxAwThDXL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA--NEWS.jpg" group-title="[IN] INDIA",[IN] INDIA NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281372&extension=ts&play_token=Z5svacyLcC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA--NEWS.jpg" group-title="[IN] INDIA",[IN] INDIA NEWS HARYANA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281373&extension=ts&play_token=eUYl5AuPTG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-NEWS-MP.jpg" group-title="[IN] INDIA",[IN] INDIA NEWS MP
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281374&extension=ts&play_token=4Hy0vSWxMQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-NEWS-RAJASTHAN.jpeg" group-title="[IN] INDIA",[IN] INDIA NEWS RAJASTHAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281375&extension=ts&play_token=oxXVTnjneb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA--NEWS.jpg" group-title="[IN] INDIA",[IN] INDIA NEWS UP
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281376&extension=ts&play_token=KZD1YakkjF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-TV.png" group-title="[IN] INDIA",[IN] INDIA TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281377&extension=ts&play_token=G0HZvbXTn7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-VOICE.jpg" group-title="[IN] INDIA",[IN] INDIA VOICE
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281378&extension=ts&play_token=wWKYsUhTbr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ISHWAR-TV.jpeg" group-title="[IN] INDIA",[IN] ISHWAR TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281379&extension=ts&play_token=o7YFiQ7aC1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/jantatv.jpg" group-title="[IN] INDIA",[IN] JANTA TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281380&extension=ts&play_token=hZaWi3AHRA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MAHA-MOVIES.jpeg" group-title="[IN] INDIA",[IN] MAHA MOVIE
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281381&extension=ts&play_token=rct2nUT6mr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MAHA-MOVIES.jpeg" group-title="[IN] INDIA",[IN] MAHA MOVIES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281382&extension=ts&play_token=bQoKE9YRgm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MASTII-.png" group-title="[IN] INDIA",[IN] MASTII
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281383&extension=ts&play_token=buRwvXSRD3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MH1-NEWS.jpeg" group-title="[IN] INDIA",[IN] MH1 NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281384&extension=ts&play_token=mQ3e6gV4vm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/9xjalwa.jpg" group-title="[IN] INDIA",[IN] 9X JALWA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841998&extension=ts&play_token=tumfaJhICq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/THE-Q-KAHANIYAN.png" group-title="[IN] INDIA",[IN] ADHBUT KAHANIYAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841985&extension=ts&play_token=wOilcuSXlp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ANB-.jpg" group-title="[IN] INDIA",[IN] ANB NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842002&extension=ts&play_token=HxWbp5tUmO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/SONYBBCEARTHHD.png" group-title="[IN] INDIA",[IN] BBC EARTH HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844256&extension=ts&play_token=2gvUWMuUyh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/in.Star_Bharat.png" group-title="[IN] INDIA",[IN] DD BHARATI
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842003&extension=ts&play_token=hC90GKZu72
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dillagi.jpg" group-title="[IN] INDIA",[IN] DILLAGII
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842004&extension=ts&play_token=RzuGnYgrTB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/HISTORYTV18HD.png" group-title="[IN] INDIA",[IN] HISTORY TV 18 HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844257&extension=ts&play_token=1WUPlcZ6dv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/id.png" group-title="[IN] INDIA",[IN] ID
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841988&extension=ts&play_token=YOYSmq2B13
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/IND-24.jpg" group-title="[IN] INDIA",[IN] IND 24
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842006&extension=ts&play_token=BNhTLH8frH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/ITV-GOLD.png" group-title="[IN] INDIA",[IN]  ITV GOLD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=860988&extension=ts&play_token=7zoi0GDG1M
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MOVIE-PLUS.png" group-title="[IN] INDIA",[IN] MOVIE PLUS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842009&extension=ts&play_token=kmoLYLndOV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Mtv.png" group-title="[IN] INDIA",[IN] MTV BEATS HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844262&extension=ts&play_token=yUCBhvC8ZD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Mtv.png" group-title="[IN] INDIA",[IN] MTV HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844258&extension=ts&play_token=3rOICCEwnz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SHUBH-TV.jpg" group-title="[IN] INDIA",[IN] SHUBH CINEMA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842011&extension=ts&play_token=dicK0LP1pV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STARGOLDHD.png" group-title="[IN] INDIA",[IN] STAR GOLD 2
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841993&extension=ts&play_token=N65NB2zPFM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/star-gold-select-.png" group-title="[IN] INDIA",[IN] STAR GOLD SELECT HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844263&extension=ts&play_token=NYILGtA5iF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STAR-UTSAV-MOVIES.png" group-title="[IN] INDIA",[IN] STAR UTSAV MOVIES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841992&extension=ts&play_token=ztlVeNe0jo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/THEATER.png" group-title="[IN] INDIA",[IN] THEATER
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841989&extension=ts&play_token=TcB3ioLgpV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOTAL-HARYANA.png" group-title="[IN] INDIA",[IN] TOTAL HARYANA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842014&extension=ts&play_token=QZh3Mj8nSz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/utv.png" group-title="[IN] INDIA",[IN] UTV HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844264&extension=ts&play_token=gxCefVpnyR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-BIHAR-JHARKHAND.jpeg" group-title="[IN] INDIA",[IN] ZEE BIHAR JHARKHAND
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841997&extension=ts&play_token=Dk78EpWq3T
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/miniplex.png" group-title="[IN] INDIA",[IN] MINIPLEX UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281385&extension=ts&play_token=LE8c4nKLbV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Mirror_Now.png" group-title="[IN] INDIA",[IN] MIRROR NOW
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281386&extension=ts&play_token=30kTaK9Ymy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/mn_plus.png" group-title="[IN] INDIA",[IN] MN PLUS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281387&extension=ts&play_token=9hzTtLJjZm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/mnx_hd.png" group-title="[IN] INDIA",[IN] MNX UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281388&extension=ts&play_token=hjBrw437vK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MOVIE-HOUSE.jpg" group-title="[IN] INDIA",[IN] MOVIE HOUSE
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281389&extension=ts&play_token=Sm6967iYAN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/moviesactive.jpg" group-title="[IN] INDIA",[IN] MOVIES ACTIVE
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281390&extension=ts&play_token=v0dBhi21TT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Movies_Now_HD.png" group-title="[IN] INDIA",[IN] MOVIES NOW UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281391&extension=ts&play_token=b7qdgiiyx7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MTUNES-.png" group-title="[IN] INDIA",[IN] MTUNES PLUS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281392&extension=ts&play_token=qLPib6SJzQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/mtvbeats.png" group-title="[IN] INDIA",[IN] MTV BEATS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281393&extension=ts&play_token=V0Jdeq2yxp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/mtvplus.jpg" group-title="[IN] INDIA",[IN] MTV PLUS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281394&extension=ts&play_token=dwyBUMxvfu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MULTIPLEX-.jpeg" group-title="[IN] INDIA",[IN] MULTIPLEX MOVIES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281395&extension=ts&play_token=gMhLHfs2AH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/musicindia.png" group-title="[IN] INDIA",[IN] MUSIC INDIA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281396&extension=ts&play_token=Ej8Iisbw9T
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ndtv24x7.png" group-title="[IN] INDIA",[IN] NDTV 24x7
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281397&extension=ts&play_token=aFvcIDrKzV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ndtvgoodtimes.png" group-title="[IN] INDIA",[IN] NDTV GOOD TIMES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281398&extension=ts&play_token=5XLkaDmatY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ndtvindia.png" group-title="[IN] INDIA",[IN] NDTV INDIA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281399&extension=ts&play_token=Ea61aHktja
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NDTV-PROFIT.jpeg" group-title="[IN] INDIA",[IN] NDTV PROFIT
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281400&extension=ts&play_token=E7RDHBotix
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/news18india.png" group-title="[IN] INDIA",[IN] NEWS 18 INDIA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281401&extension=ts&play_token=hG3i0FC0a3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NEWS-18-RAJASTHAN.jpeg" group-title="[IN] INDIA",[IN] NEWS 18 RAJASTHAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281402&extension=ts&play_token=uwUQoCrXSD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/news24.png" group-title="[IN] INDIA",[IN] NEWS 24
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281403&extension=ts&play_token=sVH2fC0nOX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/newsnation.png" group-title="[IN] INDIA",[IN] NEWS NATION
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281404&extension=ts&play_token=UclPk6HN3q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/newsstate.JPG" group-title="[IN] INDIA",[IN] NEWS STATE
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281405&extension=ts&play_token=BoQ6dTSJEt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NEWS-X.jpg" group-title="[IN] INDIA",[IN] NEWS X
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281406&extension=ts&play_token=VwzjNHbM9C
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/parastv.jpg" group-title="[IN] INDIA",[IN] PARAS TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281408&extension=ts&play_token=b0TxsdJ691
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/OM-SHANTI.jpg" group-title="[IN] INDIA",[IN] OM SHANTI
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281407&extension=ts&play_token=xS9546U728
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/peaceofmind.jpg" group-title="[IN] INDIA",[IN] PEACE OF MIND
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281409&extension=ts&play_token=TaMeiBlOAd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/POGO-KIDS.jpg" group-title="[IN] INDIA",[IN] POGO KIDS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281410&extension=ts&play_token=nre2Z7IvE2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRARTHANA-BHAWAN.jpeg" group-title="[IN] INDIA",[IN] PRARTHANA BHAWAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281411&extension=ts&play_token=Lpr2Efsmi9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RAJASTHAN-PATRIKA.jpeg" group-title="[IN] INDIA",[IN] RAJASTHAN PATRIKA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281412&extension=ts&play_token=7CwzOvLWub
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/REPUBLIC-BHARAT.jpg" group-title="[IN] INDIA",[IN] REPUBLIC BHARAT
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281413&extension=ts&play_token=o4C58LCtJE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/REPUBLIC-NEWS.png" group-title="[IN] INDIA",[IN] REPUBLIC NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281414&extension=ts&play_token=FIZ2jdxKYx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHARA-BIHAR.jpg" group-title="[IN] INDIA",[IN] SAHARA BIHAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281415&extension=ts&play_token=OqZiov93EX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHARA-MP.png" group-title="[IN] INDIA",[IN] SAHARA MP
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281417&extension=ts&play_token=S134hhmAY6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHARA-MUMBAI.gif" group-title="[IN] INDIA",[IN] SAHARA MUMBAI
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281418&extension=ts&play_token=vnO8GJtkTH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHARA-NCR.jpg" group-title="[IN] INDIA",[IN] SAHARA NCR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281419&extension=ts&play_token=C9KiWtGXRs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/saharaone.jpg" group-title="[IN] INDIA",[IN] SAHARA ONE
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281421&extension=ts&play_token=alfwsJYtmo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHARA-SAMAY-ALAMI.jpg" group-title="[IN] INDIA",[IN] SAHARA SAMAY ALAMI
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281422&extension=ts&play_token=78k4NKi2py
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sanskartv.png" group-title="[IN] INDIA",[IN] SANSKAR TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281424&extension=ts&play_token=hbu6p0oKN0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SATSANG-TV.png" group-title="[IN] INDIA",[IN] SATSANG TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281425&extension=ts&play_token=vCagExyffp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SHOWBOX.png" group-title="[IN] INDIA",[IN] SHOWBOX
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281426&extension=ts&play_token=lrg2VGUzhw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SHUBH-TV.jpg" group-title="[IN] INDIA",[IN] SHUBH TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281427&extension=ts&play_token=D8k7uPx8Zs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sohamtv.jpg" group-title="[IN] INDIA",[IN] SOHAM TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281428&extension=ts&play_token=nGIkVSdz0I
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SUDARSHAN-NEWS.jpeg" group-title="[IN] INDIA",[IN] SUDARSHAN NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281429&extension=ts&play_token=ie3E9TFusH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TATA-SKY.png" group-title="[IN] INDIA",[IN] TATA SKY BOLLYWOOD UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281430&extension=ts&play_token=9x7k6N1JOG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TEJ-NEWS.jpg" group-title="[IN] INDIA",[IN] TEJ NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281431&extension=ts&play_token=sTSLrsVlnK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/theqyou.png" group-title="[IN] INDIA",[IN] THE Q YOU UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281432&extension=ts&play_token=Kjhk819NgU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/VEDIC-TV.jpeg" group-title="[IN] INDIA",[IN] VEDIC TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281433&extension=ts&play_token=rVAjgInKpj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/WARNER-BROS.png" group-title="[IN] INDIA",[IN] WARNER BROS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281434&extension=ts&play_token=WcDY73vy1R
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-ANMOL.jpg" group-title="[IN] INDIA",[IN] ZEE ANMOL
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281435&extension=ts&play_token=1noBrdheG4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-ANMOL-CINEMA.jpg" group-title="[IN] INDIA",[IN] ZEE ANMOL CINEMA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281436&extension=ts&play_token=nPkb78Oi0p
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeebusiness.jpg" group-title="[IN] INDIA",[IN] ZEE BUSINESS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281437&extension=ts&play_token=R9LxLYS66T
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-ETC-BOLLYWOOD.png" group-title="[IN] INDIA",[IN] ZEE ETC BOLLYWOOD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281438&extension=ts&play_token=kHyKJa0mBi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-HINDUSTAN.jpg" group-title="[IN] INDIA",[IN] ZEE HINDUSTAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281439&extension=ts&play_token=Q7lAeAjDHF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeenews.png" group-title="[IN] INDIA",[IN] ZEE NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281440&extension=ts&play_token=Fhdp5JYAVh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-NEWS-BIHAR.jpg" group-title="[IN] INDIA",[IN] ZEE NEWS BIHAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281441&extension=ts&play_token=f0jT1bzRug
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-NEWS-MP&CH.jpg" group-title="[IN] INDIA",[IN] ZEE NEWS MP
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281442&extension=ts&play_token=Kpg8uS3gRm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-NEWS-MP&CH.jpg" group-title="[IN] INDIA",[IN] ZEE NEWS MP & CH
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281443&extension=ts&play_token=NjEdTD8PdG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeenews.png" group-title="[IN] INDIA",[IN] ZEE NEWS UP
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281444&extension=ts&play_token=fOppIoeE0W
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-RAJASTHAN.jpg" group-title="[IN] INDIA",[IN] ZEE RAJASTHAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281445&extension=ts&play_token=2N42HivUce
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-YUVA.jpg" group-title="[IN] INDIA",[IN] ZEE YUVA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281446&extension=ts&play_token=OsFx6WBMxq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAIN/MOVISTAR-PLUS.png" group-title="[ES] DEPORTES",ES - MOVISTAR PLUS +2 FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=1207500&extension=ts&play_token=kfPXhXffmW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOVISTAR-PLUS.png" group-title="[ES] DEPORTES",[ES] MOVISTAR PLUS+ HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=951390&extension=ts&play_token=pHDAJKxV6T
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/daystartv.jpg" group-title="[CAR] CARRIBEAN",[CAR] DAYSTAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552986&extension=ts&play_token=Fr2fd09w4O
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecinema.png" group-title="[CAR] CARRIBEAN",[CAR] ZEE CINEMA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=552893&extension=ts&play_token=Ff2Grbg6ke
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HMONG-STAR-TV.jpg" group-title="[TH] THAILANDE",[TH]  CVA HMONG FRESNO
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=669674&extension=ts&play_token=QLXNWim1KM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HMONG-STAR-TV.jpeg" group-title="[TH] THAILANDE",[TH] HMONG TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=720314&extension=ts&play_token=O9kqIZ6zPW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorsmarathi.png" group-title="[IN] MARATHI",[MRT] COLORS MARATHI UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281760&extension=ts&play_token=uEbuKkCJrI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetalkies.png" group-title="[IN] MARATHI",[MRT] ZEE TALKIES UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281761&extension=ts&play_token=YNN4jPuPTb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-MARTHI-HD.jpg" group-title="[IN] MARATHI",[MRT] ZEE MARTHI UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281762&extension=ts&play_token=Hf98wo2iId
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-PARVAH.png" group-title="[IN] MARATHI",[MRT] STAR PARVAH UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281763&extension=ts&play_token=3DoAoRc6bY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-24-TAAS.jpg" group-title="[IN] MARATHI",[MRT] ZEE 24 TAAS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281771&extension=ts&play_token=C3ylaLI896
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeepunjabi.png" group-title="[IN] PUNJABI",[PJB] ZEE PUNJABI
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281688&extension=ts&play_token=7o7ZeWqg7a
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-NEWS-PUNJAB.jpg" group-title="[IN] PUNJABI",[PJB] INDIA NEWS PUNJAB
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281702&extension=ts&play_token=NUNyRV8ciW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/LIVING-INDIA-NEWS.jpeg" group-title="[IN] PUNJABI",[PJB] LIVING INDIA NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281704&extension=ts&play_token=EaEAGKVqU6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-PUNJAB-HARYANA.jpg" group-title="[IN] PUNJABI",[PJB] ZEE PUNJAB HARYANA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281717&extension=ts&play_token=K2wkTh4G39
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ESPN-PLAY.png" group-title="[NL] ESPN PLAY",(NL) ESPN PLAY 5 (D): Extra KKD | Telstar - Jong AZ | 08-30-2024 1:55pm
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990668&extension=ts&play_token=VmXZsgt5Hj
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/aljazeera.png" group-title="[AF] SOMALIA",[SOM] AL JAZEERA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=679668&extension=ts&play_token=SsIhJdcv6c
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/star.png" group-title="[SW] SWISS FHD",[SW] STAR TV FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=259434&extension=ts&play_token=UnC06ICo9N
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ahl.png" group-title="[CA] HOCKEY LEAGUE",[AM] TEXAS STARS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=654428&extension=ts&play_token=xlAlqNly0z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/filmboxstars.png" group-title="[CZ] CZECH",[CZ] FILMBOX STARS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=854760&extension=ts&play_token=RcdHzdisXD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ockostar.png" group-title="[CZ] CZECH",[CZ] OCKO STAR TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=854752&extension=ts&play_token=TYWI1WidSt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/STAR-21.png" group-title="[AF] AFRIQUE LES AUTRES",[GUI] STAR 21
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=311438&extension=ts&play_token=cjVOWYth3X
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-TVE.png" group-title="[AF] AFRIQUE LES AUTRES",[TNZ] STAR TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=311532&extension=ts&play_token=cd9ehmyWB9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/UBC-STAR.png" group-title="[AF] AFRIQUE LES AUTRES",[UGA] UBC STAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=311540&extension=ts&play_token=OmlkKGQvAl
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/aljazeeraenglish.png" group-title="[UK] NEWS",[UK] AL JAZEERA EN UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=577213&extension=ts&play_token=K72seRR1pt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/star.png" group-title="[GR] GENERAL",[GR] STAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=753714&extension=ts&play_token=qYkXtoMRmS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/star.png" group-title="[GR] GENERAL",[GR] STAR HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=753715&extension=ts&play_token=VbWveSgx3c
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/star.png" group-title="[GR] GENERAL",[GR] STAR FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=753716&extension=ts&play_token=GnL5Ukmxi1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/START-TV--.png" group-title="[GR] GENERAL",[GR] START (CORFU)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=753749&extension=ts&play_token=ITXScW3TQt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aljazeeraenghd.png" group-title="[NZ] NEW ZEALAND",[NZ] AL JAZEERA HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=630584&extension=ts&play_token=vKuNL8p32j
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ZEE-TV-CANADA.png" group-title="[CA] CANADA",[CA] ZEE TV CANADA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=886029&extension=ts&play_token=6rUOm7lxT4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DAYSTAR-TV-NP.jpeg" group-title="[CA] CANADA",[CA] DAYSTAR TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=626964&extension=ts&play_token=xujIhavLEW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-KANNADA-HD.jpg" group-title="[IN] KANNADA",[KAN] COLORS KANNADA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281805&extension=ts&play_token=ddN8Zx7ZVx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-KANNADA-MOVIES.jpeg" group-title="[IN] KANNADA",[KAN] COLORS KANNADA MOVIES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281806&extension=ts&play_token=SBXc2ZChYs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-KANNADA.jpeg" group-title="[IN] KANNADA",[KAN] ZEE KANNADA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281807&extension=ts&play_token=WBownUoW2L
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SUVARNA-HD.png" group-title="[IN] KANNADA",[KAN] STAR SUVARNA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281808&extension=ts&play_token=vVrqXORbO5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-SUPER.png" group-title="[IN] KANNADA",[KAN] COLORS SUPER
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281815&extension=ts&play_token=ZSCcCRYzsZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/COLORS.png" group-title="[IN] KANNADA",[KAN] COLORS TV HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844246&extension=ts&play_token=AjrEPJc17D
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ZEETALKIES.png" group-title="[IN] KANNADA",[KAN]  ZEE TALKIES HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844247&extension=ts&play_token=WlxfOjHfEa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/NATIONALGEOGRAPHICHD.png" group-title="[IN] KANNADA",[KAN] NATGEO HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844248&extension=ts&play_token=6dVS53k445
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ZEECINEMAHD.png" group-title="[IN] KANNADA",[KAN] CINEMA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=844249&extension=ts&play_token=WsCKYLrqOJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-GUJARATI-CINEMA.png" group-title="[IN] GUJARATI",[GJR] COLORS GUJARATI
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281722&extension=ts&play_token=rgz94BI7KE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-GUJARATI-CINEMA.png" group-title="[IN] GUJARATI",[GJR] COLORS GUJARATI CINEMA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281723&extension=ts&play_token=sRi21pnr8J
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Movistar_DCine.png" group-title="[ES] CINEMA",[ES] M.DCINE HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=813040&extension=ts&play_token=1UmLSW9trO
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/superstartv.png" group-title="[SE] SERBIA",[RS] SUPER STAR TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=714170&extension=ts&play_token=aLAA8tCbgH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/novas.png" group-title="[SE] SERBIA",[RS] SUPER STAR 2
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262865&extension=ts&play_token=amKz5mzucE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestaractionandthriller.png" group-title="[SE] SERBIA",[RS] CINESTAR ACTION HR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262919&extension=ts&play_token=oVaQ2AdKyu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestaractionandthriller.png" group-title="[SE] SERBIA",[RS] CINESTAR ACTION
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262921&extension=ts&play_token=Xnfo8KX4S5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestartvcomedy.png" group-title="[SE] SERBIA",[RS] CINESTAR COMEDY
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262923&extension=ts&play_token=5VcO98EYhz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestarfantasy.png" group-title="[SE] SERBIA",[RS] CINESTAR FANTASY
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262925&extension=ts&play_token=a8eJ4nmdY0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestartv.png" group-title="[SE] SERBIA",[RS] CINESTAR TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262927&extension=ts&play_token=JkxxVuotUV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestartv.png" group-title="[SE] SERBIA",[RS] CINESTAR TV HR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262929&extension=ts&play_token=C0Rfp59X3o
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestarpremiere1.png" group-title="[SE] SERBIA",[RS] CINESTAR PREMIERE 1
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262931&extension=ts&play_token=RJ1j3ewqBQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/cinestarpremiere2.png" group-title="[SE] SERBIA",[RS] CINESTAR PREMIERE 2
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262932&extension=ts&play_token=9LVm2p9m9A
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/superstartv.png" group-title="[SE] SERBIA",[RS] SUPERSTAR TV HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=1169345&extension=ts&play_token=xZQ28w7cLb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SUPERSTAR-2.png" group-title="[SE] SERBIA",[RS] SUPERSTAR 2 TV HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=1169346&extension=ts&play_token=GHBM77dpIv
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/daystar.png" group-title="[UK] ENTERTAINMENT",[UK] DAYSTAR UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=577526&extension=ts&play_token=4GmWJQYPAL
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/daystar.png" group-title="[UK] ENTERTAINMENT",[UK] DAYSTAR FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=577525&extension=ts&play_token=5MXwmNS2xp
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/5star.png" group-title="[UK] ENTERTAINMENT",[UK] 5 STAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=577500&extension=ts&play_token=hH6HpA4mda
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/5starplus1.png" group-title="[UK] ENTERTAINMENT",[UK] 5 STAR+1
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=577499&extension=ts&play_token=vysdDVhgCN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/OSN.png" group-title="[AR] OSN",[OSN] STAR MOVIES UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=724245&extension=ts&play_token=mLQ3r8rYyQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/OSN.png" group-title="[AR] OSN",[OSN] STAR WORLD UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=724244&extension=ts&play_token=MJgjgmNkF1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/STAR-CINEMA.png" group-title="[AR] EGYPT",[EG]  STAR CINEMA 1
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=620193&extension=ts&play_token=UXjW6veYvy
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cmorestars.png" group-title="[FI] FINLAND FHD",[FIN] C MORE STARS FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=494268&extension=ts&play_token=hIkHKuzuuF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/aljazeeraenglish.png" group-title="[ID] INDONESIA",[ID] AL JAZEERA ENGLISH
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=704492&extension=ts&play_token=us0HLH8OWH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-BISKOPE.jpg" group-title="[ID] INDONESIA",[ID] ZEE BIOSKOP
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=704458&extension=ts&play_token=hhiyiN63T1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zeenews.png" group-title="[ID] INDONESIA",[ID] ZEE NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=704420&extension=ts&play_token=3ZmXPXFHnB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ-COMEDY-HD.png" group-title="[LAT] LATINO",[LAT] STARZ COMEDY UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265028&extension=ts&play_token=qW1o7a5Q0P
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starz.png" group-title="[LAT] LATINO",[LAT] STARZ EAST UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265029&extension=ts&play_token=vNsHq8jjCH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_EDGE_HD.png" group-title="[LAT] LATINO",[LAT] STARZ EDGE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265030&extension=ts&play_token=Mzf7a3nP0b
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_ACTION_HD.png" group-title="[LAT] LATINO",[LAT] STARZ ENCORE ACTION
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265031&extension=ts&play_token=ZmBshN3xYu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_BLACK_HD.png" group-title="[LAT] LATINO",[LAT] STARZ ENCORE BLACK UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265032&extension=ts&play_token=e0q7Ih92LN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_CLASSIC_HD.png" group-title="[LAT] LATINO",[LAT] STARZ ENCORE CLASSIC UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265033&extension=ts&play_token=kGUcLuNfyH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_FAMILY_HD.png" group-title="[LAT] LATINO",[LAT] STARZ ENCORE FAMILY UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265034&extension=ts&play_token=35JVsP95WQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_SUSPENSE.png" group-title="[LAT] LATINO",[LAT] STARZ ENCORE SUSPENSE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265036&extension=ts&play_token=BO5aLBiFnd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_HD.png" group-title="[LAT] LATINO",[LAT] STARZ ENCORE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265035&extension=ts&play_token=SgDlQmN3ML
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_ENCORE_WESTERNS_HD.png" group-title="[LAT] LATINO",[LAT] STARZ ENCORE WESTERN UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265037&extension=ts&play_token=rujwO0LQCA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_FAMILY_HD.png" group-title="[LAT] LATINO",[LAT] STARZ FAMILY UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265038&extension=ts&play_token=LLx3TVRuVg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_KIDS_&_FAMILY_HD.png" group-title="[LAT] LATINO",[LAT] STARZ KIDS & FAMILY UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265040&extension=ts&play_token=JitpbPS1SO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_HD.png" group-title="[LAT] LATINO",[LAT] STARZ UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265039&extension=ts&play_token=AB4PVsQMUH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/STARZ_CINEMA_EAST_HD.png" group-title="[LAT] LATINO",[LAT] STARZ WEST UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265041&extension=ts&play_token=fisVNPRtf2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-KERALAM.jpeg" group-title="[IN] MALAYALAM",[MLY] ZEE KERALAM UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281758&extension=ts&play_token=v7FRSMg3II
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NETHERLAND/OMROEP-ZEELAND.png" group-title="[NL] REGIONAL",[NL] OMROEP ZEELAND HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=891431&extension=ts&play_token=tKzvvzxyPP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="[UK] DISCOVERY+ PPV",D+ (UK) Events 38: Cricket | Sri Lanka _ India | 3rd T20 | Wed 31 Jul 16:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990501&extension=ts&play_token=d7g5WnfVe7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="[UK] DISCOVERY+ PPV",D+ (UK) Events 67: MLB Classic | All_Star Highlights: Kansas City (1973) | Thu 01 Aug 03:30
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990530&extension=ts&play_token=NFb7cmwz9u
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="[UK] DISCOVERY+ PPV",D+ (UK) Events 96: Cricket | Sri Lanka _ India | Twenty20 | Thu 01 Aug 09:00
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=990559&extension=ts&play_token=OEF4lGAxle
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-COMEDY.png" group-title="[PT] FILMES E SÉRIES",[PT] FOX COMEDY
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=250633&extension=ts&play_token=wXy1TWvB2m
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/foxlife.png" group-title="[PT] FILMES E SÉRIES",[PT] STAR LIFE HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=1094690&extension=ts&play_token=3rnmc82mmc
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/starstv.png" group-title="[PL] MUZYKA | DZIECI",[PL] STARS.TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=689808&extension=ts&play_token=p7WYRXk40q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ZEE-CINEMA.png" group-title="DOM-TOM | TV",[FR] ZEE CINEMA HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=997779&extension=ts&play_token=YjjBaqxG3u
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ZEE-THIRAI.png" group-title="DOM-TOM | TV",[FR] ZEE THIRAI HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=997780&extension=ts&play_token=8ri4DDfI3o
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ZEE.png" group-title="DOM-TOM | TV",[FR]  ZEE TV HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=997781&extension=ts&play_token=wAYYwDoaZQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARACADEMY-FR-TV.png" group-title="FRANCE FHD | TV",[FR] TF1+ STAR ACADEMY FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=1166286&extension=ts&play_token=5EDgTvAQOJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/C-STAR.png" group-title="FRANCE FHD | TV",[FR] CSTAR FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=820864&extension=ts&play_token=VwhVK29Qqy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARACADEMY-FR-TV.png" group-title="FRANCE FHD | TV",[FR] STAR ACADEMY 2022
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=820879&extension=ts&play_token=5XRYNBFTeN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/C-STAR.png" group-title="FRANCE FHD | TV",[FR] CSTAR HITS FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=820755&extension=ts&play_token=ChbHLmASi1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/C-STAR.png" group-title="FRANCE HD/SD | TV",[FR] CSTAR HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=831984&extension=ts&play_token=Dpx4Bu0dSi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/C-STAR.png" group-title="FRANCE HD/SD | TV",[FR] CSTAR SD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=831922&extension=ts&play_token=KSw8dZ3Vga
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/aljazeera.png" group-title="[AF] DSTV AFRIQUE",[SA] AL JAZEERA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=311716&extension=ts&play_token=1P1Jeaoqu3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/daystartv.png" group-title="[AF] DSTV AFRIQUE",[SA] DAYSTAR UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=311636&extension=ts&play_token=C5WGNS9W0P
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/Daystar.png" group-title="[AF] DSTV AFRIQUE",[SA] DAYSTAR UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=311709&extension=ts&play_token=oDmfR9SW2R
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/M-NET-PLUS-1.png" group-title="[AF] DSTV AFRIQUE",[SA] M-NET MOVIES ALL STARS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=311695&extension=ts&play_token=47jtUkA3oD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-LIFE.png" group-title="[AF] DSTV AFRIQUE",[SA] STAR LIFE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=311659&extension=ts&play_token=iArbz6MAsk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-LIFE.png" group-title="[AF] DSTV AFRIQUE",[SA] STAR LIFE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=311733&extension=ts&play_token=aHYchREJoZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/zeeworld.png" group-title="[AF] DSTV AFRIQUE",[SA] ZEE WORLD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=730122&extension=ts&play_token=rqK4wm3ePy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="[CR] CRICKET",P[SL] STAR SPORTS 1 HINDI HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=689569&extension=ts&play_token=RZanbhPaza
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="[CR] CRICKET",P[SL] STAR SPORTS HINDI 1
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=689568&extension=ts&play_token=lyY2UYWQko
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/aljazeera.png" group-title="[AUS] AUSTRALIA",[AU] AL JAZEERA (NZ)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=259834&extension=ts&play_token=YuYuhQuym4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aljazeerabalkanshd.png" group-title="[BO] BOSNIA",[BA] AL JEZZERA BALKANS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262699&extension=ts&play_token=In6xunbAyx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aljazeerabalkans.png" group-title="[BO] BOSNIA",[BA] AL JEZZERA BALKANS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262700&extension=ts&play_token=7oHd0IgwRG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",##### STARS PLAY 4K #####
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908095&extension=ts&play_token=W6bWOdQ4X5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] IIKS LANS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908076&extension=ts&play_token=SQxDzbyJy3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] AL AJHAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908089&extension=ts&play_token=T8hKuu5XB1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] ALZAND
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908090&extension=ts&play_token=4HdtejaEYK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR]  ALNAAR BIALNAAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908091&extension=ts&play_token=9t8UFbwbmS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] ALNUKRAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908077&extension=ts&play_token=LupMTQQZlY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR]  JITU SALIMA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908078&extension=ts&play_token=NkekYrRPAL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] HADRAT ALEUMDA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908079&extension=ts&play_token=fSZIAS5c6o
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] KHARIF EUMAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908092&extension=ts&play_token=Gah9KCm4GO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] ZIQAQ ALJINI
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908093&extension=ts&play_token=shu48SKLUg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] SATUHIM
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908080&extension=ts&play_token=zk9zFCfsiv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] SIRUH BATIE
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908081&extension=ts&play_token=KiBzTJQDGS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] SUQ ALKANTU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908082&extension=ts&play_token=8jVHQ0lPvi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] EUMLAT NADIRA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908083&extension=ts&play_token=tp4FZ8He1A
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] FANATAS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908084&extension=ts&play_token=2fxFMCmXph
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] QURAT EAYNIK
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908085&extension=ts&play_token=0e1OXzH0FQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR]  QAFAS MUKHMALIUN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908086&extension=ts&play_token=hilv8ToOfI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] MAJARIH
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908087&extension=ts&play_token=5gRIBmAehf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR] MURABAA ALEIZI
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908094&extension=ts&play_token=086HsIGhRJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="[AR] STARZPLAY",[AR]  MANZIL 12
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=908088&extension=ts&play_token=5ieWLKUzW6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="[AR] ARABIC NEWS",[AR] AL JAZERA SD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=680105&extension=ts&play_token=361IicxjBQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="[AR] ARABIC NEWS",[AR] AL JAZERA HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=674438&extension=ts&play_token=w9xMniVRkV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="[AR] ARABIC NEWS",[AR] AL JAZERA FHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=250187&extension=ts&play_token=HmNjs5K0ib
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="[AR] ARABIC NEWS",[AR] AL JAZERA MUBASHER
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=250166&extension=ts&play_token=joiQgEmw5b
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="[AR] ARABIC NEWS",[AR] AL JAZEERA ENGLISH
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=250176&extension=ts&play_token=LRgsjuT9eW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERADOCUMENTARY.png" group-title="[AR] ARABIC NEWS",[AR] AL JAZEERA DOCUMENTARY
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=250186&extension=ts&play_token=f0gFwOitTX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALJAZEERA.png" group-title="[AR] ARABIC NEWS",##### AR - NEWS #####
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=250152&extension=ts&play_token=RgnFB0vsso
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-CHANNEL.png" group-title="[NL] 4K NEDERLAND",4K | STAR CHANNEL
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=891548&extension=ts&play_token=oqyPxA2uN0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starmaa.jpg" group-title="[IN] TELUGU",[TLG] STAR MAA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281777&extension=ts&play_token=oC6xK0EirC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starmaa.jpg" group-title="[IN] TELUGU",[TLG] STAR MAA MOVIES UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281778&extension=ts&play_token=5wTUTwl78W
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starmaa.jpg" group-title="[IN] TELUGU",[TLG] STAR MAA GOLD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281779&extension=ts&play_token=7T1GyfGKpE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetelugu.jpg" group-title="[IN] TELUGU",[TLG] ZEE TELUGU UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281780&extension=ts&play_token=ecbIrMmHY1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecinemalu.jpg" group-title="[IN] TELUGU",[TLG] ZEE CINEMALU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281803&extension=ts&play_token=fWUdXw46Gu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/ZEEALWAN.png" group-title="[AR] ROTANA",[AR] ZEE ALWAN
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=457171&extension=ts&play_token=wMeTTZIHUS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/ZEEAFLAM.png" group-title="[AR] ROTANA",[AR] ZEE AFLAM
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=457172&extension=ts&play_token=9328Zm3RaR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPORT-5-STARS.png" group-title="[IS] ISRAEL",[IS] SPORT 5 STARS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=260756&extension=ts&play_token=aWhBwyw00S
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cmorestars.png" group-title="[DK] DENMARK FHD",[DK] C MORE STARS HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=494011&extension=ts&play_token=D6N5fx6VwE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NOVA-STAR.png" group-title="[GR] CINEMA",[GR] NOVA STARS HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=754281&extension=ts&play_token=c0YIXvALr8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/A-PLUS.png" group-title="[PK] PAKISTAN",[PAK] APLUS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842727&extension=ts&play_token=RpMD2lkTWu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/BABYTVHDi.png" group-title="[PK] PAKISTAN",[PAK] BABY TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842734&extension=ts&play_token=w9INGUPVe5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/LTNFAMILY.png" group-title="[PK] PAKISTAN",[PAK] LTN FAMILY
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842730&extension=ts&play_token=sFvfMOYyI0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/PTV.png" group-title="[PK] PAKISTAN",[PAK] PTV WORLD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842718&extension=ts&play_token=ECWYCTDg2O
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/WASEB-2.png" group-title="[PK] PAKISTAN",[PAK] WASEB TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=842732&extension=ts&play_token=bK6Qi228Pz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPAIN.png" group-title="[ES] M.PELICULAS",##### MOVISTAR PELICULAS #####
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=761390&extension=ts&play_token=LvUdj2yg0y
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2022 1
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723891&extension=ts&play_token=AcV7IgCA9J
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2022 2
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723892&extension=ts&play_token=zpVdNQ3Ffn
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2022 3
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723893&extension=ts&play_token=9iEkX4lBu1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2021 1
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723881&extension=ts&play_token=mE1OLGdPoB
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2021 2
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723882&extension=ts&play_token=lS27lZufwM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2021 3
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723883&extension=ts&play_token=d6vs48gzNH
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2021 4
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723884&extension=ts&play_token=Ac7aGBaI5B
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2021 5
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723885&extension=ts&play_token=80sNzER4xk
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2021 6
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723886&extension=ts&play_token=uMxu7pyInx
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2021 7
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723887&extension=ts&play_token=hZj6Yt6x3F
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2021 8
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723888&extension=ts&play_token=9m1kGvEzDq
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2021 9
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723889&extension=ts&play_token=gfKp0VR2TM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2021 10
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723890&extension=ts&play_token=rh5xaXuRDO
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2020 1
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723876&extension=ts&play_token=z39NVClG5z
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2020 2
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723877&extension=ts&play_token=tR1XIUWq3H
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2020 3
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723878&extension=ts&play_token=js5CtPNaLl
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2020 4
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723879&extension=ts&play_token=DgYXQAjO1n
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR 2020 5
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723880&extension=ts&play_token=sXsuIMfp7W
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] M PELICULAS 1
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723870&extension=ts&play_token=lGOvDjTNPY
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] M PELICULAS 2
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723871&extension=ts&play_token=jBGtdcY4KN
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] M PELICULAS 3
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723872&extension=ts&play_token=cMzVxFhTv0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] M PELICULAS 6
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723875&extension=ts&play_token=Iq2Xq0kJNH
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] M PELICULAS 4
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723873&extension=ts&play_token=85SjdCODdU
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] M PELICULAS 5
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723874&extension=ts&play_token=gibpvN49Z1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR NINOS 1
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723894&extension=ts&play_token=2sDrMxtHZY
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR NINOS 2
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723895&extension=ts&play_token=6xrpflJEwj
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR NINOS 3
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723896&extension=ts&play_token=lHnISno4SG
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="[ES] M.PELICULAS",[ES] MOVISTAR NINOS 4
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=723897&extension=ts&play_token=gitqHJNZoa
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/antenastars.png" group-title="[RO] ROMANIA",[RO] ANTENA STARS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262302&extension=ts&play_token=VjkYCItZqp
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/antenastars.png" group-title="[RO] ROMANIA",[RO] ANTENA STARS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=262301&extension=ts&play_token=Rp6jzEPybV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetamil.jpg" group-title="[IN] TAMIL",[TAM] ZEE TAMIL UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281564&extension=ts&play_token=dT4nWZGK0z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetamil.jpg" group-title="[IN] TAMIL",[TAM] ZEE TAMIL SD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281565&extension=ts&play_token=vqcyYZLNXq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starvijay.png" group-title="[IN] TAMIL",[TAM] STAR VIJAY UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281567&extension=ts&play_token=q2XTuB9ZL0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorshd.png" group-title="[IN] TAMIL",[TAM] COLORS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281572&extension=ts&play_token=eVCFkHr2nD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-THIRAI.png" group-title="[IN] TAMIL",[TAM] ZEE THIRAI
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281623&extension=ts&play_token=P2Q8BsNy9i
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/omroepzeeland.png" group-title="[NL] 8K NEDERLAND",8K | OMROEP ZEELAND
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=945457&extension=ts&play_token=ldc3NWSKj5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ahl.png" group-title="[CA] AHL",[CA] TEXAS STARS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=991075&extension=ts&play_token=qupMoFJr3N
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cmorestars.png" group-title="[NO] NORWAY FHD",[NOR] C MORE STARS HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=494142&extension=ts&play_token=HDJyelmUp1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/TV4-STARS.png" group-title="[SW] SWEDEN FHD",[SE] TV4 STARS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=493849&extension=ts&play_token=LK7isrdrzt
-#EXTINF:-1 tvg-logo="" group-title="[IN] INDIA ENGLISH",##### INDIA ENGLISH #####
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281641&extension=ts&play_token=oxsgJyWxRD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/AND_PRIVE_HD.png" group-title="[IN] INDIA ENGLISH",[ENG] AND PRIVE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281642&extension=ts&play_token=xQMRf4zMdr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starmovies.png" group-title="[IN] INDIA ENGLISH",[ENG] STAR MOVIES UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281643&extension=ts&play_token=qagQSPMnOa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="[IN] INDIA ENGLISH",[ENG] STAR MOVIES SELECT UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281644&extension=ts&play_token=2nKMmed95F
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TATA-SKY.png" group-title="[IN] INDIA ENGLISH",[ENG] TATA SKY WORLD CINEMA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281647&extension=ts&play_token=PCR6bQdAt3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TLC-WORLD-HD.jpg" group-title="[IN] INDIA ENGLISH",[ENG] TLC WORLD UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281648&extension=ts&play_token=VrZkAjal8K
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/travelxp.png" group-title="[IN] INDIA ENGLISH",[ENG] TRAVEL XP UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281649&extension=ts&play_token=gZCWMqoAyU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-INFINITY-HD.png" group-title="[IN] INDIA ENGLISH",[ENG] COLORS INFINITY UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281650&extension=ts&play_token=tWYEi57glm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/hbohd.png" group-title="[IN] INDIA ENGLISH",[ENG] HBO UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281651&extension=ts&play_token=7l8pRSnsm9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aljazeerahd.png" group-title="[IN] INDIA ENGLISH",[ENG] ALJAZEERA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281652&extension=ts&play_token=joPLBv2SRP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/animalplanethd.png" group-title="[IN] INDIA ENGLISH",[ENG] ANIMAL PLANET UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281653&extension=ts&play_token=YRUr6YTXJZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/bbcearthhd.png" group-title="[IN] INDIA ENGLISH",[ENG] BBC EARTH UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281655&extension=ts&play_token=2Ok035SqiH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CNN.jpg" group-title="[IN] INDIA ENGLISH",[ENG] CNN NEWS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281656&extension=ts&play_token=2UrzjhJO17
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/comedycentralhd.png" group-title="[IN] INDIA ENGLISH",[ENG] COMEDY CENTRAL UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281657&extension=ts&play_token=ymv65E1sVE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.Discovery_kids.png" group-title="[IN] INDIA ENGLISH",[ENG] DISCOVERY KIDS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281658&extension=ts&play_token=Rlzu4kM7sJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.Discovery_Turbo.png" group-title="[IN] INDIA ENGLISH",[ENG] DISCOVERY TURBO
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281660&extension=ts&play_token=hokVf6NUOT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.Discovery_world_hd.png" group-title="[IN] INDIA ENGLISH",[ENG] DISCOVERY WORLD UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281661&extension=ts&play_token=X6NRGA2bEj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/foxlifehd.png" group-title="[IN] INDIA ENGLISH",[ENG] FOX LIFE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281662&extension=ts&play_token=7xoiuuTEjs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/history.png" group-title="[IN] INDIA ENGLISH",[ENG] HISTORY TV 18 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281663&extension=ts&play_token=S2SvwCINJv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-TODAY.png" group-title="[IN] INDIA ENGLISH",[ENG] INDIA TODAY
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281664&extension=ts&play_token=4lyU6c8dZ2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/natgeohd.png" group-title="[IN] INDIA ENGLISH",[ENG] NATGEO ENGLISH UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281665&extension=ts&play_token=ZxER9NJ5Lz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/natgeowildhd.png" group-title="[IN] INDIA ENGLISH",[ENG] NAT GEO WILD UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281666&extension=ts&play_token=ZWe3lQt3PD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Romedy_Now_HD.png" group-title="[IN] INDIA ENGLISH",[ENG] ROMEDY NOW UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281667&extension=ts&play_token=G811MjZ9LT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/VH1-HD.jpg" group-title="[IN] INDIA ENGLISH",[ENG] VH1 UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281668&extension=ts&play_token=Me9QB3EBC5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecafe.png" group-title="[IN] INDIA ENGLISH",[ENG] ZEE CAFE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281669&extension=ts&play_token=a7oT7qx869
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/and-flix.png" group-title="[IN] INDIA ENGLISH",[ENG] AND FLIX UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843901&extension=ts&play_token=FcfqojEOKC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cartoonnetwork.png" group-title="[IN] INDIA ENGLISH",[ENG] CARTOON NETWORK
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841549&extension=ts&play_token=IFMq1d62el
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/cnbc-tv18.png" group-title="[IN] INDIA ENGLISH",[ENG] CNBC PRIME UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843895&extension=ts&play_token=nBSRLNGwP0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/d2h.jpg" group-title="[IN] INDIA ENGLISH",[ENG] D2H RHYMIS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841539&extension=ts&play_token=nQfaEecFtJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/disneyinenglish.png" group-title="[IN] INDIA ENGLISH",[ENG] DISNEY INTER
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841540&extension=ts&play_token=bmqqbM7cHI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/hopetv.png" group-title="[IN] INDIA ENGLISH",[ENG]  HOPE TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841544&extension=ts&play_token=aB7aT7P7VU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/NATIONALGEOGRAPHICHD.png" group-title="[IN] INDIA ENGLISH",[ENG] NAT GEO UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843898&extension=ts&play_token=JPGbAYXS98
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/in.NDTV_24X7.png" group-title="[IN] INDIA ENGLISH",[ENG] NDTV 24x7
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841543&extension=ts&play_token=BtmUDS4AJy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NDTV-PROFIT.jpeg" group-title="[IN] INDIA ENGLISH",[ENG] NDTV PROFIT
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841551&extension=ts&play_token=fSqFEFPRJb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NEWS-X.jpg" group-title="[IN] INDIA ENGLISH",[ENG] NEWS X
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841542&extension=ts&play_token=SbbxHzvWEk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NICK-JR-HD.png" group-title="[IN] INDIA ENGLISH",[ENG] NICK
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841552&extension=ts&play_token=An3ZdG7vLV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/sony-pix.png" group-title="[IN] INDIA ENGLISH",[ENG] SONY PIX UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843899&extension=ts&play_token=SCJU3YOjXF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/TIMESNOWNEWSHD.png" group-title="[IN] INDIA ENGLISH",[ENG] TIMES NOW UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843902&extension=ts&play_token=N1WGjCTJQx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/TLCHDWORLD.png" group-title="[IN] INDIA ENGLISH",[ENG] TLC UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=843900&extension=ts&play_token=tBLZgnkOIZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TS-HITS.png" group-title="[IN] INDIA ENGLISH",[ENG] TS HITS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=841538&extension=ts&play_token=vY9yZVCeu2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/logos/premiumplus.png" group-title="[SU] SURINAME",[SU] PREMIUM+ BORN TO BE A STAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=631079&extension=ts&play_token=BB3IMhEmbq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/logos/premiumplus.png" group-title="[SU] SURINAME",[SU] PREMIUM+ INDIANS ABROAD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=631077&extension=ts&play_token=uUbdDbdkKw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/pr.movistar_deportes.png" group-title="[PER] PERU",[PER] MOVISTAR DEPORTES
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=265254&extension=ts&play_token=B84PrlEUXf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesstars.png" group-title="[TR] TURKEY | SINEMA",[TR] BEIN MOVIES STARS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=259986&extension=ts&play_token=OnIWPWHbaT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/beinmoviesstars.png" group-title="[TR] TURKEY | SINEMA",[TR] BEIN MOVIES STARS HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=259987&extension=ts&play_token=p7FUk1buJv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-CHANNEL.png" group-title="[BU] BULGARIA",[BG] FOX
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=263431&extension=ts&play_token=sd5pYNacLU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-CRIME.png" group-title="[BU] BULGARIA",[BG] FOX CRIME
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=263432&extension=ts&play_token=Ocga0WZsbS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-CRIME.png" group-title="[BU] BULGARIA",[BG] FOX CRIME UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=263433&extension=ts&play_token=qAsKT74Dgj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-LIFE.png" group-title="[BU] BULGARIA",[BG] FOX LIFE
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=263434&extension=ts&play_token=qSiWhPwgUh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-LIFE.png" group-title="[BU] BULGARIA",[BG] FOX LIFE UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=263435&extension=ts&play_token=SX3zeVAihT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MOVIE-STAR-HD.png" group-title="[BU] BULGARIA",[BG] MOVIE STAR
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=263457&extension=ts&play_token=ua0erQzbj4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MOVIE-STAR-HD.png" group-title="[BU] BULGARIA",[BG] MOVIE STAR FULL UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=263458&extension=ts&play_token=9hXA5TVw2x
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/tracesportstars.png" group-title="[BU] BULGARIA",[BG] TRACE SPORT STARS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=263494&extension=ts&play_token=2DsJAtdo0z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/tracesportstarshd.png" group-title="[BU] BULGARIA",[BG] TRACE SPORT STARS UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=263495&extension=ts&play_token=BHGeEcfFuz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/filmboxstars.png" group-title="[HU] HUNGARIA",HU - FILMBOX STARS HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=1199124&extension=ts&play_token=Z4lsU1vOII
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/starchannel.png" group-title="[ES] ESPAÑA 4K",[ES] FOX HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=612179&extension=ts&play_token=0uUHF6ZhI5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/starchannel.png" group-title="[ES] ESPAÑA 4K",[ES] FOX HEVC
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=612180&extension=ts&play_token=RCDvC5El63
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/INDIANA-JONES.png" group-title="[IT] CINEMA",[IT] INDIANA JONES CHANNEL UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=602010&extension=ts&play_token=MrecR5Whfx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/STAR-WARS-CHANNEL.png" group-title="[IT] CINEMA",[IT] STAR WARS CHANNEL UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=601999&extension=ts&play_token=9Z4KI7NCAJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-HD.jpeg" group-title="[IN] BANGLA",[BGL] ZEE BANGLA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281671&extension=ts&play_token=GYcvdFKQSZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-CINEMA.png" group-title="[IN] BANGLA",[BGL] ZEE BANGLA CINEMA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281673&extension=ts&play_token=0sTA5J10av
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-JALSHA-MOVIES-HD.png" group-title="[IN] BANGLA",[BGL] STAR JALSHA MOVIES UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281674&extension=ts&play_token=EgiiBWv6p2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starjalsha.png" group-title="[IN] BANGLA",[BGL] STAR JALSHA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281675&extension=ts&play_token=xSx5ZiRuyr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-BANGLA-HD.jpeg" group-title="[IN] BANGLA",[BGL] COLORS BANGLA UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281676&extension=ts&play_token=glqqzka3TD
-#EXTINF:-1 tvg-logo="" group-title="[IN] INDIA - EUROPE",##### INDIA EU-TIME #####
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281249&extension=ts&play_token=4VzM8jLw5w
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starplus.png" group-title="[IN] INDIA - EUROPE",[IN] UTSAV PLUS
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281250&extension=ts&play_token=J63OVnFZq0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UTSAV-GOLD.jpg" group-title="[IN] INDIA - EUROPE",[IN] UTSAV GOLD EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=737089&extension=ts&play_token=BCdEl5hLSv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetv.png" group-title="[IN] INDIA - EUROPE",[IN] ZEE TV EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281251&extension=ts&play_token=L4vKx0OvO0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecinema.png" group-title="[IN] INDIA - EUROPE",[IN] ZEE CINEMA EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281252&extension=ts&play_token=BDj03UYiTU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zeeclassic.jpg" group-title="[IN] INDIA - EUROPE",[IN] ZEE CLASSIC EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=737058&extension=ts&play_token=bx1Z3OSpWP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.stargold.png" group-title="[IN] INDIA - EUROPE",[IN] STAR GOLD EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281254&extension=ts&play_token=OPt2IMTGsG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonytv.png" group-title="[IN] INDIA - EUROPE",[IN] SONY TV EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281253&extension=ts&play_token=UXDubtttRo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.zing.png" group-title="[IN] INDIA - EUROPE",[IN] ZING EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281255&extension=ts&play_token=g49kPzztR5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.colors.png" group-title="[IN] INDIA - EUROPE",[IN] COLORS EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281256&extension=ts&play_token=Nayvqnxyfm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/b4umusic.png" group-title="[IN] INDIA - EUROPE",[IN] B4U MOVIES EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281257&extension=ts&play_token=75zIYSDqoM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/b4umusic.png" group-title="[IN] INDIA - EUROPE",[IN] B4U MUSIC EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281258&extension=ts&play_token=fc4HupFNsB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/b4uplus.png" group-title="[IN] INDIA - EUROPE",[IN] B4U PLUS EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281259&extension=ts&play_token=ZomQckO63E
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starbharat.png" group-title="[IN] INDIA - EUROPE",[IN] STAR BHARAT EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281260&extension=ts&play_token=5ERLc8FD79
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/REPUBLIC-BHARAT.jpg" group-title="[IN] INDIA - EUROPE",[IN] REPUBLIC BHARAT EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281261&extension=ts&play_token=ZqNZDYkXU8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/in.britasiatv.png" group-title="[IN] INDIA - EUROPE",[IN] BRIT ASIA TV EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281262&extension=ts&play_token=0pjEfDEFOH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonymax.png" group-title="[IN] INDIA - EUROPE",[IN] SONY MAX EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281263&extension=ts&play_token=527ty6kn6P
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonymax2.png" group-title="[IN] INDIA - EUROPE",[IN] SONY MAX 2 EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281264&extension=ts&play_token=0UCWi2I5NE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sonysab.png" group-title="[IN] INDIA - EUROPE",[IN] SONY SAB EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281265&extension=ts&play_token=Y7PCKvTN6u
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ktv.png" group-title="[IN] INDIA - EUROPE",[IN] KTV EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281266&extension=ts&play_token=xoODmvA0v3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorsrishtey.png" group-title="[IN] INDIA - EUROPE",[IN] COLORS RISHTEY EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281268&extension=ts&play_token=Rb3AjH3xZO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorscineplex.png" group-title="[IN] INDIA - EUROPE",[IN] COLORS CINEPLEX EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281269&extension=ts&play_token=7Rp6YELR5m
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/foodxp.png" group-title="[IN] INDIA - EUROPE",[IN] FOODXP EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281271&extension=ts&play_token=H56Yw7OXkD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/matvnational.png" group-title="[IN] INDIA - EUROPE",[IN] MATV NATIONAL EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281272&extension=ts&play_token=zGGT2RkkI9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/news18india.png" group-title="[IN] INDIA - EUROPE",[IN] NEWS18 EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281273&extension=ts&play_token=mLvPbp9RFM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sanskar.png" group-title="[IN] INDIA - EUROPE",[IN] SANSKAR EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281274&extension=ts&play_token=Hy3fxkHorB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/travelxphdbnl.png" group-title="[IN] INDIA - EUROPE",[IN] TRAVELXP EU
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=281275&extension=ts&play_token=lAE2MGmSyn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zeetv.png" group-title="[IN] INDIA - EUROPE",[IN] ZEE TV UK
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765266&extension=ts&play_token=a93Kjd8Pea
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/in.starplus.png" group-title="[IN] INDIA - EUROPE",[IN] STAR PLUS UK
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765267&extension=ts&play_token=dQw11khqej
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AAPKA-COLORS.png" group-title="[IN] INDIA - EUROPE",[IN] AAPKA COLORS HD USA
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=765268&extension=ts&play_token=EvXlxqEZaN
-#EXTINF:-1 tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="[IN] INDIA - EUROPE",[IN] WION TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=744341&extension=ts&play_token=nuyYYoJBqU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STAR-CHANNEL.png" group-title="[NL] ENTERTAINMENT",[NL] FOX HD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=891399&extension=ts&play_token=l0IRm27hqP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-PLUS-TV-SHKODER.png" group-title="[ALB] GENERAL",[ALB] STAR PLUS SHKODËR UHD
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=261989&extension=ts&play_token=GPkPTGpr8V
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetv.png" group-title="[RU] RUSSIA",[RUS] ZEE TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=293565&extension=ts&play_token=C5uEMPrAcI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/START-TV--.png" group-title="[RU] RUSSIA",[RUS] START TV
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:55:75:C1&stream=663330&extension=ts&play_token=cHQzXUcJrI
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rusyabayrak.jpg" group-title="RUS - ROSSIYA",(RU) Zee TV HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=55850&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Star Tv 4K
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=2855&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Star Tv HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=2854&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurostartr.png" group-title="TR - ULUSAL ⁴ᵏ",(TR) Euro Star
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=2987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-states-of-america.png" group-title="USA : AMERICA",(US) Starz Comedy HD+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47287&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-states-of-america.png" group-title="USA : AMERICA",(US) Starz Edge HD+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47310&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Star Tv ᵘˡᵗʳᵃ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=182947&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG - SPORT",(BG) Trace Sport Stars HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56278&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/colorshd.png" group-title="UK - ENGLISH",(UK) Colors
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=38205&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="UK - ENGLISH",(UK) Al Jazeera News 4K+ UK
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=38430&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Star Jalsha
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46568&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Zee Bangla Cinema
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46570&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Zee Bangla HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46571&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_stars_hd.png" group-title="SW : SWEDEN",(SW) TV4 Stars HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39068&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cstar.png" group-title="FR - FRANCE",(FR) Cstar HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=37815&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Star Wars
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=144867&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png" group-title="PL - POLSKA",(PL) STARS.TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=51395&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/norway.png" group-title="SC : DENMARK:NORWAY",(NO) C More Stars 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=44896&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/denmark.png" group-title="SC : DENMARK:NORWAY",(DK) C More Stars HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41857&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-bosna.png" group-title="BH : BOSNIA",(BH) Al Jazeera Balkans
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=100491&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kroatie.png" group-title="HR : HRVATSKA",(HR) Al Jazeera Balkans
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39597&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR : ARABIC NA +6H",(AR) ZEE ALWAN +6H
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=152809&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR : ARABIC NA +6H",(AR) ZEE AFLAM +6H
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=152808&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/osnmovieshd.png" group-title="AR : CINEMA",(AR) OSN Star Movies
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41839&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax.png" group-title="AR : CINEMA",(AR) Star Cinema 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41760&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax2hd.png" group-title="AR : CINEMA",(AR) Star Cinema 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41759&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) Star Lite 
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=183794&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) STAR ASIA NEWS 
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=183792&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PK : PAAKİSTAN",(PK) STAR SPORTS TAMIL VIP 
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=183764&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/omroepzeeland.png" group-title="NL - REGIONAAL",(NL) Omroep Zeeland
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=78292&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/romania.png" group-title="RO : ROMAINE",(RO) Antena Stars
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=31376&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/romania.png" group-title="RO : ROMAINE",(RO) Telestar 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=121934&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/finland.png" group-title="FI : FINLAND",(FI) C More Stars 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=89609&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : ARABIC",(AR) Zee Aflam
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=42119&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : ARABIC",(AR) Zee Alwan
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41700&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeeradocumentary.png" group-title="AR : ARABIC",(AR) Al Jazeera Documentary
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41711&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="AR : ARABIC",(AR) Al JAZEERA ENGLISH
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41721&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeera.png" group-title="AR : ARABIC",(AR) Al Jazeera Mubasher
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41712&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/aljazeerachannelqahd.png" group-title="AR : ARABIC",(AR) Al Jazeera
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=41722&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="NL - NEDERLAND ʰᵉᵛᶜ",(NL) STAR CHANNEL HEVC
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=151274&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="NL - NEDERLAND ᵘˡᵗʳᵃ",(NL)⚡️STAR CHANNEL ᵘˡᵗʳᵃ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=184211&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarComedia.es.png" group-title="ES : CINE",(ES) Movistar Comedia HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30240&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarEstrenos.es.png" group-title="ES : CINE",(ES) Movistar Estrenos HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30238&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarAccion.es.png" group-title="ES : CINE",(ES) Movistar Action HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30241&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarDCine.es.png" group-title="ES : CINE",(ES) Movistar Drama HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30239&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/MovistarSeries.es.png" group-title="ES : CINE",(ES) Movistar Series HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=30237&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Action
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39679&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Premiere 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39678&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Flag_of_Serbia.png" group-title="RS : SRBIJA",(RS) Cinestar TV Premiere 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39677&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/starchannelgr.png" group-title="GR - GREECE",(GR) Star HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=46558&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",✦✦✦✦ INDIA ✦✦✦✦
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=47815&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee TV HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40024&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Action
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40023&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Cinema HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40025&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Punjabi
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40027&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee News HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39949&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Bangla Cinema
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39954&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Bollywood HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40026&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zee Talkies
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40028&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) SET ASIA
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=78299&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) NDTV 24x7
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39976&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Living Foodz
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39980&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 1 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39960&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 2 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39959&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Ten 3 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39958&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Music
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40032&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Plus
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40033&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Movies
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40031&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) UTV Movies
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40022&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Jaya Movies
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39983&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Plus HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40009&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Jalsha
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40017&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Gold
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39966&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Vijay
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39961&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Sports 1 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39965&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Star Sports 2 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40019&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) PTV Sports
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39975&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony TV HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40008&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony TV UK
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony MIX HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40014&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Pal
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39969&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Sab HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40015&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Sony Six HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39967&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Colors IN HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40034&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Zing 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39939&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Rishtey Colors
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40005&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Geo News
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40042&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Jaya TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40002&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Aaj Tak
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39994&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) 9X Jalwa
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39997&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Colors UK
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39998&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) 9XM
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39995&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) PTC Punjabi
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40000&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Geo TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40040&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) MAA Gold
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39979&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Times Now
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39956&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) Willow Cricket HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=39955&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-india.png" group-title="İN : BHAARAT",(IN) B4U Kadak
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=40038&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviesstarshd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Stars 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=3039&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLigaTVBAR 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=121009&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=121005&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 3 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=120897&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="ES : ESPAŇA",(ES) Movistar LaLiga 2 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=120896&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG - FILM",(BG) MovieStar
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56243&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR : EGYPT",(AR) STAR CINEMA 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=167608&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : EGYPT",(AR) Star Cinema 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=154231&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : EGYPT",(AR) Star Cinema 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=154230&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Daystar HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157326&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Al Jazeera HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157315&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Star Life HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157297&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AF : AFRİCA",(AF) Zee World HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=157296&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/Albania/star_plus_al.png" group-title="AL/KS : SHQIPERIA/KOSOVA",(AL) Star Plus 4K++
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=105065&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Deportes 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56336&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Formula 1 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56337&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Liga de Campeones 4K+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56334&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/spain.png" group-title="ES : DEPORTE",(ES) Movistar Golf HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=56338&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/flag-albania.png" group-title="AL : CİNEMA",(AL) Star Plus HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:6F:1F:38&stream=50517&extension=ts
